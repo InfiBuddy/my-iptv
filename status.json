@@ -1,0 +1,184 @@
+{
+  "updated": "2026-10-18T16:28:21+00:00",
+  "channels": 28,
+  "missing_upstream": [
+    "WION.in@SD"
+  ],
+  "unreachable_from_github": [
+    "AajTak.in@SD",
+    "CNNNews18.in@SD",
+    "News24.in@SD",
+    "NewsX.in@SD",
+    "TimesNow.in@SD"
+  ],
+  "detail": [
+    {
+      "key": "AajTak.in@SD",
+      "name": "Aaj Tak",
+      "streams_available": 1,
+      "best_stream_ok": false
+    },
+    {
+      "key": "ABPNews.in@SD",
+      "name": "ABP News",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "ABPAsmita.in@SD",
+      "name": "ABP Asmita",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "CNNNews18.in@SD",
+      "name": "CNN News 18",
+      "streams_available": 1,
+      "best_stream_ok": false
+    },
+    {
+      "key": "DDNews.in@SD",
+      "name": "DD News",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "GSTV.in@SD",
+      "name": "GS TV",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "GujaratFirst.in@SD",
+      "name": "Gujarat First",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "IndiaToday.in@SD",
+      "name": "India Today",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "IndiaTV.in@SD",
+      "name": "India TV",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "MirrorNow.in@SD",
+      "name": "Mirror Now",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "NDTV24x7.in@SD",
+      "name": "NDTV 24x7",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "NDTVIndia.in@SD",
+      "name": "NDTV India",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "News18Gujarati.in@SD",
+      "name": "News18 Gujarati",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "News18India.in@SD",
+      "name": "News18 India",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "News24.in@SD",
+      "name": "News 24 (India)",
+      "streams_available": 1,
+      "best_stream_ok": false
+    },
+    {
+      "key": "NewsCapitalGujarat.in@SD",
+      "name": "News Capital Gujarat",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "NewsNation.in@SD",
+      "name": "News Nation",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "NewsX.in@SD",
+      "name": "NewsX",
+      "streams_available": 1,
+      "best_stream_ok": false
+    },
+    {
+      "key": "RepublicBharat.in@SD",
+      "name": "Republic Bharat",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "RepublicTV.in@SD",
+      "name": "Republic TV",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "SandeshNews.in@SD",
+      "name": "Sandesh News",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "TimesNow.in@SD",
+      "name": "Times Now",
+      "streams_available": 1,
+      "best_stream_ok": false
+    },
+    {
+      "key": "TimesNowNavbharat.in@SD",
+      "name": "Times Now Navbharat",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "TV9Bharatvarsh.in@SD",
+      "name": "TV9 Bharatvarsh",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "TV9Gujarati.in@SD",
+      "name": "TV9 Gujarati",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "VTVNews.in@SD",
+      "name": "VTV News",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "Zee24Kalak.in@SD",
+      "name": "Zee 24 Kalak",
+      "streams_available": 1,
+      "best_stream_ok": true
+    },
+    {
+      "key": "ZeeNews.in@SD",
+      "name": "Zee News",
+      "streams_available": 1,
+      "best_stream_ok": true
+    }
+  ]
+}
