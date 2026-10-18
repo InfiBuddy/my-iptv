@@ -1,0 +1,41 @@
+{
+  "sources": [
+    "https://iptv-org.github.io/iptv/countries/in.m3u"
+  ],
+  "options": {
+    "streams_per_channel": 1,
+    "check_streams": true,
+    "clean_names": true
+  },
+  "keep": [
+    "AajTak.in@SD",
+    "ABPNews.in@SD",
+    "ABPAsmita.in@SD",
+    "CNNNews18.in@SD",
+    "DDNews.in@SD",
+    "GSTV.in@SD",
+    "GujaratFirst.in@SD",
+    "IndiaToday.in@SD",
+    "IndiaTV.in@SD",
+    "MirrorNow.in@SD",
+    "NDTV24x7.in@SD",
+    "NDTVIndia.in@SD",
+    "News18Gujarati.in@SD",
+    "News18India.in@SD",
+    "News24.in@SD",
+    "NewsCapitalGujarat.in@SD",
+    "NewsNation.in@SD",
+    "NewsX.in@SD",
+    "RepublicBharat.in@SD",
+    "RepublicTV.in@SD",
+    "SandeshNews.in@SD",
+    "TimesNow.in@SD",
+    "TimesNowNavbharat.in@SD",
+    "TV9Bharatvarsh.in@SD",
+    "TV9Gujarati.in@SD",
+    "VTVNews.in@SD",
+    "WION.in@SD",
+    "Zee24Kalak.in@SD",
+    "ZeeNews.in@SD"
+  ]
+}

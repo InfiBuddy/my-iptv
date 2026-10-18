@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Channel Picker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: sticky toolbar over a two-column workspace — channel list left, playlist panel right; stacks on phones. */
+:root{
+  --bg:#f5f6f4; --surface:#ffffff; --ink:#1c2321; --muted:#5d6864; --line:#dde2df;
+  --accent:#c2410c; --accent-ink:#ffffff; --keep:#1f7a4d; --warn:#a15c00; --drop:#9aa39f;
+  --font-body:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#141917; --surface:#1c2220; --ink:#e7ece9; --muted:#9aa6a1; --line:#2c3431;
+  --accent:#f0814a; --accent-ink:#1a0d05; --keep:#4cc08a; --warn:#e2a54a; --drop:#5d6864; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#141917; --surface:#1c2220; --ink:#e7ece9; --muted:#9aa6a1; --line:#2c3431;
+  --accent:#f0814a; --accent-ink:#1a0d05; --keep:#4cc08a; --warn:#e2a54a; --drop:#5d6864; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--font-body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 40px}
+h1,h2,h3{text-wrap:balance;margin:0}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.mono{font-family:var(--font-mono);font-size:12px}
+header.top{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 16px;padding-block:20px 12px}
+header.top h1{font-size:22px}
+header.top p{margin:0;color:var(--muted)}
+.sources{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:start;margin-bottom:12px}
+.sources textarea{width:100%;min-height:44px;resize:vertical;border:1px solid var(--line);background:var(--surface);border-radius:6px;padding:8px 10px;font-family:var(--font-mono);font-size:12.5px}
+.sources .btns{display:flex;flex-direction:column;gap:6px}
+.btn{border:1px solid var(--line);background:var(--surface);border-radius:6px;padding:7px 12px;cursor:pointer;white-space:nowrap}
+.btn:hover{border-color:var(--muted)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:700}
+.btn.small{padding:4px 9px;font-size:13px}
+.toolbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding-block:8px;border-bottom:1px solid var(--line)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.toolbar input[type=search]{flex:1 1 220px;min-width:0;border:1px solid var(--line);background:var(--surface);border-radius:6px;padding:7px 10px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.seg button{border:0;background:var(--surface);padding:6px 10px;cursor:pointer;font-size:13px}
+.seg button[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+.work{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:20px;margin-top:14px;align-items:start}
+@media (max-width:860px){.work{grid-template-columns:minmax(0,1fr)}}
+.status{color:var(--muted);font-size:13px;min-height:20px}
+.status.err{color:var(--accent)}
+.group{border:1px solid var(--line);background:var(--surface);border-radius:8px;margin-bottom:10px;overflow:hidden}
+.ghead{display:flex;align-items:center;gap:10px;padding:10px 12px;cursor:pointer;user-select:none}
+.ghead h3{font-size:15px;flex:1;min-width:0}
+.ghead .count{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px}
+.caret{width:14px;transition:transform .15s;color:var(--muted)}
+.group.closed .caret{transform:rotate(-90deg)}
+.group.closed .rows{display:none}
+.rows{border-top:1px solid var(--line)}
+.row{display:grid;grid-template-columns:auto 34px minmax(0,1fr) auto;gap:10px;align-items:center;padding:7px 12px;border-bottom:1px solid var(--line)}
+.row:last-child{border-bottom:0}
+.row.off{opacity:.55}
+.row.off .name{text-decoration:line-through;text-decoration-color:var(--drop)}
+.logo{width:34px;height:24px;object-fit:contain}
+.name{font-weight:700;overflow-wrap:anywhere}
+.id{color:var(--muted)}
+.badges{display:flex;gap:4px;flex-wrap:wrap;justify-content:flex-end}
+.b{font-size:11px;border:1px solid var(--line);border-radius:4px;padding:1px 6px;color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+.b.geo{color:var(--warn);border-color:var(--warn)}
+input[type=checkbox]{width:18px;height:18px;accent-color:var(--keep);cursor:pointer;margin:0}
+.panel{position:sticky;top:calc(env(safe-area-inset-top,0px) + 70px);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px;display:flex;flex-direction:column;gap:14px}
+@media (max-width:860px){.panel{position:static}}
+.panel h2{font-size:17px}
+.big{font-size:32px;font-weight:700;font-variant-numeric:tabular-nums;line-height:1}
+.big small{font-size:14px;color:var(--muted);font-weight:400}
+.field{display:flex;flex-direction:column;gap:4px;font-size:13px}
+.field>label:first-child{color:var(--muted);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
+.field input,.field select{border:1px solid var(--line);background:var(--bg);border-radius:6px;padding:6px 8px;min-width:0}
+.check{display:flex;gap:8px;align-items:center;font-size:14px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.btnrow{display:flex;flex-wrap:wrap;gap:6px}
+hr{border:0;border-top:1px solid var(--line);margin:0}
+.note{font-size:12.5px;color:var(--muted);margin:0}
+.urlbox{font-family:var(--font-mono);font-size:11.5px;background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:6px 8px;overflow-wrap:anywhere;user-select:all}
+.empty{padding:40px 12px;text-align:center;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){.caret{transition:none}}
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>Channel Picker</h1>
+  <p>Load one or more M3U playlists, untick what you don't watch, save. GitHub rebuilds your playlist and TV guide every 6 hours.</p>
+</header>
+
+<div class="sources">
+  <textarea id="src" spellcheck="false" aria-label="Playlist URLs, one per line">https://iptv-org.github.io/iptv/countries/in.m3u</textarea>
+  <div class="btns">
+    <button class="btn primary" id="load">Load playlists</button>
+    <label class="btn small" style="text-align:center">Open .m3u file<input id="file" type="file" accept=".m3u,.m3u8,.txt" hidden></label>
+  </div>
+</div>
+<div class="status" id="status" role="status"></div>
+
+<div class="toolbar">
+  <input type="search" id="q" placeholder="Search channel name or ID…" aria-label="Search channels">
+  <div class="seg" role="group" aria-label="Show">
+    <button data-view="all" aria-pressed="true">All</button>
+    <button data-view="kept" aria-pressed="false">Kept</button>
+    <button data-view="removed" aria-pressed="false">Removed</button>
+  </div>
+  <button class="btn small" id="keepVis">Keep shown</button>
+  <button class="btn small" id="dropVis">Remove shown</button>
+  <button class="btn small" id="toggleAll">Collapse all</button>
+</div>
+
+<div class="work">
+  <main id="list"><div class="empty">Loading playlist…</div></main>
+
+  <aside class="panel" aria-label="Your playlist">
+    <div>
+      <h2>Your playlist</h2>
+      <div class="big" id="kcount">0 <small>channels kept</small></div>
+    </div>
+    <div class="grid2">
+      <div class="field"><label for="spc">Streams per channel</label>
+        <select id="spc"><option value="1">1 (best)</option><option value="2">2 (1 backup)</option><option value="3">3 (2 backups)</option></select></div>
+      <div class="field"><label for="clean">Names</label>
+        <select id="clean"><option value="1">Clean (Aaj Tak)</option><option value="0">Original</option></select></div>
+    </div>
+    <label class="check"><input type="checkbox" id="chk" checked> Test streams on each update and prefer working ones</label>
+    <hr>
+    <div class="field">
+      <label>Save to your GitHub repo</label>
+      <div class="grid2">
+        <input id="ghOwner" placeholder="owner" aria-label="GitHub owner">
+        <input id="ghRepo" placeholder="repo" aria-label="Repository name">
+      </div>
+      <input id="ghBranch" placeholder="branch (main)" aria-label="Branch">
+      <input id="ghToken" type="password" placeholder="Fine-grained token (Contents: read & write)" aria-label="GitHub token" autocomplete="off">
+      <label class="check"><input type="checkbox" id="ghRemember"> Remember token in this browser</label>
+      <button class="btn primary" id="ghSave">Save selection to GitHub</button>
+    </div>
+    <div>
+      <p class="note" style="margin-bottom:4px">Add this URL in TV Mate as the playlist:</p>
+      <div class="urlbox" id="plUrl">Fill owner and repo above</div>
+    </div>
+    <hr>
+    <div class="btnrow">
+      <button class="btn small" id="copySel">Copy selection.json</button>
+      <button class="btn small" id="dlSel">Download selection.json</button>
+      <button class="btn small" id="dlM3u">Download playlist now</button>
+    </div>
+    <p class="note">"Download playlist now" is a one-off snapshot. The GitHub URL above is the one that stays up to date.</p>
+  </aside>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const store = {get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}}, del(k){try{localStorage.removeItem(k)}catch(e){}}};
+
+let channels = new Map();   // key -> {key,name,group,logo,streams:[...]}
+let kept = new Set();
+let keepOrder = [];         // preserves order from selection.json
+let view = 'all', closed = new Set(), loadedOnce = false;
+
+/* ---------- M3U parsing (same rules as scripts/m3u.py) ---------- */
+const ATTR = /([A-Za-z0-9_-]+)="([^"]*)"/g, QUAL = /\((\d{3,4})[pi]\)/, TAGS = /\[([^\]]+)\]/g;
+const cleanName = n => n.replace(/\(\d{3,4}[pi]\)/g,'').replace(/\[[^\]]*\]/g,'').replace(/\s+/g,' ').trim();
+const baseId = k => k.split('@')[0];
+
+function parse(text){
+  const out=[]; let cur=null, extra=[];
+  for (let line of text.split(/\r?\n/)){
+    line=line.trim();
+    if(!line || line.startsWith('#EXTM3U')) continue;
+    if(line.startsWith('#EXTINF:')){
+      const body=line.slice(8), attrs={};
+      for(const m of body.matchAll(ATTR)) attrs[m[1]]=m[2];
+      const left=body.replace(ATTR,''), i=left.indexOf(',');
+      cur={attrs, name: i>=0 ? left.slice(i+1).trim() : ''}; extra=[]; continue;
+    }
+    if(line.startsWith('#')){ if(cur) extra.push(line); continue; }
+    if(!cur) continue;
+    const q=cur.name.match(QUAL), tags=[...cur.name.matchAll(TAGS)].map(m=>m[1].trim());
+    const groups=(cur.attrs['group-title']||'').split(';').map(s=>s.trim()).filter(Boolean);
+    const tid=(cur.attrs['tvg-id']||'').trim();
+    out.push({...cur, url:line, extra, quality:q?+q[1]:0, tags, group:groups[0]||'Undefined',
+      key: tid || 'name:'+cleanName(cur.name).toLowerCase()});
+    cur=null; extra=[];
+  }
+  return out;
+}
+
+function ingest(entries){
+  for(const e of entries){
+    let c=channels.get(e.key);
+    if(!c){ c={key:e.key,name:cleanName(e.name)||e.name,group:e.group,logo:e.attrs['tvg-logo']||'',streams:[]}; channels.set(e.key,c); }
+    if(!c.streams.some(s=>s.url===e.url)) c.streams.push(e);
+    if(!c.logo && e.attrs['tvg-logo']) c.logo=e.attrs['tvg-logo'];
+  }
+}
+
+/* ---------- loading ---------- */
+async function loadSources(){
+  const urls=$('#src').value.split(/\s+/).map(s=>s.trim()).filter(Boolean);
+  channels=new Map(); let ok=0, errs=[];
+  setStatus('Loading '+urls.length+' playlist(s)…');
+  await Promise.all(urls.map(async u=>{
+    try{ const r=await fetch(u,{cache:'no-store'}); if(!r.ok) throw new Error('HTTP '+r.status); ingest(parse(await r.text())); ok++; }
+    catch(e){ errs.push(u+' ('+e.message+')'); }
+  }));
+  loadedOnce=true; persist(); render();
+  const total=[...channels.values()].reduce((a,c)=>a+c.streams.length,0);
+  setStatus(errs.length ? 'Could not load: '+errs.join(', ')+'. If this is a CORS error, download the file and use "Open .m3u file".' :
+    `Loaded ${channels.size} channels (${total} streams) from ${ok} playlist(s).`, !!errs.length);
+}
+function setStatus(t,err){ const s=$('#status'); s.textContent=t; s.className='status'+(err?' err':''); }
+
+$('#load').onclick=loadSources;
+$('#file').onchange=async e=>{ const f=e.target.files[0]; if(!f) return; channels=new Map(); ingest(parse(await f.text())); render(); setStatus(`Loaded ${channels.size} channels from ${f.name}.`); };
+
+/* ---------- selection state ---------- */
+function selection(){
+  const order=keepOrder.filter(k=>kept.has(k));
+  for(const c of channels.values()) if(kept.has(c.key) && !order.includes(c.key)) order.push(c.key);
+  for(const k of kept) if(!order.includes(k)) order.push(k);
+  return { sources: $('#src').value.split(/\s+/).filter(Boolean),
+    options:{ streams_per_channel:+$('#spc').value, check_streams:$('#chk').checked, clean_names:$('#clean').value==='1' },
+    keep: order };
+}
+function applySelection(s){
+  if(s.sources?.length) $('#src').value=s.sources.join('\n');
+  if(s.options){ $('#spc').value=String(s.options.streams_per_channel||1); $('#chk').checked=s.options.check_streams!==false; $('#clean').value=s.options.clean_names===false?'0':'1'; }
+  keepOrder=[...(s.keep||[])]; kept=new Set(keepOrder);
+}
+function persist(){ store.set('picker.selection', JSON.stringify(selection())); updatePanel(); }
+['spc','clean','chk'].forEach(id=>$('#'+id).addEventListener('change',persist));
+$('#src').addEventListener('change',persist);
+
+function isKept(c){ return kept.has(c.key) || (!c.key.startsWith('name:') && [...kept].some(k=>!channels.has(k) && baseId(k)===baseId(c.key))); }
+function setKept(key,on){ if(on){kept.add(key); if(!keepOrder.includes(key)) keepOrder.push(key);} else { kept.delete(key); for(const k of [...kept]) if(!channels.has(k)&&baseId(k)===baseId(key)) kept.delete(k);} }
+
+/* ---------- rendering ---------- */
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function visibleChannels(){
+  const q=$('#q').value.trim().toLowerCase();
+  return [...channels.values()].filter(c=>{
+    const k=isKept(c);
+    if(view==='kept'&&!k) return false; if(view==='removed'&&k) return false;
+    return !q || c.name.toLowerCase().includes(q) || c.key.toLowerCase().includes(q) || c.group.toLowerCase().includes(q);
+  });
+}
+function render(){
+  const list=$('#list');
+  if(!channels.size){ list.innerHTML='<div class="empty">No channels loaded yet. Press "Load playlists".</div>'; updatePanel(); return; }
+  const groups=new Map();
+  for(const c of visibleChannels()){ if(!groups.has(c.group)) groups.set(c.group,[]); groups.get(c.group).push(c); }
+  const missing=[...kept].filter(k=>!channels.has(k) && ![...channels.keys()].some(x=>baseId(x)===baseId(k)));
+  const names=[...groups.keys()].sort((a,b)=>(a==='Undefined')-(b==='Undefined')||a.localeCompare(b));
+  let html='';
+  if(missing.length && view!=='removed'){
+    html+=`<section class="group"><div class="ghead"><h3>Not in the loaded playlists</h3><span class="count">${missing.length}</span></div><div class="rows">`+
+      missing.map(k=>`<div class="row"><input type="checkbox" checked data-key="${esc(k)}" aria-label="Keep ${esc(k)}"><span></span><div><div class="name">${esc(k)}</div><div class="id mono">Kept in your selection but not found upstream right now</div></div><span></span></div>`).join('')+'</div></section>';
+  }
+  for(const g of names){
+    const cs=groups.get(g).sort((a,b)=>a.name.localeCompare(b.name));
+    const all=[...channels.values()].filter(c=>c.group===g), kc=all.filter(isKept).length;
+    html+=`<section class="group${closed.has(g)?' closed':''}" data-group="${esc(g)}">
+      <div class="ghead"><input type="checkbox" class="gcb" data-g="${esc(g)}" ${kc===all.length?'checked':''} data-ind="${kc>0&&kc<all.length?1:0}" aria-label="Keep all of ${esc(g)}">
+      <h3>${esc(g)}</h3><span class="count">${kc} / ${all.length}</span><svg class="caret" viewBox="0 0 10 10" aria-hidden="true"><path d="M2 3.5 5 6.5 8 3.5" fill="none" stroke="currentColor" stroke-width="1.5"/></svg></div>
+      <div class="rows">${cs.map(rowHtml).join('')}</div></section>`;
+  }
+  list.innerHTML=html || '<div class="empty">Nothing matches this filter.</div>';
+  list.querySelectorAll('.gcb').forEach(cb=>cb.indeterminate=cb.dataset.ind==='1');
+  updatePanel();
+}
+function rowHtml(c){
+  const k=isKept(c), best=Math.max(0,...c.streams.map(s=>s.quality));
+  const tags=[...new Set(c.streams.flatMap(s=>s.tags))];
+  return `<div class="row${k?'':' off'}"><input type="checkbox" ${k?'checked':''} data-key="${esc(c.key)}" aria-label="Keep ${esc(c.name)}">
+    ${c.logo?`<img class="logo" loading="lazy" src="${esc(c.logo)}" alt="" onerror="this.style.visibility='hidden'">`:'<span></span>'}
+    <div><div class="name">${esc(c.name)}</div><div class="id mono">${esc(c.key.startsWith('name:')?'no tvg-id (no TV guide)':c.key)}</div></div>
+    <div class="badges">${best?`<span class="b">${best}p</span>`:''}<span class="b">${c.streams.length} stream${c.streams.length>1?'s':''}</span>${tags.map(t=>`<span class="b${/geo/i.test(t)?' geo':''}">${esc(t)}</span>`).join('')}</div></div>`;
+}
+
+$('#list').addEventListener('click',e=>{
+  const t=e.target;
+  if(t.matches('input[data-key]')){ setKept(t.dataset.key,t.checked); persist(); render(); return; }
+  if(t.matches('.gcb')){ const g=t.dataset.g; for(const c of channels.values()) if(c.group===g) setKept(c.key,t.checked); persist(); render(); return; }
+  const head=t.closest('.ghead'); if(head){ const sec=head.parentElement, g=sec.dataset.group; if(!g) return; closed.has(g)?closed.delete(g):closed.add(g); sec.classList.toggle('closed'); }
+});
+$('#q').addEventListener('input',render);
+document.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>{ view=b.dataset.view; document.querySelectorAll('.seg button').forEach(x=>x.setAttribute('aria-pressed',x===b)); render(); });
+$('#keepVis').onclick=()=>{ visibleChannels().forEach(c=>setKept(c.key,true)); persist(); render(); };
+$('#dropVis').onclick=()=>{ visibleChannels().forEach(c=>setKept(c.key,false)); persist(); render(); };
+$('#toggleAll').onclick=e=>{ const gs=[...new Set([...channels.values()].map(c=>c.group))]; if(closed.size<gs.length){ gs.forEach(g=>closed.add(g)); e.target.textContent='Expand all'; } else { closed.clear(); e.target.textContent='Collapse all'; } render(); };
+
+/* ---------- output ---------- */
+function rawBase(){ const o=$('#ghOwner').value.trim(), r=$('#ghRepo').value.trim(), b=$('#ghBranch').value.trim()||'main'; return o&&r?`https://raw.githubusercontent.com/${o}/${r}/${b}/`:''; }
+function updatePanel(){
+  const n=selection().keep.length; $('#kcount').innerHTML=`${n} <small>channel${n===1?'':'s'} kept</small>`;
+  const b=rawBase(); $('#plUrl').textContent=b?b+'playlist.m3u':'Fill owner and repo above';
+}
+function buildM3u(){
+  const sel=selection(), epg=rawBase()?rawBase()+'epg.xml':'';
+  const lines=[epg?`#EXTM3U x-tvg-url="${epg}" url-tvg="${epg}"`:'#EXTM3U'];
+  for(const k of sel.keep){
+    const c=channels.get(k)||[...channels.values()].find(x=>baseId(x.key)===baseId(k)); if(!c) continue;
+    const ss=[...c.streams].sort((a,b)=>(a.tags.some(t=>/geo/i.test(t)))-(b.tags.some(t=>/geo/i.test(t)))||b.quality-a.quality).slice(0,sel.options.streams_per_channel);
+    ss.forEach((s,i)=>{
+      let name=sel.options.clean_names?cleanName(s.name):s.name; if(i) name+=` (backup ${i+1})`;
+      const a={...s.attrs,'tvg-id':k.startsWith('name:')?'':k,'tvg-name':name,'group-title':s.group};
+      lines.push('#EXTINF:-1 '+Object.entries(a).filter(([x,v])=>v!==''||x==='tvg-id').map(([x,v])=>`${x}="${v}"`).join(' ')+','+name, ...s.extra, s.url);
+    });
+  }
+  return lines.join('\n')+'\n';
+}
+function download(name,text,type){ const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([text],{type})); a.download=name; document.body.appendChild(a); a.click(); setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove();},500); }
+const selJson=()=>JSON.stringify(selection(),null,2)+'\n';
+$('#dlSel').onclick=()=>download('selection.json',selJson(),'application/json');
+$('#dlM3u').onclick=()=>download('playlist.m3u',buildM3u(),'audio/x-mpegurl');
+$('#copySel').onclick=async e=>{ try{ await navigator.clipboard.writeText(selJson()); e.target.textContent='Copied'; }catch(err){ e.target.textContent='Copy failed'; } setTimeout(()=>e.target.textContent='Copy selection.json',1500); };
+
+/* ---------- GitHub save ---------- */
+['ghOwner','ghRepo','ghBranch'].forEach(id=>$('#'+id).addEventListener('input',()=>{ store.set('picker.'+id,$('#'+id).value); updatePanel(); }));
+$('#ghRemember').onchange=e=>{ if(!e.target.checked) store.del('picker.token'); };
+$('#ghSave').onclick=async()=>{
+  const o=$('#ghOwner').value.trim(), r=$('#ghRepo').value.trim(), b=$('#ghBranch').value.trim()||'main', tok=$('#ghToken').value.trim();
+  if(!o||!r||!tok){ setStatus('Fill owner, repo and token to save to GitHub.',true); return; }
+  if($('#ghRemember').checked) store.set('picker.token',tok);
+  const api=`https://api.github.com/repos/${o}/${r}/contents/selection.json`, h={Authorization:'Bearer '+tok,Accept:'application/vnd.github+json'};
+  setStatus('Saving to GitHub…');
+  try{
+    let sha; const g=await fetch(api+'?ref='+encodeURIComponent(b),{headers:h,cache:'no-store'}); if(g.ok) sha=(await g.json()).sha; else if(g.status!==404) throw new Error('read failed: HTTP '+g.status);
+    const content=btoa(unescape(encodeURIComponent(selJson())));
+    const p=await fetch(api,{method:'PUT',headers:h,body:JSON.stringify({message:`Update channel selection (${selection().keep.length} channels)`,content,branch:b,sha})});
+    if(!p.ok) throw new Error('HTTP '+p.status+' '+((await p.json()).message||''));
+    setStatus('Saved. GitHub is rebuilding your playlist now; TV Mate picks it up on its next playlist update (usually within 5 minutes).');
+  }catch(e){ setStatus('Save failed: '+e.message+'. Check that the token has Contents read & write on this repo.',true); }
+};
+
+/* ---------- boot ---------- */
+(async function boot(){
+  // Running on GitHub Pages (owner.github.io/repo/)? Pre-fill the repo fields.
+  const host=location.hostname.match(/^([^.]+)\.github\.io$/), seg=location.pathname.split('/').filter(Boolean)[0];
+  $('#ghOwner').value=store.get('picker.ghOwner')||(host?host[1]:'');
+  $('#ghRepo').value=store.get('picker.ghRepo')||(host&&seg?seg:'');
+  $('#ghBranch').value=store.get('picker.ghBranch')||'';
+  const t=store.get('picker.token'); if(t){ $('#ghToken').value=t; $('#ghRemember').checked=true; }
+  let sel=null;
+  try{ const r=await fetch('selection.json',{cache:'no-store'}); if(r.ok) sel=await r.json(); }catch(e){}
+  // The repo's selection.json wins (it is what the playlist is built from); browser copy is the fallback.
+  if(!sel){ try{ sel=JSON.parse(store.get('picker.selection')||'null'); }catch(e){} }
+  if(sel) applySelection(sel);
+  updatePanel();
+  loadSources();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+name: Update playlist and EPG
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"   # every 6 hours (UTC)
+  push:
+    paths: ["selection.json"] # rebuild as soon as you save a new channel selection
+  workflow_dispatch: {}       # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build playlist
+        run: python scripts/build_playlist.py
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Get iptv-org EPG grabber
+        run: |
+          git clone --depth 1 https://github.com/iptv-org/epg.git ../epg
+          cd ../epg && npm install --no-audit --no-fund
+
+      - name: Grab EPG
+        continue-on-error: true   # never lose the playlist update because a guide site failed
+        run: |
+          rm -rf guides && mkdir guides
+          python scripts/build_epg.py prepare ../epg
+          cd ../epg
+          npm run grab --- --channels=$GITHUB_WORKSPACE/custom.channels.xml \
+            --output=$GITHUB_WORKSPACE/guides/{site}.xml \
+            --days=2 --maxConnections=4 --timeout=20000
+          cd $GITHUB_WORKSPACE
+          python scripts/build_epg.py merge
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u status.json
+          [ -f epg.xml ] && git add epg.xml
+          git diff --cached --quiet || git commit -m "Update playlist and EPG"
+          git push
