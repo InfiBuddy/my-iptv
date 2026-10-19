@@ -2208,9 +2208,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p30314321_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261020010000 +0000" stop="20261020011500 +0000" channel="DDNews.in@SD">
-    <title lang="en">Sanskrit Vaarta</title>
-    <desc lang="en">Presents the latest news updates on politics and the economy in Sanskrit.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26195697_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Sanskrit Vaarta Samachar</title>
+    <desc lang="en">Bridges the ancient language and modern reportage to deliver current events in Sanskrit.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31252032_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261020011500 +0000" stop="20261020013000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar With HI</title>
@@ -2253,9 +2253,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p12682248_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261020053000 +0000" stop="20261020063000 +0000" channel="DDNews.in@SD">
-    <title lang="en">11 Baje Ka Live</title>
+    <title lang="en">11 Baje</title>
     <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020063000 +0000" stop="20261020070000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
@@ -2318,14 +2318,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p32143416_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261020140000 +0000" stop="20261020143000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Spl Prog</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p8170537_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Pura Sach</title>
+    <desc lang="en">Delivers comprehensive reports on the latest news and developments.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020143000 +0000" stop="20261020153000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night in Hindi</title>
-    <desc lang="en">Delivers current affairs about commerce, athletics, governance and social matters globally.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p11804979_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261020153000 +0000" stop="20261020163000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
@@ -4225,116 +4225,6 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29051503_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">News for Hearing Impaired</title>
-    <desc lang="en">The host presents the latest socio-economic news and updates in sign language.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18354276_b_h8_ab.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261019183000 +0000" stop="20261019193000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">The Urban Debate</title>
-    <desc lang="en">The host interacts with experts to seek insights into various socio-political matters.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051393_b_h8_ac.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">Beyond The Headline</title>
-    <desc lang="en">The host presents the latest news stories and updates taking place all over the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051421_b_h10_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">The Urban Debate</title>
-    <desc lang="en">The host interacts with experts to seek insights into various socio-political matters.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051393_b_h8_ac.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261019213000 +0000" stop="20261019223000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">9 PM Nation Tonight</title>
-    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051503_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261019223000 +0000" stop="20261019233000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">Beyond The Headline</title>
-    <desc lang="en">The host presents the latest news stories and updates taking place all over the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051421_b_h10_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261019233000 +0000" stop="20261020073000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">9 PM Nation Tonight</title>
-    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051503_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020073000 +0000" stop="20261020083000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">Mirror @ 1 PM</title>
-    <desc lang="en">The host presents the latest updates on various pressing issues across the nation.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29069760_b_h10_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020083000 +0000" stop="20261020090000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">2 PM Mirror @ 2 PM</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29069399_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020090000 +0000" stop="20261020093000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">2 PM Mirror @ 2 PM</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29069399_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020093000 +0000" stop="20261020103000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">3 PM Big Story</title>
-    <desc lang="en">The host presents important issues and provides updates on current events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051852_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020103000 +0000" stop="20261020110000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">Mirror Live</title>
-    <desc lang="en">The host presents important issues and provides updates on current events, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051877_b_h10_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020110000 +0000" stop="20261020113000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">4:30 PM Superfast News</title>
-    <desc lang="en">The host presents a round-up of the latest news from around the world and the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29069493_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020113000 +0000" stop="20261020120000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">5 PM Mirror Live</title>
-    <desc lang="en">Journalists report the latest news stories and interview those connected to them, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051958_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020120000 +0000" stop="20261020123000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">5:30 PM Mirror Live</title>
-    <desc lang="en">The host presents important events and provides updates on various issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051983_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020123000 +0000" stop="20261020133000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">Daily Mirror</title>
-    <desc lang="en">The host sheds light on the latest news stories concerning various fields.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p9331131_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020133000 +0000" stop="20261020140000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">News At 7</title>
-    <desc lang="en">Bringing the best in television.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18979003_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020140000 +0000" stop="20261020143000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">Mirror Prime</title>
-    <desc lang="en">The host presents the latest updates on sports, politics and entertainment.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29052032_b_h8_ac.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020143000 +0000" stop="20261020153000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">The Urban Debate</title>
-    <desc lang="en">The host interacts with experts to seek insights into various socio-political matters.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051393_b_h8_ac.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020153000 +0000" stop="20261020163000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">9 PM Nation Tonight</title>
-    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051503_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020163000 +0000" stop="20261020173000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">Beyond The Headline</title>
-    <desc lang="en">The host presents the latest news stories and updates taking place all over the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051421_b_h10_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020173000 +0000" stop="20261020180000 +0000" channel="MirrorNow.in@SD">
-    <title lang="en">9 PM Nation Tonight</title>
-    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29051503_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020180000 +0000" stop="20261020183000 +0000" channel="MirrorNow.in@SD">
     <title lang="en">News for Hearing Impaired</title>
     <desc lang="en">The host presents the latest socio-economic news and updates in sign language.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p18354276_b_h8_ab.jpg?lock=1280x720" />
@@ -7110,6 +7000,191 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28827075_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261019173000 +0000" stop="20261019183000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261019183000 +0000" stop="20261019190000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261019193000 +0000" stop="20261019213000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261019213000 +0000" stop="20261019233000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261019233000 +0000" stop="20261020020000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020020000 +0000" stop="20261020023000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020023000 +0000" stop="20261020030000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020030000 +0000" stop="20261020033000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020033000 +0000" stop="20261020040000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020040000 +0000" stop="20261020043000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020043000 +0000" stop="20261020050000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020050000 +0000" stop="20261020053000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020053000 +0000" stop="20261020060000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020060000 +0000" stop="20261020063000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020063000 +0000" stop="20261020070000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020070000 +0000" stop="20261020073000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020073000 +0000" stop="20261020080000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020080000 +0000" stop="20261020083000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020083000 +0000" stop="20261020090000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020090000 +0000" stop="20261020093000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020093000 +0000" stop="20261020100000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020100000 +0000" stop="20261020103000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020103000 +0000" stop="20261020110000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020110000 +0000" stop="20261020113000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020113000 +0000" stop="20261020120000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020120000 +0000" stop="20261020123000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020123000 +0000" stop="20261020130000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020130000 +0000" stop="20261020133000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020133000 +0000" stop="20261020140000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020140000 +0000" stop="20261020143000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020143000 +0000" stop="20261020150000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020150000 +0000" stop="20261020153000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020153000 +0000" stop="20261020160000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020160000 +0000" stop="20261020163000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020163000 +0000" stop="20261020170000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020170000 +0000" stop="20261020173000 +0000" channel="NewsX.in@SD">
+    <title lang="en">Legally Speaking</title>
+    <desc lang="en">The host interacts with experts and discusses various legal developments in the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28827075_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020173000 +0000" stop="20261020183000 +0000" channel="NewsX.in@SD">
     <title lang="en">News</title>
     <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
