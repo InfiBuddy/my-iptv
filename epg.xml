@@ -2153,34 +2153,34 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261020183000 +0000" stop="20261020193000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Decode</title>
+    <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261020193000 +0000" stop="20261020203000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Do Took</title>
-    <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261020203000 +0000" stop="20261020213000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Decode</title>
-    <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020213000 +0000" stop="20261020223000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261020223000 +0000" stop="20261020233000 +0000" channel="DDNews.in@SD">
     <title lang="en">Do Took</title>
     <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261020233000 +0000" stop="20261021003000 +0000" channel="DDNews.in@SD">
+  <programme start="20261020213000 +0000" stop="20261020223000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
     <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020223000 +0000" stop="20261020233000 +0000" channel="DDNews.in@SD">
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020233000 +0000" stop="20261021003000 +0000" channel="DDNews.in@SD">
+    <title lang="en">Do Took</title>
+    <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="DDNews.in@SD">
     <title lang="en">Live Aarti From Ram Mandir Ayodhya Ji</title>
