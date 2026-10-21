@@ -2153,34 +2153,34 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021183000 +0000" stop="20261021193000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Decode</title>
+    <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021193000 +0000" stop="20261021203000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Do Took</title>
-    <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021203000 +0000" stop="20261021213000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Decode</title>
-    <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261021213000 +0000" stop="20261021223000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261021223000 +0000" stop="20261021233000 +0000" channel="DDNews.in@SD">
     <title lang="en">Do Took</title>
     <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261021233000 +0000" stop="20261022003000 +0000" channel="DDNews.in@SD">
+  <programme start="20261021213000 +0000" stop="20261021223000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
     <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021223000 +0000" stop="20261021233000 +0000" channel="DDNews.in@SD">
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021233000 +0000" stop="20261022003000 +0000" channel="DDNews.in@SD">
+    <title lang="en">Do Took</title>
+    <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022003000 +0000" stop="20261022010000 +0000" channel="DDNews.in@SD">
     <title lang="en">Live Aarti From Ram Mandir Ayodhya Ji</title>
@@ -7171,6 +7171,191 @@
     <desc lang="en">The host provides a detailed report on matters concerning the nation and the world.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p29623053_b_h8_aa.jpg?lock=1280x720" />
   </programme>
+  <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020190000 +0000" stop="20261020193000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020193000 +0000" stop="20261020213000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020213000 +0000" stop="20261020233000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261020233000 +0000" stop="20261021020000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021020000 +0000" stop="20261021023000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021023000 +0000" stop="20261021030000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021033000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021040000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021040000 +0000" stop="20261021043000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021050000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021053000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021053000 +0000" stop="20261021060000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021060000 +0000" stop="20261021063000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021063000 +0000" stop="20261021070000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021070000 +0000" stop="20261021073000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021073000 +0000" stop="20261021080000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021080000 +0000" stop="20261021083000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021083000 +0000" stop="20261021090000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021103000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021103000 +0000" stop="20261021110000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021113000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021113000 +0000" stop="20261021120000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021120000 +0000" stop="20261021123000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021123000 +0000" stop="20261021130000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021133000 +0000" stop="20261021140000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021140000 +0000" stop="20261021143000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021143000 +0000" stop="20261021150000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021153000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021153000 +0000" stop="20261021160000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021160000 +0000" stop="20261021163000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021163000 +0000" stop="20261021170000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021170000 +0000" stop="20261021173000 +0000" channel="NewsX.in@SD">
+    <title lang="en">Legally Speaking</title>
+    <desc lang="en">The host interacts with experts and discusses various legal developments in the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28827075_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021183000 +0000" channel="NewsX.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+  </programme>
   <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="NewsX.in@SD">
     <title lang="en">News</title>
     <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
@@ -7358,243 +7543,1679 @@
   </programme>
   <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Poochta Hai Bharat</title>
-    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020190000 +0000" stop="20261020193000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Poochta Hai Bharat</title>
-    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020193000 +0000" stop="20261020200000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Ye Bharat Ki Baat Hai</title>
-    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020200000 +0000" stop="20261020203000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Ye Bharat Ki Baat Hai</title>
-    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020203000 +0000" stop="20261020210000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Mahabharat</title>
-    <desc lang="en">The host illuminates current political and economic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020210000 +0000" stop="20261020213000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Mahabharat</title>
-    <desc lang="en">The host illuminates current political and economic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020213000 +0000" stop="20261020220000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Ye Bharat Ki Baat Hai</title>
-    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020220000 +0000" stop="20261020223000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Ye Bharat Ki Baat Hai</title>
-    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020223000 +0000" stop="20261020230000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Mahabharat</title>
-    <desc lang="en">The host illuminates current political and economic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020230000 +0000" stop="20261020233000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Mahabharat</title>
-    <desc lang="en">The host illuminates current political and economic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020233000 +0000" stop="20261021000000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Poochta Hai Bharat</title>
-    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021000000 +0000" stop="20261021003000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Poochta Hai Bharat</title>
-    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Bharat Ki Nayi Subah</title>
-    <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <title lang="hi">भारत की नई सुबह</title>
+    <title lang="ta">பாரத் கி நயி சுபாஹ்</title>
+    <title lang="te">భారత్ కి నయీ సుబహ్</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   <programme start="20261021010000 +0000" stop="20261021013000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Raftaar 100</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">रफ्तार 100</title>
+    <title lang="ta">ரஃப்தார் 100</title>
+    <title lang="te">రఫ్తార్ 100</title>
+    <desc lang="en">The host sheds light on the latest updates and developments pertaining to politics, economic, sports and entertainment news happening in India.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत में घटित हो रही राजनीति, अर्थव्यवस्था, खेल और मनोरंजन से संबंधित नवीनतम अपडेट और घटनाक्रमों के बारे में बताते हैं।</desc>
+    <desc lang="ta">இந்தியாவில் நடக்கும் அரசியல், பொருளாதாரம், விளையாட்டு மற்றும் பொழுதுபோக்கு செய்திகள் தொடர்பான விளக்கம்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలో జరుగుతున్న రాజకీయాలు, ఆర్థిక, క్రీడలు, వినోద వార్తలకు సంబంధించిన తాజా విశేషాలు, పరిణామాలపై వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20819039_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021013000 +0000" stop="20261021020000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Bharat Ki Nayi Subah</title>
-    <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <title lang="hi">भारत की नई सुबह</title>
+    <title lang="ta">பாரத் கி நயி சுபாஹ்</title>
+    <title lang="te">భారత్ కి నయీ సుబహ్</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   <programme start="20261021020000 +0000" stop="20261021023000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Bharat Ki Nayi Subah</title>
-    <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <title lang="hi">भारत की नई सुबह</title>
+    <title lang="ta">பாரத் கி நயி சுபாஹ்</title>
+    <title lang="te">భారత్ కి నయీ సుబహ్</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   <programme start="20261021023000 +0000" stop="20261021030000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">30 Second, 30 Khabrein</title>
-    <desc lang="en">The host presents the top 30 important headlines and major updates in the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30899696_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">30 सेकंड, 30 ख़बरें</title>
+    <title lang="ta">30 செகண்ட், 30 கப்ரேன்</title>
+    <title lang="te">30 సెకండ్, 30 ఖబ్రే</title>
+    <desc lang="en">The host presents the top 30 important headlines, major updates and important events that impact the people living across the country.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता देश भर में रहने वाले लोगों पर असर डालने वाली टॉप 30 अहम सुर्खियां, बड़े अपडेट और ज़रूरी घटनाओं पर प्रकाश डालते हैं।</desc>
+    <desc lang="ta">நாடு முழுவதும் உள்ள மக்களை பாதிக்கும் 30 முக்கிய தலைப்பு செய்திகள், முக்கிய அறிவிப்புகள் மற்றும் முக்கியமான நிகழ்வுகள்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశ ప్రజలను ప్రభావితం చేసే 30 ప్రధాన ముఖ్యాంశాలు, తాజా సమాచారాలు, ముఖ్యమైన సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30899696_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p30899696_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021030000 +0000" stop="20261021033000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Bullet 100</title>
-    <desc lang="en">The host presents a detailed coverage of the latest news from across the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18670507_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">बुलेट 100</title>
+    <title lang="ta">புல்லட் 100</title>
+    <title lang="te">బుల్లెట్ 100</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता देश और विदेश की ताज़ा ख़बरों और घटनाक्रमों की व्यापक और विस्तृत कवरेज पेश करते हैं।</desc>
+    <desc lang="ta">உள்நாட்டிலும் சர்வதேச அளவிலும் சமீபத்திய செய்திகள் மற்றும் முன்னேற்றங்கள் பற்றிய விரிவான தகவல்களை வழங்கும் தொகுப்பாளர்.</desc>
+    <desc lang="te">వ్యాఖ్యాత జాతీయ, అంతర్జాతీయ రంగాలకు చెందిన తాజా వార్తా విశేషాలు, పరిణామాలపై వివరణాత్మక నివేదిక అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18670507_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18670507_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021033000 +0000" stop="20261021040000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">9 Baje Ki Baat</title>
-    <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
+    <title lang="hi">9 बजे की बात</title>
+    <title lang="te">9 బజే కి బాత్</title>
+    <desc lang="en">This is News - News Bulletin Category</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   <programme start="20261021040000 +0000" stop="20261021043000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">9 Baje Ki Baat</title>
-    <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
+    <title lang="hi">9 बजे की बात</title>
+    <title lang="te">9 బజే కి బాత్</title>
+    <desc lang="en">This is News - News Bulletin Category</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   <programme start="20261021043000 +0000" stop="20261021050000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
-    <desc lang="en">The host sheds light on top news stories from across the nation and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एण्ड ब्रेकिंग / 2 मिनट भारत</title>
+    <title lang="ta">லைவ் அண்ட் ப்ரேக்கிங் / 2 மினிட் பாரத்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్ / 2 మినిట్స్ భారత్</title>
+    <desc lang="en">The host presents the latest live news updates; the host sheds light on top news stories from across the nation and the world.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता ताज़ा समाचार सुर्खियां प्रस्तुत करते हैं, सीधा प्रसारण; समाचार प्रस्तुतकर्ता देश और दुनिया भर की अहम ख़बरों पर प्रकाश डालते हैं।</desc>
+    <desc lang="ta">செய்தி புதுப்பிப்புகளை வழங்கும் தொகுப்பாளர்; நாடு மற்றும் உலகம் முழுவதிலும் உள்ள முக்கிய செய்திகளை வழங்கும் தொகுப்பாளர்.</desc>
+    <desc lang="te">వ్యాఖ్యాత, తాజా వార్తా విశేషాలను అందిస్తారు; వ్యాఖ్యాత జాతీయ, అంతర్జాతీయ ప్రధాన వార్తా కథనాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28393179_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021050000 +0000" stop="20261021053000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
-    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021053000 +0000" stop="20261021060000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
-    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021060000 +0000" stop="20261021063000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
-    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021063000 +0000" stop="20261021070000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Big Exclusive</title>
-    <desc lang="en">The host sheds light on the latest news and developments from across the region.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31788250_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">बिग एक्सक्लूसिव</title>
+    <title lang="ta">பிக் எக்ஸ்க்ளூஸிவ்</title>
+    <title lang="te">బిగ్ ఎక్స్‌క్లూజివ్</title>
+    <desc lang="en">The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता पूरे क्षेत्र की ताज़ा ख़बरों और घटनाक्रमों पर विस्तार से जानकारी देते हुए एक व्यापक रिपोर्ट पेश करते हैं।</desc>
+    <desc lang="ta">பிராந்தியம் முழுவதிலுமிருந்து வரும் சமீபத்திய செய்திகள் மற்றும் முன்னேற்றங்களை தெளிவுபடுத்தும் விரிவான அறிக்கை.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈ ప్రాంతం అంతటా తాజా వార్తలు మరియు పరిణామాలను వివరిస్తూ, సమగ్రమైన మరియు వివరణాత్మక నివేదికను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31788250_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31788250_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021070000 +0000" stop="20261021073000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Raftaar 100</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">रफ्तार 100</title>
+    <title lang="ta">ரஃப்தார் 100</title>
+    <title lang="te">రఫ్తార్ 100</title>
+    <desc lang="en">The host sheds light on the latest updates and developments pertaining to politics, economic, sports and entertainment news happening in India.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत में घटित हो रही राजनीति, अर्थव्यवस्था, खेल और मनोरंजन से संबंधित नवीनतम अपडेट और घटनाक्रमों के बारे में बताते हैं।</desc>
+    <desc lang="ta">இந்தியாவில் நடக்கும் அரசியல், பொருளாதாரம், விளையாட்டு மற்றும் பொழுதுபோக்கு செய்திகள் தொடர்பான விளக்கம்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలో జరుగుతున్న రాజకీయాలు, ఆర్థిక, క్రీడలు, వినోద వార్తలకు సంబంధించిన తాజా విశేషాలు, పరిణామాలపై వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20819039_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021073000 +0000" stop="20261021080000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
-    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021080000 +0000" stop="20261021083000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Yogi 403</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p33416379_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="ta">யோகி 403</title>
+    <title lang="te">యోగి 403</title>
+    <desc lang="en">This is News - News Bulletin Category</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p33416379_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p33416379_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021083000 +0000" stop="20261021090000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
-    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Raftaar 100</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">रफ्तार 100</title>
+    <title lang="ta">ரஃப்தார் 100</title>
+    <title lang="te">రఫ్తార్ 100</title>
+    <desc lang="en">The host sheds light on the latest updates and developments pertaining to politics, economic, sports and entertainment news happening in India.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत में घटित हो रही राजनीति, अर्थव्यवस्था, खेल और मनोरंजन से संबंधित नवीनतम अपडेट और घटनाक्रमों के बारे में बताते हैं।</desc>
+    <desc lang="ta">இந்தியாவில் நடக்கும் அரசியல், பொருளாதாரம், விளையாட்டு மற்றும் பொழுதுபோக்கு செய்திகள் தொடர்பான விளக்கம்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలో జరుగుతున్న రాజకీయాలు, ఆర్థిక, క్రీడలు, వినోద వార్తలకు సంబంధించిన తాజా విశేషాలు, పరిణామాలపై వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20819039_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
-    <desc lang="en">The host sheds light on top news stories from across the nation and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एण्ड ब्रेकिंग / 2 मिनट भारत</title>
+    <title lang="ta">லைவ் அண்ட் ப்ரேக்கிங் / 2 மினிட் பாரத்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్ / 2 మినిట్స్ భారత్</title>
+    <desc lang="en">The host presents the latest live news updates; the host sheds light on top news stories from across the nation and the world.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता ताज़ा समाचार सुर्खियां प्रस्तुत करते हैं, सीधा प्रसारण; समाचार प्रस्तुतकर्ता देश और दुनिया भर की अहम ख़बरों पर प्रकाश डालते हैं।</desc>
+    <desc lang="ta">செய்தி புதுப்பிப்புகளை வழங்கும் தொகுப்பாளர்; நாடு மற்றும் உலகம் முழுவதிலும் உள்ள முக்கிய செய்திகளை வழங்கும் தொகுப்பாளர்.</desc>
+    <desc lang="te">వ్యాఖ్యాత, తాజా వార్తా విశేషాలను అందిస్తారు; వ్యాఖ్యాత జాతీయ, అంతర్జాతీయ ప్రధాన వార్తా కథనాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28393179_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021100000 +0000" stop="20261021103000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
-    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021103000 +0000" stop="20261021110000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
-    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021110000 +0000" stop="20261021113000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Raftaar 100</title>
-    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">रफ्तार 100</title>
+    <title lang="ta">ரஃப்தார் 100</title>
+    <title lang="te">రఫ్తార్ 100</title>
+    <desc lang="en">The host sheds light on the latest updates and developments pertaining to politics, economic, sports and entertainment news happening in India.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत में घटित हो रही राजनीति, अर्थव्यवस्था, खेल और मनोरंजन से संबंधित नवीनतम अपडेट और घटनाक्रमों के बारे में बताते हैं।</desc>
+    <desc lang="ta">இந்தியாவில் நடக்கும் அரசியல், பொருளாதாரம், விளையாட்டு மற்றும் பொழுதுபோக்கு செய்திகள் தொடர்பான விளக்கம்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలో జరుగుతున్న రాజకీయాలు, ఆర్థిక, క్రీడలు, వినోద వార్తలకు సంబంధించిన తాజా విశేషాలు, పరిణామాలపై వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20819039_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021113000 +0000" stop="20261021120000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Master Stroke</title>
-    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="hi">मास्टर स्ट्रोक</title>
+    <title lang="ta">மாஸ்டர் ஸ்ட்ரோக்</title>
+    <title lang="te">మాస్టర్ స్ట్రోక్</title>
+    <desc lang="en">The host presents a detailed report of the latest news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता पूरे क्षेत्र से राजनीतिक, आर्थिक, सामाजिक और सांस्कृतिक मुद्दों से जुड़ी ताज़ा ख़बरों की एक विस्तृत रिपोर्ट प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">பிராந்தியம் முழுவதிலுமுள்ள அரசியல், பொருளாதாரம், சமூகம் - கலாச்சார தலைப்புகளை பற்றிய சமீப செய்திகளின் விரிவான அறிக்கை.</desc>
+    <desc lang="te">వ్యాఖ్యాత స్థానిక ప్రాంతానికి చెందిన రాజకీయ, ఆర్ధిక, సామాజిక, సాంస్కృతిక వార్తా విశేషాలపై వివరణాత్మక నివేదిక అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29739673_b_h9_ac.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021120000 +0000" stop="20261021123000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Master Stroke</title>
-    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="hi">मास्टर स्ट्रोक</title>
+    <title lang="ta">மாஸ்டர் ஸ்ட்ரோக்</title>
+    <title lang="te">మాస్టర్ స్ట్రోక్</title>
+    <desc lang="en">The host presents a detailed report of the latest news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता पूरे क्षेत्र से राजनीतिक, आर्थिक, सामाजिक और सांस्कृतिक मुद्दों से जुड़ी ताज़ा ख़बरों की एक विस्तृत रिपोर्ट प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">பிராந்தியம் முழுவதிலுமுள்ள அரசியல், பொருளாதாரம், சமூகம் - கலாச்சார தலைப்புகளை பற்றிய சமீப செய்திகளின் விரிவான அறிக்கை.</desc>
+    <desc lang="te">వ్యాఖ్యాత స్థానిక ప్రాంతానికి చెందిన రాజకీయ, ఆర్ధిక, సామాజిక, సాంస్కృతిక వార్తా విశేషాలపై వివరణాత్మక నివేదిక అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29739673_b_h9_ac.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021123000 +0000" stop="20261021130000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Mahabharat</title>
-    <desc lang="en">The host illuminates current political and economic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Mahabharat</title>
-    <desc lang="en">The host illuminates current political and economic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021133000 +0000" stop="20261021140000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Poochta Hai Bharat</title>
-    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021140000 +0000" stop="20261021143000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Poochta Hai Bharat</title>
-    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021143000 +0000" stop="20261021150000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Rashtra Sarvopari</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">राष्ट्र सर्वोपरि</title>
+    <title lang="ta">ராஷ்ட்ர சர்வோபரி</title>
+    <title lang="te">రాష్ట్ర సర్వోపరి</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல் மற்றும் தற்போதைய நிகழ்வுகள் பற்றிய புதுப்பிப்புகள்.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30584267_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021150000 +0000" stop="20261021153000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Rashtra Sarvopari</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">राष्ट्र सर्वोपरि</title>
+    <title lang="ta">ராஷ்ட்ர சர்வோபரி</title>
+    <title lang="te">రాష్ట్ర సర్వోపరి</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல் மற்றும் தற்போதைய நிகழ்வுகள் பற்றிய புதுப்பிப்புகள்.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30584267_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021153000 +0000" stop="20261021160000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Ye Bharat Ki Baat Hai</title>
-    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021160000 +0000" stop="20261021163000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Ye Bharat Ki Baat Hai</title>
-    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021163000 +0000" stop="20261021170000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live News</title>
-    <desc lang="en">The host delivers the latest news updates regarding pressing matters of the nation.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30335834_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="hi">लाइव न्यूज़</title>
+    <title lang="ta">லைவ் நியூஸ்</title>
+    <title lang="te">లైవ్ న్యూస్</title>
+    <desc lang="en">The host presents the latest comprehensive news stories and timely updates from across the nation regarding various pressing matters of importance.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता देश भर से अहम और ज़रूरी मुद्दों से संबन्धित समाचार सुर्खियां, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
+    <desc lang="ta">நாடு முழுவதும் உள்ள பல்வேறு முக்கிய மற்றும் அவசரமான விவகாரங்கள் குறித்த சமீபத்திய விரிவான செய்திகளையும், உடனுக்குடனான தகவல்களையும் தொகுப்பாளர் வழங்குகிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలోని వివిధ కీలకమైన అంశాలకు సంబంధించిన తాజా, సమగ్ర వార్తా కథనాలను, సమయానుకూల సమాచారాన్ని అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30335834_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p30335834_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021170000 +0000" stop="20261021173000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Aaj Ki Story</title>
+    <title lang="hi">आज की स्टोरी</title>
+    <title lang="ta">ஆஜ் கி ஸ்டோரி</title>
+    <title lang="te">ఆజ్ కీ స్టోరీ</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p32913277_b_h8_aa.jpg?lock=1280x720" />
+    <desc lang="hi">टेलीविज़न के एक से बढ़कर एक कार्यक्रमों को प्रस्तुत किया जाता है।</desc>
+    <desc lang="ta">இந்நிகழ்ச்சி தொலைக்காட்சியில் மிகவும் சிறந்ததைக் கொண்டு வருகின்றது.</desc>
+    <desc lang="te">అత్యుత్తమ టెలివిజన్ కార్యక్రమాలు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p32913277_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p32913277_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Final Cut</title>
-    <desc lang="en">The host sheds light on trailers and songs from popular upcoming movies.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p27669087_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="hi">फाइनल कट</title>
+    <title lang="ta">ஃபைனல் கட்</title>
+    <title lang="te">ఫైనల్ కట్</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता, लोकप्रिय प्रत्याशित फिल्मों के नवीनतम टीज़र, ट्रेलर और गानों के बारे में बात करते हैं और कलाकारों एवं सहायक दल पर प्रकाश डालते हैं।</desc>
+    <desc lang="ta">பிரபல எதிர்பார்க்கப்பட்ட திரைப்படங்களின் சமீபத்திய டீசர்கள், டிரெய்லர்கள், பாடல்கள் மற்றும நடிகர்களை பற்றி கூறுகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత తాజా తాజా టీజర్‌లు, ట్రైలర్‌లు, పాటల గురించి మాట్లాడుతూ, నటీనటులు, సిబ్బంది గురించి తెలుపుతారు.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27669087_b_h9_ac.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p27669087_b_h8_ac.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261021180000 +0000" stop="20261021183000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Rapid Fire</title>
-    <desc lang="en">The host sheds light on some of the latest national as well as regional news updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29191773_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="hi">रैपिड फायर</title>
+    <title lang="ta">ராபிட் ஃபையர்</title>
+    <title lang="te">రాపిడ్ ఫైర్</title>
+    <desc lang="en">The host sheds light on some of the latest national as well as regional news updates and developments in quick succession.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता तेजी से बदलते घटनाक्रमों के साथ कुछ नवीनतम राष्ट्रीय और क्षेत्रीय समाचार अपडेट प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">சில சமீபத்திய தேசிய மற்றும் பிராந்திய செய்தி புதுப்பிப்புகள் மற்றும் விரைவாக முன்னேற்றங்களை முன்வைக்கும் தொகுப்பாளர்.</desc>
+    <desc lang="te">వ్యాఖ్యాత కొన్ని తాజా జాతీయ మరియు ప్రాంతీయ వార్తల విశేషాలు మరియు త్వరితగతిన పరిణామాల గురించి వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29191773_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29191773_b_h10_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021193000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021193000 +0000" stop="20261021200000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021200000 +0000" stop="20261021203000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021203000 +0000" stop="20261021210000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021213000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021213000 +0000" stop="20261021220000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021220000 +0000" stop="20261021223000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021223000 +0000" stop="20261021230000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021230000 +0000" stop="20261021233000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261021233000 +0000" stop="20261022000000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022003000 +0000" stop="20261022010000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <title lang="hi">भारत की नई सुबह</title>
+    <title lang="ta">பாரத் கி நயி சுபாஹ்</title>
+    <title lang="te">భారత్ కి నయీ సుబహ్</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+  </programme>
+  <programme start="20261022010000 +0000" stop="20261022013000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <title lang="hi">रफ्तार 100</title>
+    <title lang="ta">ரஃப்தார் 100</title>
+    <title lang="te">రఫ్తార్ 100</title>
+    <desc lang="en">The host sheds light on the latest updates and developments pertaining to politics, economic, sports and entertainment news happening in India.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत में घटित हो रही राजनीति, अर्थव्यवस्था, खेल और मनोरंजन से संबंधित नवीनतम अपडेट और घटनाक्रमों के बारे में बताते हैं।</desc>
+    <desc lang="ta">இந்தியாவில் நடக்கும் அரசியல், பொருளாதாரம், விளையாட்டு மற்றும் பொழுதுபோக்கு செய்திகள் தொடர்பான விளக்கம்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలో జరుగుతున్న రాజకీయాలు, ఆర్థిక, క్రీడలు, వినోద వార్తలకు సంబంధించిన తాజా విశేషాలు, పరిణామాలపై వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20819039_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022013000 +0000" stop="20261022020000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <title lang="hi">भारत की नई सुबह</title>
+    <title lang="ta">பாரத் கி நயி சுபாஹ்</title>
+    <title lang="te">భారత్ కి నయీ సుబహ్</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+  </programme>
+  <programme start="20261022020000 +0000" stop="20261022023000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <title lang="hi">भारत की नई सुबह</title>
+    <title lang="ta">பாரத் கி நயி சுபாஹ்</title>
+    <title lang="te">భారత్ కి నయీ సుబహ్</title>
+    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+  </programme>
+  <programme start="20261022023000 +0000" stop="20261022030000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">30 Second, 30 Khabrein</title>
+    <title lang="hi">30 सेकंड, 30 ख़बरें</title>
+    <title lang="ta">30 செகண்ட், 30 கப்ரேன்</title>
+    <title lang="te">30 సెకండ్, 30 ఖబ్రే</title>
+    <desc lang="en">The host presents the top 30 important headlines, major updates and important events that impact the people living across the country.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता देश भर में रहने वाले लोगों पर असर डालने वाली टॉप 30 अहम सुर्खियां, बड़े अपडेट और ज़रूरी घटनाओं पर प्रकाश डालते हैं।</desc>
+    <desc lang="ta">நாடு முழுவதும் உள்ள மக்களை பாதிக்கும் 30 முக்கிய தலைப்பு செய்திகள், முக்கிய அறிவிப்புகள் மற்றும் முக்கியமான நிகழ்வுகள்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశ ప్రజలను ప్రభావితం చేసే 30 ప్రధాన ముఖ్యాంశాలు, తాజా సమాచారాలు, ముఖ్యమైన సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30899696_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p30899696_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022030000 +0000" stop="20261022033000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bullet 100</title>
+    <title lang="hi">बुलेट 100</title>
+    <title lang="ta">புல்லட் 100</title>
+    <title lang="te">బుల్లెట్ 100</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage of the latest news and developments, domestically and internationally.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता देश और विदेश की ताज़ा ख़बरों और घटनाक्रमों की व्यापक और विस्तृत कवरेज पेश करते हैं।</desc>
+    <desc lang="ta">உள்நாட்டிலும் சர்வதேச அளவிலும் சமீபத்திய செய்திகள் மற்றும் முன்னேற்றங்கள் பற்றிய விரிவான தகவல்களை வழங்கும் தொகுப்பாளர்.</desc>
+    <desc lang="te">వ్యాఖ్యాత జాతీయ, అంతర్జాతీయ రంగాలకు చెందిన తాజా వార్తా విశేషాలు, పరిణామాలపై వివరణాత్మక నివేదిక అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18670507_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18670507_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022033000 +0000" stop="20261022040000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">9 Baje Ki Baat</title>
+    <title lang="hi">9 बजे की बात</title>
+    <title lang="te">9 బజే కి బాత్</title>
+    <desc lang="en">This is News - News Bulletin Category</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+  </programme>
+  <programme start="20261022040000 +0000" stop="20261022043000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">9 Baje Ki Baat</title>
+    <title lang="hi">9 बजे की बात</title>
+    <title lang="te">9 బజే కి బాత్</title>
+    <desc lang="en">This is News - News Bulletin Category</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+  </programme>
+  <programme start="20261022043000 +0000" stop="20261022050000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग / 2 मिनट भारत</title>
+    <title lang="ta">லைவ் அண்ட் ப்ரேக்கிங் / 2 மினிட் பாரத்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్ / 2 మినిట్స్ భారత్</title>
+    <desc lang="en">The host presents the latest live news updates; the host sheds light on top news stories from across the nation and the world.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता ताज़ा समाचार सुर्खियां प्रस्तुत करते हैं, सीधा प्रसारण; समाचार प्रस्तुतकर्ता देश और दुनिया भर की अहम ख़बरों पर प्रकाश डालते हैं।</desc>
+    <desc lang="ta">செய்தி புதுப்பிப்புகளை வழங்கும் தொகுப்பாளர்; நாடு மற்றும் உலகம் முழுவதிலும் உள்ள முக்கிய செய்திகளை வழங்கும் தொகுப்பாளர்.</desc>
+    <desc lang="te">వ్యాఖ్యాత, తాజా వార్తా విశేషాలను అందిస్తారు; వ్యాఖ్యాత జాతీయ, అంతర్జాతీయ ప్రధాన వార్తా కథనాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28393179_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022050000 +0000" stop="20261022053000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022053000 +0000" stop="20261022060000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022060000 +0000" stop="20261022063000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022063000 +0000" stop="20261022070000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Big Exclusive</title>
+    <title lang="hi">बिग एक्सक्लूसिव</title>
+    <title lang="ta">பிக் எக்ஸ்க்ளூஸிவ்</title>
+    <title lang="te">బిగ్ ఎక్స్‌క్లూజివ్</title>
+    <desc lang="en">The host presents a comprehensive and detailed report, elucidating on the latest news and developments from across the region.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता पूरे क्षेत्र की ताज़ा ख़बरों और घटनाक्रमों पर विस्तार से जानकारी देते हुए एक व्यापक रिपोर्ट पेश करते हैं।</desc>
+    <desc lang="ta">பிராந்தியம் முழுவதிலுமிருந்து வரும் சமீபத்திய செய்திகள் மற்றும் முன்னேற்றங்களை தெளிவுபடுத்தும் விரிவான அறிக்கை.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈ ప్రాంతం అంతటా తాజా వార్తలు మరియు పరిణామాలను వివరిస్తూ, సమగ్రమైన మరియు వివరణాత్మక నివేదికను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31788250_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31788250_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022070000 +0000" stop="20261022073000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <title lang="hi">रफ्तार 100</title>
+    <title lang="ta">ரஃப்தார் 100</title>
+    <title lang="te">రఫ్తార్ 100</title>
+    <desc lang="en">The host sheds light on the latest updates and developments pertaining to politics, economic, sports and entertainment news happening in India.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत में घटित हो रही राजनीति, अर्थव्यवस्था, खेल और मनोरंजन से संबंधित नवीनतम अपडेट और घटनाक्रमों के बारे में बताते हैं।</desc>
+    <desc lang="ta">இந்தியாவில் நடக்கும் அரசியல், பொருளாதாரம், விளையாட்டு மற்றும் பொழுதுபோக்கு செய்திகள் தொடர்பான விளக்கம்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలో జరుగుతున్న రాజకీయాలు, ఆర్థిక, క్రీడలు, వినోద వార్తలకు సంబంధించిన తాజా విశేషాలు, పరిణామాలపై వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20819039_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022073000 +0000" stop="20261022080000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022080000 +0000" stop="20261022083000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Yogi 403</title>
+    <title lang="ta">யோகி 403</title>
+    <title lang="te">యోగి 403</title>
+    <desc lang="en">This is News - News Bulletin Category</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p33416379_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p33416379_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022083000 +0000" stop="20261022090000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022090000 +0000" stop="20261022093000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <title lang="hi">रफ्तार 100</title>
+    <title lang="ta">ரஃப்தார் 100</title>
+    <title lang="te">రఫ్తార్ 100</title>
+    <desc lang="en">The host sheds light on the latest updates and developments pertaining to politics, economic, sports and entertainment news happening in India.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत में घटित हो रही राजनीति, अर्थव्यवस्था, खेल और मनोरंजन से संबंधित नवीनतम अपडेट और घटनाक्रमों के बारे में बताते हैं।</desc>
+    <desc lang="ta">இந்தியாவில் நடக்கும் அரசியல், பொருளாதாரம், விளையாட்டு மற்றும் பொழுதுபோக்கு செய்திகள் தொடர்பான விளக்கம்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలో జరుగుతున్న రాజకీయాలు, ఆర్థిక, క్రీడలు, వినోద వార్తలకు సంబంధించిన తాజా విశేషాలు, పరిణామాలపై వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20819039_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022093000 +0000" stop="20261022100000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग / 2 मिनट भारत</title>
+    <title lang="ta">லைவ் அண்ட் ப்ரேக்கிங் / 2 மினிட் பாரத்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్ / 2 మినిట్స్ భారత్</title>
+    <desc lang="en">The host presents the latest live news updates; the host sheds light on top news stories from across the nation and the world.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता ताज़ा समाचार सुर्खियां प्रस्तुत करते हैं, सीधा प्रसारण; समाचार प्रस्तुतकर्ता देश और दुनिया भर की अहम ख़बरों पर प्रकाश डालते हैं।</desc>
+    <desc lang="ta">செய்தி புதுப்பிப்புகளை வழங்கும் தொகுப்பாளர்; நாடு மற்றும் உலகம் முழுவதிலும் உள்ள முக்கிய செய்திகளை வழங்கும் தொகுப்பாளர்.</desc>
+    <desc lang="te">వ్యాఖ్యాత, తాజా వార్తా విశేషాలను అందిస్తారు; వ్యాఖ్యాత జాతీయ, అంతర్జాతీయ ప్రధాన వార్తా కథనాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28393179_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022100000 +0000" stop="20261022103000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022103000 +0000" stop="20261022110000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <title lang="hi">लाइव एंड ब्रेकिंग</title>
+    <title lang="ta">லைவ் &amp; பிரேக்கிங்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर लाइव अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல்களோடு, தற்போதைய நிகழ்வுகள், புதுப்பிப்புகளை வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారం, ప్రస్తుత సంఘటనలపై ప్రత్యక్ష ప్రసారాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29266666_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022110000 +0000" stop="20261022113000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <title lang="hi">रफ्तार 100</title>
+    <title lang="ta">ரஃப்தார் 100</title>
+    <title lang="te">రఫ్తార్ 100</title>
+    <desc lang="en">The host sheds light on the latest updates and developments pertaining to politics, economic, sports and entertainment news happening in India.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत में घटित हो रही राजनीति, अर्थव्यवस्था, खेल और मनोरंजन से संबंधित नवीनतम अपडेट और घटनाक्रमों के बारे में बताते हैं।</desc>
+    <desc lang="ta">இந்தியாவில் நடக்கும் அரசியல், பொருளாதாரம், விளையாட்டு மற்றும் பொழுதுபோக்கு செய்திகள் தொடர்பான விளக்கம்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలో జరుగుతున్న రాజకీయాలు, ఆర్థిక, క్రీడలు, వినోద వార్తలకు సంబంధించిన తాజా విశేషాలు, పరిణామాలపై వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20819039_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022113000 +0000" stop="20261022120000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Master Stroke</title>
+    <title lang="hi">मास्टर स्ट्रोक</title>
+    <title lang="ta">மாஸ்டர் ஸ்ட்ரோக்</title>
+    <title lang="te">మాస్టర్ స్ట్రోక్</title>
+    <desc lang="en">The host presents a detailed report of the latest news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता पूरे क्षेत्र से राजनीतिक, आर्थिक, सामाजिक और सांस्कृतिक मुद्दों से जुड़ी ताज़ा ख़बरों की एक विस्तृत रिपोर्ट प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">பிராந்தியம் முழுவதிலுமுள்ள அரசியல், பொருளாதாரம், சமூகம் - கலாச்சார தலைப்புகளை பற்றிய சமீப செய்திகளின் விரிவான அறிக்கை.</desc>
+    <desc lang="te">వ్యాఖ్యాత స్థానిక ప్రాంతానికి చెందిన రాజకీయ, ఆర్ధిక, సామాజిక, సాంస్కృతిక వార్తా విశేషాలపై వివరణాత్మక నివేదిక అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29739673_b_h9_ac.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022120000 +0000" stop="20261022123000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Master Stroke</title>
+    <title lang="hi">मास्टर स्ट्रोक</title>
+    <title lang="ta">மாஸ்டர் ஸ்ட்ரோக்</title>
+    <title lang="te">మాస్టర్ స్ట్రోక్</title>
+    <desc lang="en">The host presents a detailed report of the latest news stories about political, economic, social and cultural topics from all around the region.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता पूरे क्षेत्र से राजनीतिक, आर्थिक, सामाजिक और सांस्कृतिक मुद्दों से जुड़ी ताज़ा ख़बरों की एक विस्तृत रिपोर्ट प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">பிராந்தியம் முழுவதிலுமுள்ள அரசியல், பொருளாதாரம், சமூகம் - கலாச்சார தலைப்புகளை பற்றிய சமீப செய்திகளின் விரிவான அறிக்கை.</desc>
+    <desc lang="te">వ్యాఖ్యాత స్థానిక ప్రాంతానికి చెందిన రాజకీయ, ఆర్ధిక, సామాజిక, సాంస్కృతిక వార్తా విశేషాలపై వివరణాత్మక నివేదిక అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29739673_b_h9_ac.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022123000 +0000" stop="20261022130000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022130000 +0000" stop="20261022133000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <title lang="hi">महाभारत</title>
+    <title lang="ta">மஹாபாரத்</title>
+    <title lang="te">మహాభారత్</title>
+    <desc lang="en">The host illuminates current political and economic developments, offering insights on breaking news, policy changes, market trends and other events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता वर्तमान राजनीतिक और आर्थिक घटनाक्रमों के बारे में बता, ब्रेकिंग न्यूज़, नीतिगत परिवर्तनों, बाजार के रुझानों और अन्य घटनाओं पर जानकारी देते हैं।</desc>
+    <desc lang="ta">அரசியல் மற்றும் பொருளாதார முன்னேற்றங்கள், முக்கிய செய்திகள் மற்றும் சந்தை போக்குகள் குறித்து தொகுப்பாளர் விளக்குகிறார்.</desc>
+    <desc lang="te">ప్రస్తుత రాజకీయ, ఆర్థిక పరిణామాలను వివరిస్తూ, తాజా వార్తలు, విధాన మార్పులు, మార్కెట్ పోకడలు, ఇతర సంఘటనలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31331691_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022133000 +0000" stop="20261022140000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022140000 +0000" stop="20261022143000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <title lang="hi">पूछता है भारत</title>
+    <title lang="ta">பூச்தா ஹை பாரத்</title>
+    <title lang="te">పూచ్తా హై భారత్</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events and developments in the country.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता देश की नवीनतम राजनीतिक घटनाओं और विकास पर चर्चा के लिए प्रमुख हस्तियों को आमंत्रित करते हैं।</desc>
+    <desc lang="ta">அரசியல் நிகழ்வுகள் மற்றும் முன்னேற்றங்கள் குறித்த கலந்துரையாடலுக்கு முக்கிய பிரமுகர்களை தொகுப்பாளர் அழைக்கிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత రాజకీయ నాయకులు, సామాజిక కార్యకర్తలు, నిపుణులతో దేశంలోని వివిధ సమస్యల గురించి చర్చించి, విశ్లేషిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19782634_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022143000 +0000" stop="20261022150000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Rashtra Sarvopari</title>
+    <title lang="hi">राष्ट्र सर्वोपरि</title>
+    <title lang="ta">ராஷ்ட்ர சர்வோபரி</title>
+    <title lang="te">రాష్ట్ర సర్వోపరి</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல் மற்றும் தற்போதைய நிகழ்வுகள் பற்றிய புதுப்பிப்புகள்.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30584267_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022150000 +0000" stop="20261022153000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Rashtra Sarvopari</title>
+    <title lang="hi">राष्ट्र सर्वोपरि</title>
+    <title lang="ta">ராஷ்ட்ர சர்வோபரி</title>
+    <title lang="te">రాష్ట్ర సర్వోపరి</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी प्रस्तुत करते हैं और वर्तमान घटनाओं पर अपडेट प्रदान करते हैं।</desc>
+    <desc lang="ta">அன்றைய சமூக, பொருளாதார மற்றும் அரசியல் பிரச்சினைகள் பற்றிய தகவல் மற்றும் தற்போதைய நிகழ்வுகள் பற்றிய புதுப்பிப்புகள்.</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30584267_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022160000 +0000" stop="20261022163000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <title lang="hi">ये भारत की बात है</title>
+    <title lang="ta">யே பாரத் கி பாத் ஹை</title>
+    <title lang="te">యే భారత్ కి బాత్ హై</title>
+    <desc lang="en">The host presents the latest updates pertaining to the political, social and economic issues of the world in an in-depth manner.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता विश्व के राजनीतिक, सामाजिक और आर्थिक मुद्दों से संबंधित नवीनतम अपडेट को गहन तरीके से प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">உலகின் அரசியல், சமூக மற்றும் பொருளாதாரப் பிரச்சினைகள் தொடர்பான சமீபத்திய புதுப்பிப்புகளை ஆழமான முறையில் வழங்குகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని రాజకీయ, సామాజిక మరియు ఆర్థిక సమస్యలకు సంబంధించిన తాజా విశేషాలను లోతైన పద్ధతిలో అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18997050_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022163000 +0000" stop="20261022170000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live News</title>
+    <title lang="hi">लाइव न्यूज़</title>
+    <title lang="ta">லைவ் நியூஸ்</title>
+    <title lang="te">లైవ్ న్యూస్</title>
+    <desc lang="en">The host presents the latest comprehensive news stories and timely updates from across the nation regarding various pressing matters of importance.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता देश भर से अहम और ज़रूरी मुद्दों से संबन्धित समाचार सुर्खियां, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
+    <desc lang="ta">நாடு முழுவதும் உள்ள பல்வேறு முக்கிய மற்றும் அவசரமான விவகாரங்கள் குறித்த சமீபத்திய விரிவான செய்திகளையும், உடனுக்குடனான தகவல்களையும் தொகுப்பாளர் வழங்குகிறார்.</desc>
+    <desc lang="te">వ్యాఖ్యాత దేశంలోని వివిధ కీలకమైన అంశాలకు సంబంధించిన తాజా, సమగ్ర వార్తా కథనాలను, సమయానుకూల సమాచారాన్ని అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30335834_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p30335834_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022170000 +0000" stop="20261022173000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Aaj Ki Story</title>
+    <title lang="hi">आज की स्टोरी</title>
+    <title lang="ta">ஆஜ் கி ஸ்டோரி</title>
+    <title lang="te">ఆజ్ కీ స్టోరీ</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <desc lang="hi">टेलीविज़न के एक से बढ़कर एक कार्यक्रमों को प्रस्तुत किया जाता है।</desc>
+    <desc lang="ta">இந்நிகழ்ச்சி தொலைக்காட்சியில் மிகவும் சிறந்ததைக் கொண்டு வருகின்றது.</desc>
+    <desc lang="te">అత్యుత్తమ టెలివిజన్ కార్యక్రమాలు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p32913277_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p32913277_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022173000 +0000" stop="20261022180000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Final Cut</title>
+    <title lang="hi">फाइनल कट</title>
+    <title lang="ta">ஃபைனல் கட்</title>
+    <title lang="te">ఫైనల్ కట్</title>
+    <desc lang="en">The host talks about the latest teasers, trailers and songs from popular anticipated movies and sheds light on the casts and crew.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता, लोकप्रिय प्रत्याशित फिल्मों के नवीनतम टीज़र, ट्रेलर और गानों के बारे में बात करते हैं और कलाकारों एवं सहायक दल पर प्रकाश डालते हैं।</desc>
+    <desc lang="ta">பிரபல எதிர்பார்க்கப்பட்ட திரைப்படங்களின் சமீபத்திய டீசர்கள், டிரெய்லர்கள், பாடல்கள் மற்றும நடிகர்களை பற்றி கூறுகிறது.</desc>
+    <desc lang="te">వ్యాఖ్యాత తాజా తాజా టీజర్‌లు, ట్రైలర్‌లు, పాటల గురించి మాట్లాడుతూ, నటీనటులు, సిబ్బంది గురించి తెలుపుతారు.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27669087_b_h9_ac.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p27669087_b_h8_ac.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261022180000 +0000" stop="20261022183000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Rapid Fire</title>
+    <title lang="hi">रैपिड फायर</title>
+    <title lang="ta">ராபிட் ஃபையர்</title>
+    <title lang="te">రాపిడ్ ఫైర్</title>
+    <desc lang="en">The host sheds light on some of the latest national as well as regional news updates and developments in quick succession.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता तेजी से बदलते घटनाक्रमों के साथ कुछ नवीनतम राष्ट्रीय और क्षेत्रीय समाचार अपडेट प्रस्तुत करते हैं।</desc>
+    <desc lang="ta">சில சமீபத்திய தேசிய மற்றும் பிராந்திய செய்தி புதுப்பிப்புகள் மற்றும் விரைவாக முன்னேற்றங்களை முன்வைக்கும் தொகுப்பாளர்.</desc>
+    <desc lang="te">వ్యాఖ్యాత కొన్ని తాజా జాతీయ మరియు ప్రాంతీయ వార్తల విశేషాలు మరియు త్వరితగతిన పరిణామాల గురించి వివరిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29191773_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p29191773_b_h10_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">R News</title>
