@@ -2188,9 +2188,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p30314321_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022010000 +0000" stop="20261022011500 +0000" channel="DDNews.in@SD">
-    <title lang="en">Sanskrit Vaarta</title>
-    <desc lang="en">Presents the latest news updates on politics and the economy in Sanskrit.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26195697_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Sanskrit Vaarta Samachar</title>
+    <desc lang="en">Bridges the ancient language and modern reportage to deliver current events in Sanskrit.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31252032_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022011500 +0000" stop="20261022013000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar With HI</title>
@@ -2233,9 +2233,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p12682248_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022053000 +0000" stop="20261022063000 +0000" channel="DDNews.in@SD">
-    <title lang="en">11 Baje Ka Live</title>
+    <title lang="en">11 Baje</title>
     <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022063000 +0000" stop="20261022070000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
@@ -2298,14 +2298,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p32143416_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022140000 +0000" stop="20261022143000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Spl Prog</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p8170537_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Pura Sach</title>
+    <desc lang="en">Delivers comprehensive reports on the latest news and developments.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022143000 +0000" stop="20261022153000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night in Hindi</title>
-    <desc lang="en">Delivers current affairs about commerce, athletics, governance and social matters globally.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p11804979_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022153000 +0000" stop="20261022163000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
@@ -19725,1578 +19725,482 @@
   </programme>
   <programme start="20261020183000 +0000" stop="20261020190000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020190000 +0000" stop="20261020193000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020193000 +0000" stop="20261020200000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020200000 +0000" stop="20261020203000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020203000 +0000" stop="20261020210000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020210000 +0000" stop="20261020213000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020213000 +0000" stop="20261020220000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020220000 +0000" stop="20261020223000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020223000 +0000" stop="20261020230000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020230000 +0000" stop="20261020233000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261020233000 +0000" stop="20261021000000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021000000 +0000" stop="20261021003000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Good Morning Zee</title>
-    <title lang="hi">गुड मॉर्निंग ज़ी</title>
-    <title lang="ta">குட் மார்னிங் ஜீ</title>
-    <title lang="te">గుడ్ మార్నింగ్ జీ</title>
-    <title lang="mr">गुड मॉर्निंग झी</title>
-    <desc lang="en">The hosts present a detailed analysis of some of the most trending news stories and hold discussions on various news headlines appearing in prominent newspapers.</desc>
-    <date>20000101</date>
-    <category lang="en">TV Show</category>
-    <category lang="hi">टीवी कार्यक्रम</category>
-    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
-    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
-    <category lang="mr">टीव्ही कार्यक्रम</category>
-    <icon src="https://dtil.tmsimg.com/assets/p14916186_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p14916186_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">The hosts analyse the trending news stories and headlines appearing in newspapers.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p14916186_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021010000 +0000" stop="20261021013000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Subha Ka Shtak</title>
-    <title lang="hi">सुबह का शतक</title>
-    <title lang="ta">சுப கா ஷதக்</title>
-    <title lang="te">సుబహ్ కా శతక్</title>
-    <title lang="mr">सुबह का शतक</title>
-    <desc lang="en">The host invites experts to discuss the latest updates and most prominent social, political and economic news stories in the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p34020268_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p34020268_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host invites experts to discuss the latest updates in the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34020268_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021013000 +0000" stop="20261021020000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Nakshatra</title>
-    <title lang="hi">नक्षत्र</title>
-    <title lang="ta">நக்ஷத்ரா</title>
-    <title lang="te">నక్షత్ర</title>
-    <title lang="mr">नक्षत्र</title>
-    <desc lang="en">An astrological expert makes predictions based on the charts for all zodiac signs by studying the horoscope.</desc>
-    <date>20000101</date>
-    <category lang="en">TV Show</category>
-    <category lang="hi">टीवी कार्यक्रम</category>
-    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
-    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
-    <category lang="mr">टीव्ही कार्यक्रम</category>
-    <icon src="https://dtil.tmsimg.com/assets/p34020228_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p34020228_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">An expert makes predictions based on the charts for all zodiac signs.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261021020000 +0000" stop="20261021023000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Subah Ka Superfast</title>
-    <title lang="hi">सुबह का सुपरफास्ट</title>
-    <title lang="ta">சுபாஹ் கா சூப்பர்ஃபாஸ்ட்</title>
-    <title lang="te">సుబహ్ కా సూపర్‌ఫాస్ట్</title>
-    <title lang="mr">सुबह का सुपरफास्ट</title>
-    <desc lang="en">Renowned chefs prepare an array of breakfast recipes from around the world in a simplified manner while explaining each step to the viewers.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p34020250_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p34020250_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">Professional chefs prepare breakfast recipes in a simplified manner.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34020250_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021023000 +0000" stop="20261021030000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Morning Zee</title>
-    <title lang="hi">मॉर्निंग ज़ी</title>
-    <title lang="ta">மார்னிங் ஜீ</title>
-    <title lang="te">మార్నింగ్ జీ</title>
-    <title lang="mr">मॉर्निंग झी</title>
-    <desc lang="en">Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, राज्य भर के खेल, मौसम, अंतरराष्ट्रीय राजनीति और अर्थव्यवस्था की प्रमुख घटनाओं पर त्वरित उत्तराधिकार में प्रकाश डालते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత దేశం, ప్రపంచవ్యాప్తపు రాజకీయ, సామాజిక, ఆర్థిక, క్రీడా రంగాలకు సంబంధించిన తాజా వార్తా విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638039_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638039_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">Presents quick updates about global sports, the weather, and international politics.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638039_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021030000 +0000" stop="20261021033000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Morning Zee</title>
-    <title lang="hi">मॉर्निंग ज़ी</title>
-    <title lang="ta">மார்னிங் ஜீ</title>
-    <title lang="te">మార్నింగ్ జీ</title>
-    <title lang="mr">मॉर्निंग झी</title>
-    <desc lang="en">Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, राज्य भर के खेल, मौसम, अंतरराष्ट्रीय राजनीति और अर्थव्यवस्था की प्रमुख घटनाओं पर त्वरित उत्तराधिकार में प्रकाश डालते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత దేశం, ప్రపంచవ్యాప్తపు రాజకీయ, సామాజిక, ఆర్థిక, క్రీడా రంగాలకు సంబంధించిన తాజా వార్తా విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638039_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638039_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">Presents quick updates about global sports, the weather, and international politics.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638039_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021033000 +0000" stop="20261021040000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">9 Ki News</title>
-    <title lang="hi">9 की न्यूज़</title>
-    <title lang="ta">9 கி நியூஸ்</title>
-    <title lang="te">9 కి న్యూస్</title>
-    <title lang="mr">9 की न्यूज</title>
     <desc lang="en">Provides daily news updates on politics, the economy, society, and sports.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दिन के राजनीति, अर्थव्यवस्था, समाज, खेल और अधिक से संबंधित नवीनतम समाचार और घटनाक्रम प्रस्तुत करते हैं।</desc>
-    <desc lang="te">ప్రపంచవ్యాప్తంగా ప్రజలను ప్రభావితం చేసే వివిధ రంగాలకు సంబంధించిన వార్తా కథనాలు, ముఖ్యమైన విశేషాల గురించి తెలియజేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24253331_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p24253331_b_h10_ac.jpg?lock=1280x720</image>
+    <icon src="https://ttpl.tmsimg.com/assets/p24253331_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021040000 +0000" stop="20261021043000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">9 Ki News</title>
-    <title lang="hi">9 की न्यूज़</title>
-    <title lang="ta">9 கி நியூஸ்</title>
-    <title lang="te">9 కి న్యూస్</title>
-    <title lang="mr">9 की न्यूज</title>
     <desc lang="en">Provides daily news updates on politics, the economy, society, and sports.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दिन के राजनीति, अर्थव्यवस्था, समाज, खेल और अधिक से संबंधित नवीनतम समाचार और घटनाक्रम प्रस्तुत करते हैं।</desc>
-    <desc lang="te">ప్రపంచవ్యాప్తంగా ప్రజలను ప్రభావితం చేసే వివిధ రంగాలకు సంబంధించిన వార్తా కథనాలు, ముఖ్యమైన విశేషాల గురించి తెలియజేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24253331_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p24253331_b_h10_ac.jpg?lock=1280x720</image>
+    <icon src="https://ttpl.tmsimg.com/assets/p24253331_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021043000 +0000" stop="20261021050000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">To The Point</title>
-    <title lang="hi">टू द पॉइंट</title>
-    <title lang="ta">டு தி பாயிண்ட்</title>
-    <title lang="te">టు ది పాయింట్</title>
-    <title lang="mr">टु द पॉईंट</title>
-    <desc lang="en">The host analyses the latest developments and important updates that concern people living in different parts of the country.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता, विभिन्न क्षेत्रों के कई विशेषज्ञों को वर्तमान मुद्दों से संबंधित विषयों पर चर्चा करने और अपने विचार साझा करने के लिए आमंत्रित करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత, నిపుణులతో ప్రస్తుత రాజకీయ, సామాజిక-ఆర్ధిక సమస్యల గురించి చర్చించి, సమగ్ర విశ్లేషణ అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28410458_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28410458_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host analyses the latest developments and important updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28410458_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021050000 +0000" stop="20261021053000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">To The Point</title>
-    <title lang="hi">टू द पॉइंट</title>
-    <title lang="ta">டு தி பாயிண்ட்</title>
-    <title lang="te">టు ది పాయింట్</title>
-    <title lang="mr">टु द पॉईंट</title>
-    <desc lang="en">The host analyses the latest developments and important updates that concern people living in different parts of the country.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता, विभिन्न क्षेत्रों के कई विशेषज्ञों को वर्तमान मुद्दों से संबंधित विषयों पर चर्चा करने और अपने विचार साझा करने के लिए आमंत्रित करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత, నిపుణులతో ప్రస్తుత రాజకీయ, సామాజిక-ఆర్ధిక సమస్యల గురించి చర్చించి, సమగ్ర విశ్లేషణ అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28410458_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28410458_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host analyses the latest developments and important updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28410458_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021053000 +0000" stop="20261021060000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Battel Ground</title>
-    <title lang="ta">பேட்டில் கிரவுண்ட்</title>
-    <title lang="te">బ్యాటిల్ గ్రౌండ్</title>
-    <title lang="mr">बॅटल ग्राउंड</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021060000 +0000" stop="20261021063000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Battel Ground</title>
-    <title lang="ta">பேட்டில் கிரவுண்ட்</title>
-    <title lang="te">బ్యాటిల్ గ్రౌండ్</title>
-    <title lang="mr">बॅटल ग्राउंड</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021063000 +0000" stop="20261021070000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">12 Ka Agenda</title>
-    <title lang="hi">12 का एजेंडा</title>
-    <title lang="ta">12 கா ஏஜண்டா</title>
-    <title lang="te">12 కా ఎజెండా</title>
-    <title lang="mr">12 का अजेंडा</title>
-    <desc lang="en">Presents the top news stories from across the world with in-depth analysis of important events and updates.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के कुछ सबसे महत्वपूर्ण और नवीनतम सामाजिक, राजनीतिक और आर्थिक समाचार अपडेट और घटनाक्रम प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, రాజకీయ, ఆర్ధిక రంగాలకు చెందిన అత్యంత ముఖ్యమైన తాజా వార్తా విశేషాలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p31415211_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p31415211_b_h10_af.jpg?lock=1280x720</image>
+    <desc lang="en">Presents the top news stories from across the world with in-depth analysis of important updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31415211_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021070000 +0000" stop="20261021073000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021073000 +0000" stop="20261021080000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Ek Se Bhaskar Ek</title>
-    <title lang="ta">ஏக் சே பாஸ்கர் ஏக்</title>
-    <title lang="te">ఏక్ సే భాస్కర్ ఏక్</title>
-    <title lang="mr">एक से भास्कर एक</title>
-    <desc lang="en">The host collates and presents the most important news updates and developments from the political, social, economic and sports fronts in India and the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p33104933_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p33104933_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">The host collates and presents the most important news updates and developments.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021080000 +0000" stop="20261021083000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021083000 +0000" stop="20261021090000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Rashtrahit</title>
-    <title lang="hi">राष्ट्रहित</title>
-    <title lang="ta">ராஷ்ட்ர்ஹிட்</title>
-    <title lang="mr">राष्ट्रहित</title>
-    <desc lang="en">The host presents the latest updates pertaining to the upcoming elections and the policies adopted by the political parties to gain public approval.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p32469913_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p32469913_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host presents the latest updates pertaining to the upcoming elections.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Rashtrahit</title>
-    <title lang="hi">राष्ट्रहित</title>
-    <title lang="ta">ராஷ்ட்ர்ஹிட்</title>
-    <title lang="mr">राष्ट्रहित</title>
-    <desc lang="en">The host presents the latest updates pertaining to the upcoming elections and the policies adopted by the political parties to gain public approval.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p32469913_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p32469913_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host presents the latest updates pertaining to the upcoming elections.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Bollywood Breaking</title>
-    <title lang="hi">बॉलीवुड ब्रेकिंग</title>
-    <title lang="ta">பாலிவுட் பிரேக்கிங்</title>
-    <title lang="te">బాలీవుడ్ బ్రేకింగ్</title>
-    <title lang="mr">बॉलीवूड ब्रेकिंग</title>
-    <desc lang="en">Presents latest updates from Bollywood, and news on developments surrounding celebrities and the entertainment industry.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता बॉलीवुड से नवीनतम अपडेट प्रस्तुत करते हैं और मशहूर हस्तियों तथा मनोरंजन उद्योग से संबंधित घटनाक्रमों के बारे में जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత బాలీవుడ్‌లోని తాజా విశేషాలు, సెలబ్రిటీల వార్తలు, వినోద రంగానికి సంబంధించిన పరిణామాల గురించి సమాచారాన్ని అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">TV Show</category>
-    <category lang="hi">टीवी कार्यक्रम</category>
-    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
-    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
-    <category lang="mr">टीव्ही कार्यक्रम</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12682236_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p12682236_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">Presents the latest updates and developments on Bollywood and celebrities.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682236_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021100000 +0000" stop="20261021103000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021103000 +0000" stop="20261021110000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Fast N Facts</title>
-    <title lang="hi">फास्ट एन फैक्ट्स</title>
-    <title lang="ta">ஃபாஸ்ட் என் ஃபேக்ட்ஸ்</title>
-    <title lang="te">ఫాస్ట్ ఎన్ ఫ్యాక్ట్స్</title>
-    <desc lang="en">Presents comprehensive and detailed insights that highlight new developments that are making the headlines.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता दर्शकों के लिए पूरे क्षेत्र से नवीनतम समाचारों और घटनाक्रमों पर व्यापक एवं विस्तृत जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రాంతంలోని తాజా వార్తలు, అభివృద్ధిని వివరిస్తూ, సమగ్రమైన, వివరణాత్మక అంతర్దృష్టిని అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">Presents comprehensive and detailed insights into the developments that are making the headlines.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682155_b_h11_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021110000 +0000" stop="20261021113000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Fast N Facts</title>
-    <title lang="hi">फास्ट एन फैक्ट्स</title>
-    <title lang="ta">ஃபாஸ்ட் என் ஃபேக்ட்ஸ்</title>
-    <title lang="te">ఫాస్ట్ ఎన్ ఫ్యాక్ట్స్</title>
-    <desc lang="en">Presents comprehensive and detailed insights that highlight new developments that are making the headlines.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता दर्शकों के लिए पूरे क्षेत्र से नवीनतम समाचारों और घटनाक्रमों पर व्यापक एवं विस्तृत जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రాంతంలోని తాజా వార్తలు, అభివృద్ధిని వివరిస్తూ, సమగ్రమైన, వివరణాత్మక అంతర్దృష్టిని అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">Presents comprehensive and detailed insights into the developments that are making the headlines.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682155_b_h11_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021113000 +0000" stop="20261021120000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Taal Thok Ke</title>
-    <title lang="hi">ताल ठोक के</title>
-    <title lang="ta">தால் தோக் கே</title>
-    <title lang="te">తాల్ థోక్ కే</title>
-    <title lang="mr">ताल ठोक के</title>
-    <desc lang="en">Provides an in-depth analysis of the top stories, latest updates, and headlines of current events worldwide.</desc>
-    <desc lang="hi">यह कार्यक्रम दिन भर के सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़े नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12682161_b_h9_ai.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p12682161_b_h8_ai.jpg?lock=1280x720</image>
+    <desc lang="en">An in-depth analysis of the latest updates and current events worldwide.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682161_b_h8_ai.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021120000 +0000" stop="20261021123000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Taal Thok Ke</title>
-    <title lang="hi">ताल ठोक के</title>
-    <title lang="ta">தால் தோக் கே</title>
-    <title lang="te">తాల్ థోక్ కే</title>
-    <title lang="mr">ताल ठोक के</title>
-    <desc lang="en">Provides an in-depth analysis of the top stories, latest updates, and headlines of current events worldwide.</desc>
-    <desc lang="hi">यह कार्यक्रम दिन भर के सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़े नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12682161_b_h9_ai.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p12682161_b_h8_ai.jpg?lock=1280x720</image>
+    <desc lang="en">An in-depth analysis of the latest updates and current events worldwide.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682161_b_h8_ai.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021123000 +0000" stop="20261021130000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Rajneeti</title>
-    <title lang="hi">राजनीति</title>
-    <title lang="ta">ராஜ்நீதி</title>
-    <title lang="te">రాజ్‌నీతి</title>
-    <title lang="mr">राजनीती</title>
-    <desc lang="en">The host provides the latest and most important news related to politics from various parts of the world and provides an in-depth analysis of them.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता विभिन्न सामाजिक-राजनीतिक मुद्दों से संबंधित नवीनतम समाचारों और महत्वपूर्ण घटनाक्रमों की विस्तृत जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని వివిధ ప్రాంతాల రాజకీయాలకు సంబంధించిన అత్యంత ముఖ్యమైన వార్తలపై లోతైన విశ్లేషణను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28410365_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28410365_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host analyses the latest and most important political news from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28410365_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Rajneeti</title>
-    <title lang="hi">राजनीति</title>
-    <title lang="ta">ராஜ்நீதி</title>
-    <title lang="te">రాజ్‌నీతి</title>
-    <title lang="mr">राजनीती</title>
-    <desc lang="en">The host provides the latest and most important news related to politics from various parts of the world and provides an in-depth analysis of them.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता विभिन्न सामाजिक-राजनीतिक मुद्दों से संबंधित नवीनतम समाचारों और महत्वपूर्ण घटनाक्रमों की विस्तृत जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని వివిధ ప్రాంతాల రాజకీయాలకు సంబంధించిన అత్యంత ముఖ్యమైన వార్తలపై లోతైన విశ్లేషణను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28410365_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28410365_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host analyses the latest and most important political news from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28410365_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021133000 +0000" stop="20261021140000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Baat Pate Ki</title>
-    <title lang="hi">बात पते की</title>
-    <title lang="ta">பாத் பதே கி</title>
-    <title lang="te">బాత్ పతే కి</title>
-    <title lang="mr">बात पते की</title>
-    <desc lang="en">A presentation of news updates on various topics and the latest developing stories from around the world.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के लोगों को प्रभावित करने वाले विभिन्न मुद्दों से संबंधित नवीनतम समाचारों और प्रमुख घटनाक्रमों को प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత వివిధ అంశాలపై జాతీయ, అంతర్జాతీయ తాజా వార్తా విశేషాలు, సమకాలీన సంఘటనలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23284633_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p23284633_b_h10_ad.jpg?lock=1280x720</image>
+    <desc lang="en">Presents news updates and the latest developing stories from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p23284633_b_h10_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021140000 +0000" stop="20261021143000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Baat Pate Ki</title>
-    <title lang="hi">बात पते की</title>
-    <title lang="ta">பாத் பதே கி</title>
-    <title lang="te">బాత్ పతే కి</title>
-    <title lang="mr">बात पते की</title>
-    <desc lang="en">A presentation of news updates on various topics and the latest developing stories from around the world.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के लोगों को प्रभावित करने वाले विभिन्न मुद्दों से संबंधित नवीनतम समाचारों और प्रमुख घटनाक्रमों को प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత వివిధ అంశాలపై జాతీయ, అంతర్జాతీయ తాజా వార్తా విశేషాలు, సమకాలీన సంఘటనలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23284633_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p23284633_b_h10_ad.jpg?lock=1280x720</image>
+    <desc lang="en">Presents news updates and the latest developing stories from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p23284633_b_h10_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021143000 +0000" stop="20261021150000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Deshhit</title>
-    <title lang="hi">देशहित</title>
-    <title lang="ta">தேஷ்ஹிட்</title>
-    <title lang="te">దేశ్‌హిత్</title>
-    <title lang="mr">देशहित</title>
-    <desc lang="en">The host presents the latest information about economics and politics from India and around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता भारत के विभिन्न हिस्सों से नवीनतम और ताज़ा सामाजिक-आर्थिक और राजनीतिक समाचारों, अपडेट और घटनाक्रम का गहन विश्लेषण प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత దేశంలోని వివిధ ప్రాంతాలకు చెందిన సామాజిక-ఆర్ధిక, రాజకీయ వార్తా విశేషాలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15023802_b_h9_ac.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p15023802_b_h8_ac.jpg?lock=1280x720</image>
+    <desc lang="en">The host presents the latest updates and key developments from around the nation.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15023802_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021150000 +0000" stop="20261021153000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Deshhit</title>
-    <title lang="hi">देशहित</title>
-    <title lang="ta">தேஷ்ஹிட்</title>
-    <title lang="te">దేశ్‌హిత్</title>
-    <title lang="mr">देशहित</title>
-    <desc lang="en">The host presents the latest information about economics and politics from India and around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता भारत के विभिन्न हिस्सों से नवीनतम और ताज़ा सामाजिक-आर्थिक और राजनीतिक समाचारों, अपडेट और घटनाक्रम का गहन विश्लेषण प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత దేశంలోని వివిధ ప్రాంతాలకు చెందిన సామాజిక-ఆర్ధిక, రాజకీయ వార్తా విశేషాలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15023802_b_h9_ac.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p15023802_b_h8_ac.jpg?lock=1280x720</image>
+    <desc lang="en">The host presents the latest updates and key developments from around the nation.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15023802_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021153000 +0000" stop="20261021160000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Daily News &amp; Analysis</title>
-    <title lang="hi">डेली न्यूज़ एण्ड एनालिसिस</title>
-    <title lang="ta">டெய்லி நியூஸ் அண்ட் அனாலிசிஸ்</title>
-    <title lang="te">డైలీ న్యూస్ అండ్ ఎనాలిసిస్</title>
-    <title lang="mr">डेली न्यूज अँड अनॅलिसिस</title>
-    <desc lang="en">In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता किसी ऐसे विषय या मुद्दे पर प्रकाश डालते हैं जो राष्ट्रीय स्तर पर नवीनतम समाचारों और समसामयिक घटनाओं में शामिल है।</desc>
-    <desc lang="te">వ్యాఖ్యాత, దేశవ్యాప్తపు ఇటీవలి వార్తా కథనాలు, ప్రస్తుత కార్యక్రమాలకు సంబంధించిన అంశాలు, సమస్యల గురించి తెలుపుతారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11112905_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">In-depth analysis of the latest news and current affairs around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021160000 +0000" stop="20261021163000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Daily News &amp; Analysis</title>
-    <title lang="hi">डेली न्यूज़ एण्ड एनालिसिस</title>
-    <title lang="ta">டெய்லி நியூஸ் அண்ட் அனாலிசிஸ்</title>
-    <title lang="te">డైలీ న్యూస్ అండ్ ఎనాలిసిస్</title>
-    <title lang="mr">डेली न्यूज अँड अनॅलिसिस</title>
-    <desc lang="en">In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता किसी ऐसे विषय या मुद्दे पर प्रकाश डालते हैं जो राष्ट्रीय स्तर पर नवीनतम समाचारों और समसामयिक घटनाओं में शामिल है।</desc>
-    <desc lang="te">వ్యాఖ్యాత, దేశవ్యాప్తపు ఇటీవలి వార్తా కథనాలు, ప్రస్తుత కార్యక్రమాలకు సంబంధించిన అంశాలు, సమస్యల గురించి తెలుపుతారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11112905_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">In-depth analysis of the latest news and current affairs around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021163000 +0000" stop="20261021170000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Badi Khabar</title>
-    <title lang="hi">बड़ी ख़बर</title>
-    <title lang="ta">படி கபர்</title>
-    <title lang="te">బడి ఖబర్</title>
-    <title lang="mr">बडी खबर</title>
-    <desc lang="en">The hosts present a detailed analysis of some of the most important news, updates and developments of the day in India and the world.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता देश भर में समाज के विभिन्न क्षेत्रों से संबंधित दिन की सबसे बड़ी समाचार कहानियां और ताज़ा जानकारी प्रस्तुत करते हैं।</desc>
-    <desc lang="ta">நாடு முழுவதும் சமூகத்தின் பல துறைகளிலிருந்து அன்றைய மிகப்பெரிய செய்திகள் மற்றும் புதுப்பிப்புகளை வழங்கும் தொகுப்பாளர்.</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి అతి ముఖ్యమైన వార్తలు, సమాచారం మరియు పరిణామాల యొక్క వివరణాత్మక అవలోకనాన్ని అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28409980_b_h9_ae.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28409980_b_h10_ae.jpg?lock=1280x720</image>
+    <desc lang="en">The hosts present a detailed analysis of the top stories of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28409980_b_h10_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021170000 +0000" stop="20261021173000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Daily News &amp; Analysis</title>
-    <title lang="hi">डेली न्यूज़ एण्ड एनालिसिस</title>
-    <title lang="ta">டெய்லி நியூஸ் அண்ட் அனாலிசிஸ்</title>
-    <title lang="te">డైలీ న్యూస్ అండ్ ఎనాలిసిస్</title>
-    <title lang="mr">डेली न्यूज अँड अनॅलिसिस</title>
-    <desc lang="en">In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता किसी ऐसे विषय या मुद्दे पर प्रकाश डालते हैं जो राष्ट्रीय स्तर पर नवीनतम समाचारों और समसामयिक घटनाओं में शामिल है।</desc>
-    <desc lang="te">వ్యాఖ్యాత, దేశవ్యాప్తపు ఇటీవలి వార్తా కథనాలు, ప్రస్తుత కార్యక్రమాలకు సంబంధించిన అంశాలు, సమస్యల గురించి తెలుపుతారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11112905_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">In-depth analysis of the latest news and current affairs around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021180000 +0000" stop="20261021183000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261021183000 +0000" stop="20261021190000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021190000 +0000" stop="20261021193000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021193000 +0000" stop="20261021200000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021200000 +0000" stop="20261021203000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021203000 +0000" stop="20261021210000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021210000 +0000" stop="20261021213000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021213000 +0000" stop="20261021220000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021220000 +0000" stop="20261021223000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021223000 +0000" stop="20261021230000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021230000 +0000" stop="20261021233000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261021233000 +0000" stop="20261022000000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">News Bulletin</title>
-    <title lang="ta">நியூஸ் புல்லடின்</title>
-    <title lang="te">న్యూస్ బులెటిన్</title>
-    <title lang="mr">न्यूज बुलेटीन</title>
-    <desc lang="en">The hosts shed light on the latest and biggest political, economic and social news, developments and events taking place in India and all around the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">The hosts cover the latest news stories and events in India and around the world.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022003000 +0000" stop="20261022010000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Good Morning Zee</title>
-    <title lang="hi">गुड मॉर्निंग ज़ी</title>
-    <title lang="ta">குட் மார்னிங் ஜீ</title>
-    <title lang="te">గుడ్ మార్నింగ్ జీ</title>
-    <title lang="mr">गुड मॉर्निंग झी</title>
-    <desc lang="en">The hosts present a detailed analysis of some of the most trending news stories and hold discussions on various news headlines appearing in prominent newspapers.</desc>
-    <date>20000101</date>
-    <category lang="en">TV Show</category>
-    <category lang="hi">टीवी कार्यक्रम</category>
-    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
-    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
-    <category lang="mr">टीव्ही कार्यक्रम</category>
-    <icon src="https://dtil.tmsimg.com/assets/p14916186_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p14916186_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">The hosts analyse the trending news stories and headlines appearing in newspapers.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p14916186_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022010000 +0000" stop="20261022013000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Subha Ka Shtak</title>
-    <title lang="hi">सुबह का शतक</title>
-    <title lang="ta">சுப கா ஷதக்</title>
-    <title lang="te">సుబహ్ కా శతక్</title>
-    <title lang="mr">सुबह का शतक</title>
-    <desc lang="en">The host invites experts to discuss the latest updates and most prominent social, political and economic news stories in the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p34020268_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p34020268_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host invites experts to discuss the latest updates in the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34020268_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022013000 +0000" stop="20261022020000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Nakshatra</title>
-    <title lang="hi">नक्षत्र</title>
-    <title lang="ta">நக்ஷத்ரா</title>
-    <title lang="te">నక్షత్ర</title>
-    <title lang="mr">नक्षत्र</title>
-    <desc lang="en">An astrological expert makes predictions based on the charts for all zodiac signs by studying the horoscope.</desc>
-    <date>20000101</date>
-    <category lang="en">TV Show</category>
-    <category lang="hi">टीवी कार्यक्रम</category>
-    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
-    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
-    <category lang="mr">टीव्ही कार्यक्रम</category>
-    <icon src="https://dtil.tmsimg.com/assets/p34020228_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p34020228_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">An expert makes predictions based on the charts for all zodiac signs.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261022020000 +0000" stop="20261022023000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Subah Ka Superfast</title>
-    <title lang="hi">सुबह का सुपरफास्ट</title>
-    <title lang="ta">சுபாஹ் கா சூப்பர்ஃபாஸ்ட்</title>
-    <title lang="te">సుబహ్ కా సూపర్‌ఫాస్ట్</title>
-    <title lang="mr">सुबह का सुपरफास्ट</title>
-    <desc lang="en">Renowned chefs prepare an array of breakfast recipes from around the world in a simplified manner while explaining each step to the viewers.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p34020250_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p34020250_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">Professional chefs prepare breakfast recipes in a simplified manner.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34020250_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022023000 +0000" stop="20261022030000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Morning Zee</title>
-    <title lang="hi">मॉर्निंग ज़ी</title>
-    <title lang="ta">மார்னிங் ஜீ</title>
-    <title lang="te">మార్నింగ్ జీ</title>
-    <title lang="mr">मॉर्निंग झी</title>
-    <desc lang="en">Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, राज्य भर के खेल, मौसम, अंतरराष्ट्रीय राजनीति और अर्थव्यवस्था की प्रमुख घटनाओं पर त्वरित उत्तराधिकार में प्रकाश डालते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత దేశం, ప్రపంచవ్యాప్తపు రాజకీయ, సామాజిక, ఆర్థిక, క్రీడా రంగాలకు సంబంధించిన తాజా వార్తా విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638039_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638039_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">Presents quick updates about global sports, the weather, and international politics.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638039_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022030000 +0000" stop="20261022033000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Morning Zee</title>
-    <title lang="hi">मॉर्निंग ज़ी</title>
-    <title lang="ta">மார்னிங் ஜீ</title>
-    <title lang="te">మార్నింగ్ జీ</title>
-    <title lang="mr">मॉर्निंग झी</title>
-    <desc lang="en">Presents quick updates about global sports, the weather, and international politics to start the day.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, राज्य भर के खेल, मौसम, अंतरराष्ट्रीय राजनीति और अर्थव्यवस्था की प्रमुख घटनाओं पर त्वरित उत्तराधिकार में प्रकाश डालते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత దేశం, ప్రపంచవ్యాప్తపు రాజకీయ, సామాజిక, ఆర్థిక, క్రీడా రంగాలకు సంబంధించిన తాజా వార్తా విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638039_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638039_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">Presents quick updates about global sports, the weather, and international politics.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638039_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022033000 +0000" stop="20261022040000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">9 Ki News</title>
-    <title lang="hi">9 की न्यूज़</title>
-    <title lang="ta">9 கி நியூஸ்</title>
-    <title lang="te">9 కి న్యూస్</title>
-    <title lang="mr">9 की न्यूज</title>
     <desc lang="en">Provides daily news updates on politics, the economy, society, and sports.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दिन के राजनीति, अर्थव्यवस्था, समाज, खेल और अधिक से संबंधित नवीनतम समाचार और घटनाक्रम प्रस्तुत करते हैं।</desc>
-    <desc lang="te">ప్రపంచవ్యాప్తంగా ప్రజలను ప్రభావితం చేసే వివిధ రంగాలకు సంబంధించిన వార్తా కథనాలు, ముఖ్యమైన విశేషాల గురించి తెలియజేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24253331_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p24253331_b_h10_ac.jpg?lock=1280x720</image>
+    <icon src="https://ttpl.tmsimg.com/assets/p24253331_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022040000 +0000" stop="20261022043000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">9 Ki News</title>
-    <title lang="hi">9 की न्यूज़</title>
-    <title lang="ta">9 கி நியூஸ்</title>
-    <title lang="te">9 కి న్యూస్</title>
-    <title lang="mr">9 की न्यूज</title>
     <desc lang="en">Provides daily news updates on politics, the economy, society, and sports.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दिन के राजनीति, अर्थव्यवस्था, समाज, खेल और अधिक से संबंधित नवीनतम समाचार और घटनाक्रम प्रस्तुत करते हैं।</desc>
-    <desc lang="te">ప్రపంచవ్యాప్తంగా ప్రజలను ప్రభావితం చేసే వివిధ రంగాలకు సంబంధించిన వార్తా కథనాలు, ముఖ్యమైన విశేషాల గురించి తెలియజేస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24253331_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p24253331_b_h10_ac.jpg?lock=1280x720</image>
+    <icon src="https://ttpl.tmsimg.com/assets/p24253331_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022043000 +0000" stop="20261022050000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">To The Point</title>
-    <title lang="hi">टू द पॉइंट</title>
-    <title lang="ta">டு தி பாயிண்ட்</title>
-    <title lang="te">టు ది పాయింట్</title>
-    <title lang="mr">टु द पॉईंट</title>
-    <desc lang="en">The host analyses the latest developments and important updates that concern people living in different parts of the country.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता, विभिन्न क्षेत्रों के कई विशेषज्ञों को वर्तमान मुद्दों से संबंधित विषयों पर चर्चा करने और अपने विचार साझा करने के लिए आमंत्रित करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత, నిపుణులతో ప్రస్తుత రాజకీయ, సామాజిక-ఆర్ధిక సమస్యల గురించి చర్చించి, సమగ్ర విశ్లేషణ అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28410458_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28410458_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host analyses the latest developments and important updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28410458_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022050000 +0000" stop="20261022053000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">To The Point</title>
-    <title lang="hi">टू द पॉइंट</title>
-    <title lang="ta">டு தி பாயிண்ட்</title>
-    <title lang="te">టు ది పాయింట్</title>
-    <title lang="mr">टु द पॉईंट</title>
-    <desc lang="en">The host analyses the latest developments and important updates that concern people living in different parts of the country.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता, विभिन्न क्षेत्रों के कई विशेषज्ञों को वर्तमान मुद्दों से संबंधित विषयों पर चर्चा करने और अपने विचार साझा करने के लिए आमंत्रित करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత, నిపుణులతో ప్రస్తుత రాజకీయ, సామాజిక-ఆర్ధిక సమస్యల గురించి చర్చించి, సమగ్ర విశ్లేషణ అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28410458_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28410458_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host analyses the latest developments and important updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28410458_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022053000 +0000" stop="20261022060000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Battel Ground</title>
-    <title lang="ta">பேட்டில் கிரவுண்ட்</title>
-    <title lang="te">బ్యాటిల్ గ్రౌండ్</title>
-    <title lang="mr">बॅटल ग्राउंड</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022060000 +0000" stop="20261022063000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Battel Ground</title>
-    <title lang="ta">பேட்டில் கிரவுண்ட்</title>
-    <title lang="te">బ్యాటిల్ గ్రౌండ్</title>
-    <title lang="mr">बॅटल ग्राउंड</title>
     <desc lang="en">Bringing the best in television.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022063000 +0000" stop="20261022070000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">12 Ka Agenda</title>
-    <title lang="hi">12 का एजेंडा</title>
-    <title lang="ta">12 கா ஏஜண்டா</title>
-    <title lang="te">12 కా ఎజెండా</title>
-    <title lang="mr">12 का अजेंडा</title>
-    <desc lang="en">Presents the top news stories from across the world with in-depth analysis of important events and updates.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के कुछ सबसे महत्वपूर्ण और नवीनतम सामाजिक, राजनीतिक और आर्थिक समाचार अपडेट और घटनाक्रम प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, రాజకీయ, ఆర్ధిక రంగాలకు చెందిన అత్యంత ముఖ్యమైన తాజా వార్తా విశేషాలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p31415211_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p31415211_b_h10_af.jpg?lock=1280x720</image>
+    <desc lang="en">Presents the top news stories from across the world with in-depth analysis of important updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31415211_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022070000 +0000" stop="20261022073000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022073000 +0000" stop="20261022080000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Ek Se Bhaskar Ek</title>
-    <title lang="ta">ஏக் சே பாஸ்கர் ஏக்</title>
-    <title lang="te">ఏక్ సే భాస్కర్ ఏక్</title>
-    <title lang="mr">एक से भास्कर एक</title>
-    <desc lang="en">The host collates and presents the most important news updates and developments from the political, social, economic and sports fronts in India and the world.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p33104933_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p33104933_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">The host collates and presents the most important news updates and developments.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022080000 +0000" stop="20261022083000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022083000 +0000" stop="20261022090000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Rashtrahit</title>
-    <title lang="hi">राष्ट्रहित</title>
-    <title lang="ta">ராஷ்ட்ர்ஹிட்</title>
-    <title lang="mr">राष्ट्रहित</title>
-    <desc lang="en">The host presents the latest updates pertaining to the upcoming elections and the policies adopted by the political parties to gain public approval.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p32469913_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p32469913_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host presents the latest updates pertaining to the upcoming elections.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022090000 +0000" stop="20261022093000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Rashtrahit</title>
-    <title lang="hi">राष्ट्रहित</title>
-    <title lang="ta">ராஷ்ட்ர்ஹிட்</title>
-    <title lang="mr">राष्ट्रहित</title>
-    <desc lang="en">The host presents the latest updates pertaining to the upcoming elections and the policies adopted by the political parties to gain public approval.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p32469913_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p32469913_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host presents the latest updates pertaining to the upcoming elections.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261022093000 +0000" stop="20261022100000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Bollywood Breaking</title>
-    <title lang="hi">बॉलीवुड ब्रेकिंग</title>
-    <title lang="ta">பாலிவுட் பிரேக்கிங்</title>
-    <title lang="te">బాలీవుడ్ బ్రేకింగ్</title>
-    <title lang="mr">बॉलीवूड ब्रेकिंग</title>
-    <desc lang="en">Presents latest updates from Bollywood, and news on developments surrounding celebrities and the entertainment industry.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता बॉलीवुड से नवीनतम अपडेट प्रस्तुत करते हैं और मशहूर हस्तियों तथा मनोरंजन उद्योग से संबंधित घटनाक्रमों के बारे में जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత బాలీవుడ్‌లోని తాజా విశేషాలు, సెలబ్రిటీల వార్తలు, వినోద రంగానికి సంబంధించిన పరిణామాల గురించి సమాచారాన్ని అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">TV Show</category>
-    <category lang="hi">टीवी कार्यक्रम</category>
-    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
-    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
-    <category lang="mr">टीव्ही कार्यक्रम</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12682236_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p12682236_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">Presents the latest updates and developments on Bollywood and celebrities.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682236_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022100000 +0000" stop="20261022103000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022103000 +0000" stop="20261022110000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Fast N Facts</title>
-    <title lang="hi">फास्ट एन फैक्ट्स</title>
-    <title lang="ta">ஃபாஸ்ட் என் ஃபேக்ட்ஸ்</title>
-    <title lang="te">ఫాస్ట్ ఎన్ ఫ్యాక్ట్స్</title>
-    <desc lang="en">Presents comprehensive and detailed insights that highlight new developments that are making the headlines.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता दर्शकों के लिए पूरे क्षेत्र से नवीनतम समाचारों और घटनाक्रमों पर व्यापक एवं विस्तृत जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రాంతంలోని తాజా వార్తలు, అభివృద్ధిని వివరిస్తూ, సమగ్రమైన, వివరణాత్మక అంతర్దృష్టిని అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">Presents comprehensive and detailed insights into the developments that are making the headlines.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682155_b_h11_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022110000 +0000" stop="20261022113000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Fast N Facts</title>
-    <title lang="hi">फास्ट एन फैक्ट्स</title>
-    <title lang="ta">ஃபாஸ்ட் என் ஃபேக்ட்ஸ்</title>
-    <title lang="te">ఫాస్ట్ ఎన్ ఫ్యాక్ట్స్</title>
-    <desc lang="en">Presents comprehensive and detailed insights that highlight new developments that are making the headlines.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता दर्शकों के लिए पूरे क्षेत्र से नवीनतम समाचारों और घटनाक्रमों पर व्यापक एवं विस्तृत जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రాంతంలోని తాజా వార్తలు, అభివృద్ధిని వివరిస్తూ, సమగ్రమైన, వివరణాత్మక అంతర్దృష్టిని అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
+    <desc lang="en">Presents comprehensive and detailed insights into the developments that are making the headlines.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682155_b_h11_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022113000 +0000" stop="20261022120000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Taal Thok Ke</title>
-    <title lang="hi">ताल ठोक के</title>
-    <title lang="ta">தால் தோக் கே</title>
-    <title lang="te">తాల్ థోక్ కే</title>
-    <title lang="mr">ताल ठोक के</title>
-    <desc lang="en">Provides an in-depth analysis of the top stories, latest updates, and headlines of current events worldwide.</desc>
-    <desc lang="hi">यह कार्यक्रम दिन भर के सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़े नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12682161_b_h9_ai.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p12682161_b_h8_ai.jpg?lock=1280x720</image>
+    <desc lang="en">An in-depth analysis of the latest updates and current events worldwide.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682161_b_h8_ai.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022120000 +0000" stop="20261022123000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Taal Thok Ke</title>
-    <title lang="hi">ताल ठोक के</title>
-    <title lang="ta">தால் தோக் கே</title>
-    <title lang="te">తాల్ థోక్ కే</title>
-    <title lang="mr">ताल ठोक के</title>
-    <desc lang="en">Provides an in-depth analysis of the top stories, latest updates, and headlines of current events worldwide.</desc>
-    <desc lang="hi">यह कार्यक्रम दिन भर के सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़े नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p12682161_b_h9_ai.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p12682161_b_h8_ai.jpg?lock=1280x720</image>
+    <desc lang="en">An in-depth analysis of the latest updates and current events worldwide.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12682161_b_h8_ai.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022123000 +0000" stop="20261022130000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Rajneeti</title>
-    <title lang="hi">राजनीति</title>
-    <title lang="ta">ராஜ்நீதி</title>
-    <title lang="te">రాజ్‌నీతి</title>
-    <title lang="mr">राजनीती</title>
-    <desc lang="en">The host provides the latest and most important news related to politics from various parts of the world and provides an in-depth analysis of them.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता विभिन्न सामाजिक-राजनीतिक मुद्दों से संबंधित नवीनतम समाचारों और महत्वपूर्ण घटनाक्रमों की विस्तृत जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని వివిధ ప్రాంతాల రాజకీయాలకు సంబంధించిన అత్యంత ముఖ్యమైన వార్తలపై లోతైన విశ్లేషణను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28410365_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28410365_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host analyses the latest and most important political news from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28410365_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022130000 +0000" stop="20261022133000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Rajneeti</title>
-    <title lang="hi">राजनीति</title>
-    <title lang="ta">ராஜ்நீதி</title>
-    <title lang="te">రాజ్‌నీతి</title>
-    <title lang="mr">राजनीती</title>
-    <desc lang="en">The host provides the latest and most important news related to politics from various parts of the world and provides an in-depth analysis of them.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता विभिन्न सामाजिक-राजनीतिक मुद्दों से संबंधित नवीनतम समाचारों और महत्वपूर्ण घटनाक्रमों की विस्तृत जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని వివిధ ప్రాంతాల రాజకీయాలకు సంబంధించిన అత్యంత ముఖ్యమైన వార్తలపై లోతైన విశ్లేషణను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28410365_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28410365_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">The host analyses the latest and most important political news from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28410365_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022133000 +0000" stop="20261022140000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Baat Pate Ki</title>
-    <title lang="hi">बात पते की</title>
-    <title lang="ta">பாத் பதே கி</title>
-    <title lang="te">బాత్ పతే కి</title>
-    <title lang="mr">बात पते की</title>
-    <desc lang="en">A presentation of news updates on various topics and the latest developing stories from around the world.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के लोगों को प्रभावित करने वाले विभिन्न मुद्दों से संबंधित नवीनतम समाचारों और प्रमुख घटनाक्रमों को प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత వివిధ అంశాలపై జాతీయ, అంతర్జాతీయ తాజా వార్తా విశేషాలు, సమకాలీన సంఘటనలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23284633_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p23284633_b_h10_ad.jpg?lock=1280x720</image>
+    <desc lang="en">Presents news updates and the latest developing stories from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p23284633_b_h10_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022140000 +0000" stop="20261022143000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Baat Pate Ki</title>
-    <title lang="hi">बात पते की</title>
-    <title lang="ta">பாத் பதே கி</title>
-    <title lang="te">బాత్ పతే కి</title>
-    <title lang="mr">बात पते की</title>
-    <desc lang="en">A presentation of news updates on various topics and the latest developing stories from around the world.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के लोगों को प्रभावित करने वाले विभिन्न मुद्दों से संबंधित नवीनतम समाचारों और प्रमुख घटनाक्रमों को प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత వివిధ అంశాలపై జాతీయ, అంతర్జాతీయ తాజా వార్తా విశేషాలు, సమకాలీన సంఘటనలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23284633_b_h9_ad.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p23284633_b_h10_ad.jpg?lock=1280x720</image>
+    <desc lang="en">Presents news updates and the latest developing stories from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p23284633_b_h10_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022143000 +0000" stop="20261022150000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Deshhit</title>
-    <title lang="hi">देशहित</title>
-    <title lang="ta">தேஷ்ஹிட்</title>
-    <title lang="te">దేశ్‌హిత్</title>
-    <title lang="mr">देशहित</title>
-    <desc lang="en">The host presents the latest information about economics and politics from India and around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता भारत के विभिन्न हिस्सों से नवीनतम और ताज़ा सामाजिक-आर्थिक और राजनीतिक समाचारों, अपडेट और घटनाक्रम का गहन विश्लेषण प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత దేశంలోని వివిధ ప్రాంతాలకు చెందిన సామాజిక-ఆర్ధిక, రాజకీయ వార్తా విశేషాలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15023802_b_h9_ac.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p15023802_b_h8_ac.jpg?lock=1280x720</image>
+    <desc lang="en">The host presents the latest updates and key developments from around the nation.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15023802_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022150000 +0000" stop="20261022153000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Deshhit</title>
-    <title lang="hi">देशहित</title>
-    <title lang="ta">தேஷ்ஹிட்</title>
-    <title lang="te">దేశ్‌హిత్</title>
-    <title lang="mr">देशहित</title>
-    <desc lang="en">The host presents the latest information about economics and politics from India and around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता भारत के विभिन्न हिस्सों से नवीनतम और ताज़ा सामाजिक-आर्थिक और राजनीतिक समाचारों, अपडेट और घटनाक्रम का गहन विश्लेषण प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత దేశంలోని వివిధ ప్రాంతాలకు చెందిన సామాజిక-ఆర్ధిక, రాజకీయ వార్తా విశేషాలు, పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p15023802_b_h9_ac.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p15023802_b_h8_ac.jpg?lock=1280x720</image>
+    <desc lang="en">The host presents the latest updates and key developments from around the nation.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15023802_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Daily News &amp; Analysis</title>
-    <title lang="hi">डेली न्यूज़ एण्ड एनालिसिस</title>
-    <title lang="ta">டெய்லி நியூஸ் அண்ட் அனாலிசிஸ்</title>
-    <title lang="te">డైలీ న్యూస్ అండ్ ఎనాలిసిస్</title>
-    <title lang="mr">डेली न्यूज अँड अनॅलिसिस</title>
-    <desc lang="en">In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता किसी ऐसे विषय या मुद्दे पर प्रकाश डालते हैं जो राष्ट्रीय स्तर पर नवीनतम समाचारों और समसामयिक घटनाओं में शामिल है।</desc>
-    <desc lang="te">వ్యాఖ్యాత, దేశవ్యాప్తపు ఇటీవలి వార్తా కథనాలు, ప్రస్తుత కార్యక్రమాలకు సంబంధించిన అంశాలు, సమస్యల గురించి తెలుపుతారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11112905_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">In-depth analysis of the latest news and current affairs around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022160000 +0000" stop="20261022163000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Daily News &amp; Analysis</title>
-    <title lang="hi">डेली न्यूज़ एण्ड एनालिसिस</title>
-    <title lang="ta">டெய்லி நியூஸ் அண்ட் அனாலிசிஸ்</title>
-    <title lang="te">డైలీ న్యూస్ అండ్ ఎనాలిసిస్</title>
-    <title lang="mr">डेली न्यूज अँड अनॅलिसिस</title>
-    <desc lang="en">In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता किसी ऐसे विषय या मुद्दे पर प्रकाश डालते हैं जो राष्ट्रीय स्तर पर नवीनतम समाचारों और समसामयिक घटनाओं में शामिल है।</desc>
-    <desc lang="te">వ్యాఖ్యాత, దేశవ్యాప్తపు ఇటీవలి వార్తా కథనాలు, ప్రస్తుత కార్యక్రమాలకు సంబంధించిన అంశాలు, సమస్యల గురించి తెలుపుతారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11112905_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">In-depth analysis of the latest news and current affairs around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022163000 +0000" stop="20261022170000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Badi Khabar</title>
-    <title lang="hi">बड़ी ख़बर</title>
-    <title lang="ta">படி கபர்</title>
-    <title lang="te">బడి ఖబర్</title>
-    <title lang="mr">बडी खबर</title>
-    <desc lang="en">The hosts present a detailed analysis of some of the most important news, updates and developments of the day in India and the world.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता देश भर में समाज के विभिन्न क्षेत्रों से संबंधित दिन की सबसे बड़ी समाचार कहानियां और ताज़ा जानकारी प्रस्तुत करते हैं।</desc>
-    <desc lang="ta">நாடு முழுவதும் சமூகத்தின் பல துறைகளிலிருந்து அன்றைய மிகப்பெரிய செய்திகள் மற்றும் புதுப்பிப்புகளை வழங்கும் தொகுப்பாளர்.</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి అతి ముఖ్యమైన వార్తలు, సమాచారం మరియు పరిణామాల యొక్క వివరణాత్మక అవలోకనాన్ని అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p28409980_b_h9_ae.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p28409980_b_h10_ae.jpg?lock=1280x720</image>
+    <desc lang="en">The hosts present a detailed analysis of the top stories of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28409980_b_h10_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022170000 +0000" stop="20261022173000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022173000 +0000" stop="20261022180000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Daily News &amp; Analysis</title>
-    <title lang="hi">डेली न्यूज़ एण्ड एनालिसिस</title>
-    <title lang="ta">டெய்லி நியூஸ் அண்ட் அனாலிசிஸ்</title>
-    <title lang="te">డైలీ న్యూస్ అండ్ ఎనాలిసిస్</title>
-    <title lang="mr">डेली न्यूज अँड अनॅलिसिस</title>
-    <desc lang="en">In-depth analysis of all the latest news in politics, economics, social issues and current affairs around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता किसी ऐसे विषय या मुद्दे पर प्रकाश डालते हैं जो राष्ट्रीय स्तर पर नवीनतम समाचारों और समसामयिक घटनाओं में शामिल है।</desc>
-    <desc lang="te">వ్యాఖ్యాత, దేశవ్యాప్తపు ఇటీవలి వార్తా కథనాలు, ప్రస్తుత కార్యక్రమాలకు సంబంధించిన అంశాలు, సమస్యల గురించి తెలుపుతారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p11112905_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720</image>
+    <desc lang="en">In-depth analysis of the latest news and current affairs around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p11112905_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261022180000 +0000" stop="20261022183000 +0000" channel="ZeeNews.in@SD">
     <title lang="en">Zee Special</title>
-    <title lang="hi">ज़ी स्पेशल</title>
-    <title lang="ta">ஜீ ஸ்பெஷல்</title>
-    <title lang="te">జీ స్పెషల్</title>
-    <title lang="mr">झी स्पेशल</title>
-    <desc lang="en">Delivering the latest worldwide updates and developments on various pressing issues and the people behind them.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता, दुनिया भर के स्वास्थ्य, समाज, राजनीति और वित्त से संबंधित नवीनतम समाचार, ताज़ा जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తంగా సమాజంలోని వివిధ రంగాల నుండి తాజా వార్తా కథనాలు, విశేషాలు మరియు పరిణామాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18638038_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720</image>
+    <desc lang="en">Presenting the latest updates on pressing issues from around the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18638038_b_h8_aa.jpg?lock=1280x720" />
   </programme>
 </tv>
