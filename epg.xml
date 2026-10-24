@@ -2288,24 +2288,24 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024183000 +0000" stop="20261024193000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024193000 +0000" stop="20261024203000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night</title>
-    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261024203000 +0000" stop="20261024213000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
     <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024213000 +0000" stop="20261024223000 +0000" channel="DDNews.in@SD">
+  <programme start="20261024203000 +0000" stop="20261024213000 +0000" channel="DDNews.in@SD">
     <title lang="en">News Night</title>
     <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024213000 +0000" stop="20261024223000 +0000" channel="DDNews.in@SD">
+    <title lang="en">Samachar</title>
+    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024223000 +0000" stop="20261024233000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
@@ -2809,7 +2809,7 @@
   </programme>
   <programme start="20261025042800 +0000" stop="20261025052800 +0000" channel="IndiaTV.in@SD">
     <title lang="en">Aap Ki Adalat</title>
-    <desc lang="en">The host invites personalities and interrogates them about controversies surrounding them. S01 E877.</desc>
+    <desc lang="en">On Rajat Sharma's talk show, celebrities from various fields answer candid questions, sharing personal insights, career experiences, and perspectives that give viewers a closer look into. S01 E882.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22451486_b_h8_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025052800 +0000" stop="20261025055800 +0000" channel="IndiaTV.in@SD">
@@ -2884,7 +2884,7 @@
   </programme>
   <programme start="20261025162500 +0000" stop="20261025172800 +0000" channel="IndiaTV.in@SD">
     <title lang="en">Aap Ki Adalat</title>
-    <desc lang="en">The host invites personalities and interrogates them about controversies surrounding them. S01 E878.</desc>
+    <desc lang="en">The host invites personalities and interrogates them about controversies surrounding them. S01 E883.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22451486_b_h8_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025172800 +0000" stop="20261025175800 +0000" channel="IndiaTV.in@SD">
@@ -5623,44 +5623,44 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29986180_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024003000 +0000" stop="20261024010000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Good Morning Bharat</title>
-    <desc lang="en">The host presents a sharp overview of India's top headlines each morning.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p27194893_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261024010000 +0000" stop="20261024013000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Khabrein Superfat / 2 Min Dunia</title>
-    <desc lang="en">The host presents the latest political, social, sports and economic news updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393169_b_h8_ab.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261024013000 +0000" stop="20261024020000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Jaag Utha Bharat</title>
-    <desc lang="en">The host provides an extensive analysis of the latest developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393162_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261024020000 +0000" stop="20261024023000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Jaag Utha Bharat</title>
-    <desc lang="en">The host provides an extensive analysis of the latest developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393162_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261024023000 +0000" stop="20261024030000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Samay Sanyog: Astro Show</title>
-    <desc lang="en">An astrologer makes predictions for various zodiac signs and offers guidance to people.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28514132_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261024030000 +0000" stop="20261024033000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Raftaar 100</title>
     <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024033000 +0000" stop="20261024040000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Live &amp; Breaking</title>
-    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+  <programme start="20261024013000 +0000" stop="20261024020000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
-  <programme start="20261024040000 +0000" stop="20261024043000 +0000" channel="RepublicBharat.in@SD">
+  <programme start="20261024020000 +0000" stop="20261024023000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+  </programme>
+  <programme start="20261024023000 +0000" stop="20261024030000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">30 Second, 30 Khabrein</title>
+    <desc lang="en">The host presents the top 30 important headlines and major updates in the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28514132_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024033000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Bullet 100</title>
     <desc lang="en">The host presents a detailed coverage of the latest news from across the world.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p18670507_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024033000 +0000" stop="20261024040000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">9 Baje Ki Baat</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
+  </programme>
+  <programme start="20261024040000 +0000" stop="20261024043000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">9 Baje Ki Baat</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261024043000 +0000" stop="20261024050000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
@@ -5668,9 +5668,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024050000 +0000" stop="20261024053000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Live &amp; Breaking / 5 Mein 25</title>
-    <desc lang="en">The host presents latest news, live; the host sheds light on the top 25 news stories.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393184_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024053000 +0000" stop="20261024060000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
@@ -5678,19 +5678,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024060000 +0000" stop="20261024063000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Live &amp; Breaking / 5 Mein 25</title>
-    <desc lang="en">The host presents latest news, live; the host sheds light on the top 25 news stories.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393184_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024063000 +0000" stop="20261024070000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
-    <desc lang="en">The host sheds light on top news stories from across the nation and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Big Exclusive</title>
+    <desc lang="en">The host sheds light on the latest news and developments from across the region.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31788250_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024070000 +0000" stop="20261024073000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">7 Mein 70</title>
-    <desc lang="en">The host presents the 70 most important news stories in seven minutes.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393155_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024073000 +0000" stop="20261024080000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
@@ -5698,19 +5698,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024080000 +0000" stop="20261024083000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">5 Mein 25 / Aastha Ka Mahakumbh</title>
-    <desc lang="en">The anchor delivers the top news stories; a host covers the latest updates on Kumbh Mela.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266667_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024083000 +0000" stop="20261024090000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Dopahar Dhamaka</title>
-    <desc lang="en">The host presents the latest updates pertaining to the current affairs of the day.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024090000 +0000" stop="20261024093000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">7 Mein 70</title>
-    <desc lang="en">The host presents the 70 most important news stories in seven minutes.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28393155_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">R. Tech Show</title>
+    <desc lang="en">The host shares technological news, gadget reviews, and leaders' expert insights.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/7FA35D1FD1C7D2D396A17F795C88004C9D68A02FM.jpg" />
   </programme>
   <programme start="20261024093000 +0000" stop="20261024100000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
@@ -5723,34 +5723,34 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024103000 +0000" stop="20261024110000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Rajdhani Ka Rann</title>
-    <desc lang="en">The host sheds light on the various candidates contesting the 2025 Delhi elections.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29262692_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261024110000 +0000" stop="20261024113000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Live &amp; Breaking</title>
     <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
   </programme>
+  <programme start="20261024110000 +0000" stop="20261024113000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
   <programme start="20261024113000 +0000" stop="20261024120000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Prahar</title>
-    <desc lang="en">The host sheds light on several important and brewing issues of public interest in detail.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p13797239_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">Master Stroke</title>
+    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024120000 +0000" stop="20261024123000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Prahar</title>
-    <desc lang="en">The host sheds light on several important and brewing issues of public interest in detail.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p13797239_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">Master Stroke</title>
+    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024123000 +0000" stop="20261024130000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Mahabharat</title>
-    <desc lang="en">A dynastic struggle between the Kauravas and Pandavas leads to the Kurukshetra War.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p10189213_b_h10_ar.jpg?lock=1280x720" />
+    <desc lang="en">The host illuminates current political and economic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024130000 +0000" stop="20261024133000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Mahabharat</title>
-    <desc lang="en">A dynastic struggle between the Kauravas and Pandavas leads to the Kurukshetra War.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p10189213_b_h10_ar.jpg?lock=1280x720" />
+    <desc lang="en">The host illuminates current political and economic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024133000 +0000" stop="20261024140000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Poochta Hai Bharat</title>
@@ -5762,15 +5762,15 @@
     <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024143000 +0000" stop="20261024150000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">News Ki Xray Report</title>
-    <desc lang="en">The host presents the latest national and global news, while debunking fake news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28382689_b_h8_aa.jpg?lock=1280x720" />
+  <programme start="20261024143000 +0000" stop="20261024144500 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Rashtra Sarvopari</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024150000 +0000" stop="20261024153000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">News Ki Xray Report</title>
-    <desc lang="en">The host presents the latest national and global news, while debunking fake news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28382689_b_h8_aa.jpg?lock=1280x720" />
+  <programme start="20261024144500 +0000" stop="20261024153000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Rashtra Sarvopari</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Ye Bharat Ki Baat Hai</title>
@@ -5783,24 +5783,264 @@
     <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024163000 +0000" stop="20261024170000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Tarkash</title>
-    <desc lang="en">The host provides a comprehensive analysis of the latest national and international issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28382718_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Legends</title>
+    <desc lang="en">Arnab Goswami interviews prominent personalities from different walks of life.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30414706_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024170000 +0000" stop="20261024173000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Astha Ka Mahakumbh</title>
-    <desc lang="en">The host provides the latest insights on Kumbh Mela, a major Hindu pilgrimage.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29266668_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Legends</title>
+    <desc lang="en">Arnab Goswami interviews prominent personalities from different walks of life.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30414706_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Jaagte Raho</title>
-    <desc lang="en">The host provides a detailed insight into some of the most raging news updates of the day.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18996971_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host sheds light on trailers and songs from popular upcoming movies.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27669087_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="RepublicBharat.in@SD">
-    <title lang="en">Rapid Report</title>
+    <title lang="en">Rapid Fire</title>
+    <desc lang="en">The host sheds light on some of the latest national as well as regional news updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29191773_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024193000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024203000 +0000" stop="20261024210000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">The host illuminates current political and economic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024213000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">The host illuminates current political and economic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024213000 +0000" stop="20261024220000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">The host illuminates current political and economic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">The host illuminates current political and economic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024233000 +0000" stop="20261025000000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025003000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025003000 +0000" stop="20261025010000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025013000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025013000 +0000" stop="20261025020000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+  </programme>
+  <programme start="20261025020000 +0000" stop="20261025023000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bharat Ki Nayi Subah</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+  </programme>
+  <programme start="20261025023000 +0000" stop="20261025030000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">30 Second, 30 Khabrein</title>
+    <desc lang="en">The host presents the top 30 important headlines and major updates in the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30899696_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025030000 +0000" stop="20261025033000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Bullet 100</title>
     <desc lang="en">The host presents a detailed coverage of the latest news from across the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28382710_b_h8_aa.jpg?lock=1280x720" />
+    <icon src="https://ttpl.tmsimg.com/assets/p18670507_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025033000 +0000" stop="20261025040000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">9 Baje Ki Baat</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025043000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">9 Baje Ki Baat</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
+  </programme>
+  <programme start="20261025043000 +0000" stop="20261025050000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
+    <desc lang="en">The host sheds light on top news stories from across the nation and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025053000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025053000 +0000" stop="20261025060000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025060000 +0000" stop="20261025063000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025063000 +0000" stop="20261025070000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Big Exclusive</title>
+    <desc lang="en">The host sheds light on the latest news and developments from across the region.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31788250_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025073000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025073000 +0000" stop="20261025080000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025083000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025083000 +0000" stop="20261025090000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025093000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025093000 +0000" stop="20261025100000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking / 2 Min Bharat</title>
+    <desc lang="en">The host sheds light on top news stories from across the nation and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28393179_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025103000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">R. Tech Show</title>
+    <desc lang="en">The host shares technological news, gadget reviews, and leaders' expert insights.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/7FA35D1FD1C7D2D396A17F795C88004C9D68A02FM.jpg" />
+  </programme>
+  <programme start="20261025103000 +0000" stop="20261025110000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live &amp; Breaking</title>
+    <desc lang="en">The host presents the latest updates on social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29266666_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025113000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Raftaar 100</title>
+    <desc lang="en">The host sheds light on the latest news updates and developments happening in India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p20819039_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025113000 +0000" stop="20261025120000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Master Stroke</title>
+    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025123000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Master Stroke</title>
+    <desc lang="en">The host presents a detailed report of the latest news stories from around the region.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29739673_b_h8_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025130000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">The host illuminates current political and economic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025133000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Mahabharat</title>
+    <desc lang="en">The host illuminates current political and economic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31331691_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025133000 +0000" stop="20261025140000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Poochta Hai Bharat</title>
+    <desc lang="en">The host invites prominent personalities for a discussion on the latest political events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p19782634_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025143000 +0000" stop="20261025144500 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Rashtra Sarvopari</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025144500 +0000" stop="20261025153000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Rashtra Sarvopari</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30584267_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Ye Bharat Ki Baat Hai</title>
+    <desc lang="en">The host presents the latest updates about the political, social and economic issues of the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18997050_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live News</title>
+    <desc lang="en">The host delivers the latest news updates regarding pressing matters of the nation.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30335834_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Live News</title>
+    <desc lang="en">The host delivers the latest news updates regarding pressing matters of the nation.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30335834_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Final Cut</title>
+    <desc lang="en">The host sheds light on trailers and songs from popular upcoming movies.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27669087_b_h8_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="RepublicBharat.in@SD">
+    <title lang="en">Rapid Fire</title>
+    <desc lang="en">The host sheds light on some of the latest national as well as regional news updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29191773_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261023183000 +0000" stop="20261023190000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">R News</title>
@@ -5857,155 +6097,430 @@
     <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024000000 +0000" stop="20261024013000 +0000" channel="RepublicTV.in@SD">
+  <programme start="20261024000000 +0000" stop="20261024003000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">R News</title>
     <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
   </programme>
+  <programme start="20261024003000 +0000" stop="20261024010000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024010000 +0000" stop="20261024013000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
   <programme start="20261024013000 +0000" stop="20261024020000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">World Of Brands</title>
-    <desc lang="en">The host interacts with businesspersons who share the success stories of their company.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29799285_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024020000 +0000" stop="20261024023000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024023000 +0000" stop="20261024030000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29799301_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024033000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024033000 +0000" stop="20261024040000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live And Breaking</title>
     <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024023000 +0000" stop="20261024030000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Adani 2050: Mahakumbh</title>
-    <desc lang="en">The host presents the involvement of Gautam Adani in the Mahakumbh festival.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29799301_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261024030000 +0000" stop="20261024033000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">6 Stories At 6</title>
-    <desc lang="en">The host presents some of the latest updates, current affairs and developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29799279_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261024033000 +0000" stop="20261024040000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Get Me Right</title>
-    <desc lang="en">The host analyses the latest social, political and economic issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p27923479_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
   <programme start="20261024040000 +0000" stop="20261024043000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">This Is Exclusive</title>
-    <desc lang="en">The host presents information about the social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22150944_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E04.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024043000 +0000" stop="20261024050000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Trending</title>
-    <desc lang="en">The host presents the most important and trending news stories, updates and developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29799255_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024050000 +0000" stop="20261024060000 +0000" channel="RepublicTV.in@SD">
+  <programme start="20261024050000 +0000" stop="20261024053000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024053000 +0000" stop="20261024060000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live And Breaking</title>
     <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024060000 +0000" stop="20261024063000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Burning Question</title>
-    <desc lang="en">The host discusses with experts regarding various matters of national importance.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29799293_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Acko Drive</title>
+    <desc lang="en">Siddharth Vinayak Patankar offers comprehensive insights into the world of motor vehicles. S01 E15.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33419212_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024063000 +0000" stop="20261024070000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Burning Question</title>
-    <desc lang="en">The host discusses with experts regarding various matters of national importance.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29799293_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024070000 +0000" stop="20261024080000 +0000" channel="RepublicTV.in@SD">
+  <programme start="20261024070000 +0000" stop="20261024073000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024073000 +0000" stop="20261024080000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live And Breaking</title>
     <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024080000 +0000" stop="20261024083000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Nationalist Collective Conclave</title>
+    <desc lang="en">Leaders inspire citizens by sharing their views on the nation's progress and future. S01 E04.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30248113_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024083000 +0000" stop="20261024090000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024090000 +0000" stop="20261024093000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E07.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024093000 +0000" stop="20261024100000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024100000 +0000" stop="20261024103000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E10.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024103000 +0000" stop="20261024110000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E10.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024110000 +0000" stop="20261024113000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Nationalist Collective Conclave</title>
+    <desc lang="en">Leaders inspire citizens by sharing their views on the nation's progress and future. S01 E01.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30248113_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024113000 +0000" stop="20261024120000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024120000 +0000" stop="20261024123000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Viksit Bharat @2047</title>
+    <desc lang="en">The presenter provided a detailed report on the developmental and economic plans for 2047. S01 E07.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30904158_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024123000 +0000" stop="20261024130000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024130000 +0000" stop="20261024133000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E12.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024133000 +0000" stop="20261024140000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024140000 +0000" stop="20261024143000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">R Tech</title>
+    <desc lang="en">Rajiv Makhni introduces AI tools and futuristic gadgets and explains their features. S01 E11.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33808010_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024143000 +0000" stop="20261024150000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024150000 +0000" stop="20261024153000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E03.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024163000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024163000 +0000" stop="20261024170000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024170000 +0000" stop="20261024173000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Acko Drive</title>
+    <desc lang="en">Siddharth Vinayak Patankar offers comprehensive insights into the world of motor vehicles. S01 E15.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33419212_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024173000 +0000" stop="20261024180000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">R News</title>
     <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024150000 +0000" stop="20261024153000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Quick Morning</title>
+  <programme start="20261024180000 +0000" stop="20261024183000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
     <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p27341876_b_h10_aa.jpg?lock=1280x720" />
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Quick Morning</title>
+  <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
     <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p27341876_b_h10_aa.jpg?lock=1280x720" />
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024160000 +0000" stop="20261024180000 +0000" channel="RepublicTV.in@SD">
+  <programme start="20261024190000 +0000" stop="20261024193000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R Tech</title>
+    <desc lang="en">Rajiv Makhni introduces AI tools and futuristic gadgets and explains their features. S01 E11.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33808010_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024193000 +0000" stop="20261024200000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024203000 +0000" stop="20261024210000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024213000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Acko Drive</title>
+    <desc lang="en">Siddharth Vinayak Patankar offers comprehensive insights into the world of motor vehicles. S01 E15.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33419212_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024213000 +0000" stop="20261024220000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E01.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E01.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261024233000 +0000" stop="20261025000000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025000000 +0000" stop="20261025003000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025003000 +0000" stop="20261025010000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live This Morning</title>
     <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261024180000 +0000" stop="20261024193000 +0000" channel="RepublicTV.in@SD">
+  <programme start="20261025010000 +0000" stop="20261025013000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025013000 +0000" stop="20261025020000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025020000 +0000" stop="20261025023000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025023000 +0000" stop="20261025030000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025030000 +0000" stop="20261025033000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <desc lang="en">The host presents the latest social, economic and political updates, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025033000 +0000" stop="20261025040000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live And Breaking</title>
     <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025043000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E02.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025043000 +0000" stop="20261025050000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E02.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025053000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Nationalist Collective Conclave</title>
+    <desc lang="en">Leaders inspire citizens by sharing their views on the nation's progress and future. S01 E03.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30248113_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025053000 +0000" stop="20261025060000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025060000 +0000" stop="20261025063000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E08.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025063000 +0000" stop="20261025070000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025073000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R Tech</title>
+    <desc lang="en">Rajiv Makhni introduces AI tools and futuristic gadgets and explains their features. S01 E11.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33808010_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025073000 +0000" stop="20261025080000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025080000 +0000" stop="20261025083000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E05.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025083000 +0000" stop="20261025090000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E05.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025093000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025093000 +0000" stop="20261025100000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025103000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E09.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025103000 +0000" stop="20261025110000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025113000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Nationalist Collective Conclave</title>
+    <desc lang="en">Leaders inspire citizens by sharing their views on the nation's progress and future. S01 E02.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30248113_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025113000 +0000" stop="20261025120000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025120000 +0000" stop="20261025123000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Viksit Bharat @2047</title>
+    <desc lang="en">The presenter provided a detailed report on the developmental and economic plans for 2047. S01 E07.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30904158_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025130000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025133000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R Tech</title>
+    <desc lang="en">Rajiv Makhni introduces AI tools and futuristic gadgets and explains their features. S01 E11.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33808010_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025133000 +0000" stop="20261025140000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Acko Drive</title>
+    <desc lang="en">Siddharth Vinayak Patankar offers comprehensive insights into the world of motor vehicles. S01 E15.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33419212_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E06.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E01.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025160000 +0000" stop="20261025163000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E01.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025163000 +0000" stop="20261025170000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <desc lang="en">The host presents information about the social, economic and political issues, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Forces First Conclave</title>
+    <desc lang="en">. S01 E11.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31485833_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025173000 +0000" stop="20261025180000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261025180000 +0000" stop="20261025183000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <desc lang="en">The host presents the latest updates on various social, economic and political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261023185500 +0000" stop="20261023192500 +0000" channel="SandeshNews.in@SD">
     <title lang="en">Aajno Agenda</title>
