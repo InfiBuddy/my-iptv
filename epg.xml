@@ -1887,45 +1887,30 @@
     <desc lang="en">Various personalities debate their views on the latest national news and current events.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538805_b_h8_af.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Explosive Weekend Debate</title>
-    <desc lang="en">Various personalities debate their views on the latest national news and current events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538805_b_h8_af.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Now Showing</title>
-    <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">The Right Perspective</title>
-    <desc lang="en">The host provides an unbiased and non-partisan perspective on various issues in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19628856_b_h8_ae.jpg?lock=1280x720" />
+  <programme start="20261025183000 +0000" stop="20261025200000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">CNN Cut Live</title>
+    <desc lang="en">The host provides the latest news on a wide range of topics of public interest, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30743719_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025200000 +0000" stop="20261025203000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Entertainment T20</title>
-    <desc lang="en">The host interacts with celebrities from the Indian film and television industry.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538801_b_h10_af.jpg?lock=1280x720" />
+    <title lang="en">Homework</title>
+    <desc lang="en">The host shares an analysis of the updates in the political scenario of the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31950344_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025203000 +0000" stop="20261025210000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Sensational South</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories from South India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538818_b_h8_ae.jpg?lock=1280x720" />
+    <title lang="en">Crux of the Matter</title>
+    <desc lang="en">The host delves into the core of a particular news story for the day and discusses it.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26671246_b_h10_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025210000 +0000" stop="20261025213000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">World 360</title>
-    <desc lang="en">Anchors and journalists present and discuss the latest news stories, updates and reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19750335_b_h8_af.jpg?lock=1280x720" />
+    <title lang="en">The Global Radar</title>
+    <desc lang="en">The host analyses major international news and events, and their impact on India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33535482_b_h10_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="CNNNews18.in@SD">
+  <programme start="20261025213000 +0000" stop="20261025223000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Explosive Weekend Debate</title>
     <desc lang="en">Various personalities debate their views on the latest national news and current events.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538805_b_h8_af.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261025220000 +0000" stop="20261025223000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Now Showing</title>
-    <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">The Right Perspective</title>
@@ -1933,29 +1918,29 @@
     <icon src="https://ttpl.tmsimg.com/assets/p19628856_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025230000 +0000" stop="20261025233000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Entertainment T20</title>
-    <desc lang="en">The host interacts with celebrities from the Indian film and television industry.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538801_b_h10_af.jpg?lock=1280x720" />
+    <title lang="en">Now Showing</title>
+    <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">World 360</title>
-    <desc lang="en">Anchors and journalists present and discuss the latest news stories, updates and reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19750335_b_h8_af.jpg?lock=1280x720" />
+    <title lang="en">Take Three</title>
+    <desc lang="en">Three news editors deliberate on significant topics of the week.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28052088_b_h10_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Sensational South</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories from South India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538818_b_h8_ae.jpg?lock=1280x720" />
+    <title lang="en">Health Matters</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18823529_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026003000 +0000" stop="20261026010000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Explosive Weekend Debate</title>
-    <desc lang="en">Various personalities debate their views on the latest national news and current events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538805_b_h8_af.jpg?lock=1280x720" />
+    <title lang="en">The Morning News</title>
+    <desc lang="en">The host presents some of the key developing stories of the day and newsworthy events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p8424301_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Explosive Weekend Debate</title>
-    <desc lang="en">Various personalities debate their views on the latest national news and current events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538805_b_h8_af.jpg?lock=1280x720" />
+    <title lang="en">The CNN Hour</title>
+    <desc lang="en">The host presents the latest information on various significant issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30639601_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026013000 +0000" stop="20261026020000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">The Morning News</title>
@@ -1963,9 +1948,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p8424301_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">The Morning News</title>
-    <desc lang="en">The host presents some of the key developing stories of the day and newsworthy events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p8424301_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">News Blitz</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30151111_b_h10_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026023000 +0000" stop="20261026033000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">The Breakfast Club</title>
@@ -1973,9 +1958,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p26672172_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026033000 +0000" stop="20261026043000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">The Morning News</title>
-    <desc lang="en">The host presents some of the key developing stories of the day and newsworthy events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p8424301_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">Breaking On News18</title>
+    <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026043000 +0000" stop="20261026053000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -1987,35 +1972,55 @@
     <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261026063000 +0000" stop="20261026073000 +0000" channel="CNNNews18.in@SD">
+  <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">Raw Report</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p9430696_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261026070000 +0000" stop="20261026073000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
     <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261026073000 +0000" stop="20261026083000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Setting The Election Agenda</title>
-    <desc lang="en">The host sheds light on the socio-political updates impacting elections in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p16587050_b_h8_aa.jpg?lock=1280x720" />
+  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">Breaking Frontline</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p32970885_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">Breaking On News18</title>
+    <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026083000 +0000" stop="20261026093000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
     <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261026093000 +0000" stop="20261026103000 +0000" channel="CNNNews18.in@SD">
+  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">Newsroom Unfiltered</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33857909_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
     <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261026103000 +0000" stop="20261026113000 +0000" channel="CNNNews18.in@SD">
+  <programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">News Periscope</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p32970891_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
     <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026113000 +0000" stop="20261026123000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Election Highway</title>
-    <desc lang="en">The host interviews leaders and citizens on general elections and captures campaigning.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p27242650_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">The 5 PM Brief</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33363631_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026123000 +0000" stop="20261026133000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Plain Speak</title>
@@ -2023,9 +2028,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22023145_b_h8_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026133000 +0000" stop="20261026143000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">The Hard Facts</title>
-    <desc lang="en">The host provides detailed insights into the significant updates from various fields.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26672012_b_h8_ae.jpg?lock=1280x720" />
+    <title lang="en">Brass Tacks</title>
+    <desc lang="en">The host presents information on the latest news stories and developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26671505_b_h10_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">The Right Stand</title>
@@ -2033,19 +2038,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p16098953_b_h8_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026153000 +0000" stop="20261026163000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Brass Tacks</title>
-    <desc lang="en">The host presents information on the latest news stories and developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26671505_b_h10_af.jpg?lock=1280x720" />
+    <title lang="en">The Hard Facts</title>
+    <desc lang="en">The host provides detailed insights into the significant updates from various fields.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26672012_b_h8_ae.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261026163000 +0000" stop="20261026173000 +0000" channel="CNNNews18.in@SD">
+  <programme start="20261026163000 +0000" stop="20261026170000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">Raw Report</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p9430696_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261026170000 +0000" stop="20261026180000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Vantage</title>
     <desc lang="en">The host discusses global events, national, international affairs and important news.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p26316254_b_h8_ae.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Breaking On News18</title>
-    <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -2268,9 +2273,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p30314321_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026010000 +0000" stop="20261026011500 +0000" channel="DDNews.in@SD">
-    <title lang="en">Sanskrit Vaarta</title>
-    <desc lang="en">Presents the latest news updates on politics and the economy in Sanskrit.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26195697_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Sanskrit Vaarta Samachar</title>
+    <desc lang="en">Bridges the ancient language and modern reportage to deliver current events in Sanskrit.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31252032_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026011500 +0000" stop="20261026013000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar With HI</title>
@@ -2298,9 +2303,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p26195734_b_h10_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Total Health Podcast</title>
-    <desc lang="en">Explores diverse medical topics and treatments with a healthcare expert.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31262223_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Infinite India@dd News</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33048351_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="DDNews.in@SD">
     <title lang="en">News@10</title>
@@ -2313,9 +2318,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p12682248_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026053000 +0000" stop="20261026063000 +0000" channel="DDNews.in@SD">
-    <title lang="en">11 Baje Ka Live</title>
+    <title lang="en">11 Baje</title>
     <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
@@ -2378,14 +2383,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p32143416_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Spl Prog</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p8170537_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Pura Sach</title>
+    <desc lang="en">Delivers comprehensive reports on the latest news and developments.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261026143000 +0000" stop="20261026153000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night in Hindi</title>
-    <desc lang="en">Delivers current affairs about commerce, athletics, governance and social matters globally.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p11804979_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026153000 +0000" stop="20261026163000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
@@ -3593,14 +3598,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31924239_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025043000 +0000" stop="20261025050000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Operation Superstar</title>
-    <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
+    <title lang="en">NDTV WORLD SUMMIT</title>
+    <desc lang="en">Global leaders and experts discuss India's role in shaping the future.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28581860_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025050000 +0000" stop="20261025053000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Operation Superstar</title>
-    <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
+    <title lang="en">NDTV WORLD SUMMIT</title>
+    <desc lang="en">Global leaders and experts discuss India's role in shaping the future.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28581860_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025053000 +0000" stop="20261025060000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Mann Ki Baat</title>
@@ -3608,9 +3613,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28842001_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025060000 +0000" stop="20261025063000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Super Shatak</title>
-    <desc lang="en">The host delivers 100 crisp headlines with speed and focus on key updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087371_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">NDTV WORLD SUMMIT</title>
+    <desc lang="en">Global leaders and experts discuss India's role in shaping the future.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28581860_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025063000 +0000" stop="20261025070000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Dopeher Damdar</title>
@@ -4624,93 +4629,93 @@
   </programme>
   <programme start="20261025183000 +0000" stop="20261025190000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025190000 +0000" stop="20261025193000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025193000 +0000" stop="20261025200000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025200000 +0000" stop="20261025203000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025203000 +0000" stop="20261025210000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025210000 +0000" stop="20261025213000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025220000 +0000" stop="20261025223000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025223000 +0000" stop="20261025230000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025230000 +0000" stop="20261025233000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026000000 +0000" stop="20261026002200 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026002200 +0000" stop="20261026005500 +0000" channel="News24.in@SD">
-    <title lang="en">Commercial</title>
-    <desc lang="en">The host promotes a range of products that can be bought from the comfort of one's home.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p27215725_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026005500 +0000" stop="20261026012600 +0000" channel="News24.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <title lang="en">Superfast 50</title>
+    <desc lang="en">The host presents the top 50 news pertaining to various issues in quick succession.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p21051747_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026012600 +0000" stop="20261026015600 +0000" channel="News24.in@SD">
-    <title lang="en">Tejas 24</title>
-    <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29269233_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">7 Baje Pahli Khabr</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261026015600 +0000" stop="20261026022600 +0000" channel="News24.in@SD">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19471710_b_h10_ai.jpg?lock=1280x720" />
+    <title lang="en">Morning- 50</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33859394_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026022600 +0000" stop="20261026025600 +0000" channel="News24.in@SD">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19471710_b_h10_ai.jpg?lock=1280x720" />
+    <title lang="en">8 Baje 1 Minute</title>
+    <desc lang="en">The host delivers a rapid-fire summary of the day's top headlines.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33859340_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026025600 +0000" stop="20261026032000 +0000" channel="News24.in@SD">
-    <title lang="en">Special Report</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19471710_b_h10_ai.jpg?lock=1280x720" />
+    <title lang="en">Fatafat - 100</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261026032000 +0000" stop="20261026035600 +0000" channel="News24.in@SD">
     <title lang="en">Kalchakra</title>
@@ -4723,24 +4728,24 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29269221_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026042600 +0000" stop="20261026045600 +0000" channel="News24.in@SD">
-    <title lang="en">Breaking With Agenda</title>
-    <desc lang="en">The host presents various viewpoints and footage on an issue and discusses it with guests.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29268095_b_h11_aa.jpg?lock=1280x720" />
+    <title lang="en">Beroktok</title>
+    <desc lang="en">The host provides the latest national news on politics, crime and socioeconomic issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29875299_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026045600 +0000" stop="20261026052600 +0000" channel="News24.in@SD">
-    <title lang="en">Breaking With Agenda</title>
-    <desc lang="en">The host presents various viewpoints and footage on an issue and discusses it with guests.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29268095_b_h11_aa.jpg?lock=1280x720" />
+    <title lang="en">Beroktok</title>
+    <desc lang="en">The host provides the latest national news on politics, crime and socioeconomic issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29875299_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026052600 +0000" stop="20261026055600 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026055600 +0000" stop="20261026062600 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026062600 +0000" stop="20261026065600 +0000" channel="News24.in@SD">
     <title lang="en">News 100</title>
@@ -4749,23 +4754,23 @@
   </programme>
   <programme start="20261026065600 +0000" stop="20261026072600 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026072600 +0000" stop="20261026075600 +0000" channel="News24.in@SD">
-    <title lang="en">Mahaul Kya Hai</title>
-    <desc lang="en">The host sheds light on topics of public interest, focusing on firsthand reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29269224_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Ek Minute Ek Khabar</title>
+    <desc lang="en">The host presents news pertaining to various trending topics in a quick succession.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30127020_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026075600 +0000" stop="20261026082600 +0000" channel="News24.in@SD">
-    <title lang="en">Mahaul Kya Hai</title>
-    <desc lang="en">The host sheds light on topics of public interest, focusing on firsthand reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29269224_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Ek Minute Ek Khabar</title>
+    <desc lang="en">The host presents news pertaining to various trending topics in a quick succession.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30127020_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026082600 +0000" stop="20261026085600 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026085600 +0000" stop="20261026092600 +0000" channel="News24.in@SD">
     <title lang="en">Sanjeevani</title>
@@ -4774,13 +4779,13 @@
   </programme>
   <programme start="20261026092600 +0000" stop="20261026095600 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026095600 +0000" stop="20261026102600 +0000" channel="News24.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <title lang="en">Kiska Uttar Pradesh</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261026102600 +0000" stop="20261026105600 +0000" channel="News24.in@SD">
     <title lang="en">4 Baje 24 Reporter</title>
@@ -4789,8 +4794,8 @@
   </programme>
   <programme start="20261026105600 +0000" stop="20261026112600 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026112600 +0000" stop="20261026115600 +0000" channel="News24.in@SD">
     <title lang="en">Rashtra Ki Baat</title>
@@ -4833,24 +4838,24 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29269227_b_h10_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026152600 +0000" stop="20261026155600 +0000" channel="News24.in@SD">
-    <title lang="en">Nispaksh News</title>
-    <desc lang="en">The host presents important issues and provides updates on current events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29269226_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Jo Kahenge Sach kahenge</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30148716_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026155600 +0000" stop="20261026162600 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026162600 +0000" stop="20261026165600 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026165600 +0000" stop="20261026172600 +0000" channel="News24.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <title lang="en">Special Report</title>
+    <desc lang="en">The host offers in-depth coverage and analysis of major news stories.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29034898_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261026172600 +0000" stop="20261026175600 +0000" channel="News24.in@SD">
     <title lang="en">Mahaul Kya Hai</title>
@@ -4859,8 +4864,8 @@
   </programme>
   <programme start="20261026175600 +0000" stop="20261026183000 +0000" channel="News24.in@SD">
     <title lang="en">News</title>
-    <desc lang="en">The hosts present the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28418553_b_h10_ah.jpg?lock=1280x720" />
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33515608_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="NewsNation.in@SD">
     <title lang="en">News Special</title>
