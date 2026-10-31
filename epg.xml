@@ -2248,9 +2248,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p30314321_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101010000 +0000" stop="20261101011500 +0000" channel="DDNews.in@SD">
-    <title lang="en">Sanskrit Vaarta</title>
-    <desc lang="en">Presents the latest news updates on politics and the economy in Sanskrit.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26195697_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Sanskrit Vaarta Samachar</title>
+    <desc lang="en">Bridges the ancient language and modern reportage to deliver current events in Sanskrit.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31252032_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101011500 +0000" stop="20261101013000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar With HI</title>
@@ -2272,15 +2272,10 @@
     <desc lang="en">Presents the latest social, economic and political updates with guests.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p10941852_b_h8_ad.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261101033000 +0000" stop="20261101040000 +0000" channel="DDNews.in@SD">
+  <programme start="20261101033000 +0000" stop="20261101043000 +0000" channel="DDNews.in@SD">
     <title lang="en">Total Health</title>
     <desc lang="en">.</desc>
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/F1C72B9733A19A8551C706E8BE454CAC385791FC0.jpg" />
-  </programme>
-  <programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="DDNews.in@SD">
-    <title lang="en">To Be Announced</title>
-    <desc lang="en">Programming to be announced.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p514472_b_h8_dp.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101043000 +0000" stop="20261101050000 +0000" channel="DDNews.in@SD">
     <title lang="en">News@10</title>
@@ -2293,9 +2288,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p12682248_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101053000 +0000" stop="20261101063000 +0000" channel="DDNews.in@SD">
-    <title lang="en">11 Baje Ka Live</title>
+    <title lang="en">11 Baje</title>
     <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261101063000 +0000" stop="20261101070000 +0000" channel="DDNews.in@SD">
     <title lang="en">Vande Bharat</title>
@@ -2308,9 +2303,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p26195734_b_h10_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101073000 +0000" stop="20261101083000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Mid Day Prime Hindi</title>
-    <desc lang="en">Presents a detailed report about some of the latest news stories from all around the nation.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19055674_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Mid Day Prime</title>
+    <desc lang="en">A comprehensive news update from all over India and discussions on matters of concern.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p16664488_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101083000 +0000" stop="20261101090000 +0000" channel="DDNews.in@SD">
     <title lang="en">News Punch</title>
@@ -2353,9 +2348,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p10945287_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101130000 +0000" stop="20261101133000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Nalanda Talkies</title>
-    <desc lang="en">Visionaries and analysts explore how India's rich heritage links to its future development.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <title lang="en">Naxal Muqt Bharat</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
@@ -2368,9 +2363,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p19055628_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101143000 +0000" stop="20261101153000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night in Hindi</title>
-    <desc lang="en">Delivers current affairs about commerce, athletics, governance and social matters globally.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p11804979_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261101153000 +0000" stop="20261101160000 +0000" channel="DDNews.in@SD">
     <title lang="en">Infinite India@dd News</title>
