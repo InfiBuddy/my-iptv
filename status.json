@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T13:13:39+00:00",
+  "updated": "2026-11-01T19:06:05+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
@@ -7,6 +7,7 @@
   "unreachable_from_github": [
     "AajTak.in@SD",
     "News24.in@SD",
+    "NewsCapitalGujarat.in@SD",
     "NewsX.in@SD",
     "TimesNow.in@SD"
   ],
@@ -105,7 +106,7 @@
       "key": "NewsCapitalGujarat.in@SD",
       "name": "News Capital Gujarat",
       "streams_available": 1,
-      "best_stream_ok": true
+      "best_stream_ok": false
     },
     {
       "key": "NewsNation.in@SD",
