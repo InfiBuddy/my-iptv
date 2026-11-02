@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-01T19:06:05+00:00",
+  "updated": "2026-11-02T01:30:04+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
   ],
   "unreachable_from_github": [
     "AajTak.in@SD",
+    "CNNNews18.in@SD",
     "News24.in@SD",
-    "NewsCapitalGujarat.in@SD",
     "NewsX.in@SD",
     "TimesNow.in@SD"
   ],
@@ -34,7 +34,7 @@
       "key": "CNNNews18.in@SD",
       "name": "CNN News 18",
       "streams_available": 1,
-      "best_stream_ok": true
+      "best_stream_ok": false
     },
     {
       "key": "DDNews.in@SD",
@@ -106,7 +106,7 @@
       "key": "NewsCapitalGujarat.in@SD",
       "name": "News Capital Gujarat",
       "streams_available": 1,
-      "best_stream_ok": false
+      "best_stream_ok": true
     },
     {
       "key": "NewsNation.in@SD",
