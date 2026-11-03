@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T07:36:26+00:00",
+  "updated": "2026-11-03T13:29:36+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
@@ -7,7 +7,6 @@
   "unreachable_from_github": [
     "AajTak.in@SD",
     "GujaratFirst.in@SD",
-    "News18Gujarati.in@SD",
     "News24.in@SD",
     "NewsX.in@SD",
     "SandeshNews.in@SD",
@@ -90,7 +89,7 @@
       "key": "News18Gujarati.in@SD",
       "name": "News18 Gujarati",
       "streams_available": 1,
-      "best_stream_ok": false
+      "best_stream_ok": true
     },
     {
       "key": "News18India.in@SD",
