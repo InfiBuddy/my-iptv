@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-05T19:18:48+00:00",
+  "updated": "2026-11-06T01:34:09+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
   ],
   "unreachable_from_github": [
     "AajTak.in@SD",
-    "GujaratFirst.in@SD",
     "News24.in@SD",
     "NewsX.in@SD",
     "SandeshNews.in@SD",
@@ -53,7 +52,7 @@
       "key": "GujaratFirst.in@SD",
       "name": "Gujarat First",
       "streams_available": 1,
-      "best_stream_ok": false
+      "best_stream_ok": true
     },
     {
       "key": "IndiaToday.in@SD",
