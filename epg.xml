@@ -627,32 +627,12 @@
     <desc lang="en">.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p825062_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="AajTak.in@SD">
-    <title lang="en">Dangal</title>
+  <programme start="20261107113000 +0000" stop="20261107143000 +0000" channel="AajTak.in@SD">
+    <title lang="en">Ayodhya Deepotsav</title>
     <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19471691_b_h8_ad.jpg?lock=1280x720" />
+    <icon src="https://ttpl.tmsimg.com/assets/p34545477_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="AajTak.in@SD">
-    <title lang="en">Dangal</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19471691_b_h8_ad.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107123000 +0000" stop="20261107133000 +0000" channel="AajTak.in@SD">
-    <title lang="en">Hallabol</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p13219536_b_h8_af.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="AajTak.in@SD">
-    <title lang="en">Aajtak 7 Baje</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p33357719_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107142500 +0000" channel="AajTak.in@SD">
-    <title lang="en">Vishesh</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p311517_b_h8_ad.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107142500 +0000" stop="20261107144000 +0000" channel="AajTak.in@SD">
+  <programme start="20261107143000 +0000" stop="20261107144000 +0000" channel="AajTak.in@SD">
     <title lang="en">Adbhut Avishwasniya Akalpaniya</title>
     <desc lang="en">.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p13638385_b_h10_aa.jpg?lock=1280x720" />
@@ -2188,34 +2168,34 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261106183000 +0000" stop="20261106193000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Decode</title>
+    <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261106193000 +0000" stop="20261106203000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Do Took</title>
-    <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261106203000 +0000" stop="20261106213000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Decode</title>
-    <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261106213000 +0000" stop="20261106223000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261106223000 +0000" stop="20261106233000 +0000" channel="DDNews.in@SD">
     <title lang="en">Do Took</title>
     <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261106233000 +0000" stop="20261107003000 +0000" channel="DDNews.in@SD">
+  <programme start="20261106213000 +0000" stop="20261106223000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
     <desc lang="en">Presents the latest news stories about political, economic, social and cultural issues.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p30378627_b_h8_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106223000 +0000" stop="20261106233000 +0000" channel="DDNews.in@SD">
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106233000 +0000" stop="20261107003000 +0000" channel="DDNews.in@SD">
+    <title lang="en">Do Took</title>
+    <desc lang="en">Important figures come together to discuss political and social topics from India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p12724434_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107003000 +0000" stop="20261107010000 +0000" channel="DDNews.in@SD">
     <title lang="en">Live Aarti From Ram Mandir Ayodhya Ji</title>
@@ -4304,7 +4284,7 @@
   </programme>
   <programme start="20261107162500 +0000" stop="20261107172800 +0000" channel="IndiaTV.in@SD">
     <title lang="en">Aap Ki Adalat</title>
-    <desc lang="en">The host invites personalities and interrogates them about controversies surrounding them. S01 E877.</desc>
+    <desc lang="en">The host invites personalities and interrogates them about controversies surrounding them. S01 E884.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22451486_b_h8_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107172800 +0000" stop="20261107175800 +0000" channel="IndiaTV.in@SD">
@@ -4681,6 +4661,246 @@
     <title lang="en">News for Hearing Impaired</title>
     <desc lang="en">The host presents the latest socio-economic news and updates in sign language.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p18354276_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105183000 +0000" stop="20261105190000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">India Matters</title>
+    <desc lang="en">The host discusses various issues faced by the citizens of India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30043454_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105193000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">India Matters</title>
+    <desc lang="en">The host discusses various issues faced by the citizens of India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30043454_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105193000 +0000" stop="20261105200000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105203000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1189.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105203000 +0000" stop="20261105210000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1189.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105210000 +0000" stop="20261105213000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105213000 +0000" stop="20261105220000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Left, Right &amp; Centre</title>
+    <desc lang="en">The host invites experts to share their perspectives on various key political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p773618_b_h10_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105220000 +0000" stop="20261105223000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105223000 +0000" stop="20261105230000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News Night</title>
+    <desc lang="en">The host presents economic, political and social updates from India and across the globe.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29829376_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105230000 +0000" stop="20261105233000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261105233000 +0000" stop="20261106000000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">India Matters</title>
+    <desc lang="en">The host discusses various issues faced by the citizens of India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30043454_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106000000 +0000" stop="20261106003000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">India Matters</title>
+    <desc lang="en">The host discusses various issues faced by the citizens of India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30043454_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106003000 +0000" stop="20261106010000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106010000 +0000" stop="20261106013000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106013000 +0000" stop="20261106020000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106020000 +0000" stop="20261106023000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106023000 +0000" stop="20261106030000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">The Breakfast Show</title>
+    <desc lang="en">The host presents a detailed report of various news and developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697417_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106030000 +0000" stop="20261106033000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">The Breakfast Show</title>
+    <desc lang="en">The host presents a detailed report of various news and developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697417_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106033000 +0000" stop="20261106040000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106040000 +0000" stop="20261106043000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106043000 +0000" stop="20261106050000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106050000 +0000" stop="20261106053000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106053000 +0000" stop="20261106060000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106060000 +0000" stop="20261106063000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106063000 +0000" stop="20261106070000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Breaking Ground</title>
+    <desc lang="en">The host presents the latest updates on various issues affecting the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15203482_b_h8_ae.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106070000 +0000" stop="20261106073000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Breaking Ground</title>
+    <desc lang="en">The host presents the latest updates on various issues affecting the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15203482_b_h8_ae.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106073000 +0000" stop="20261106080000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Breaking Ground</title>
+    <desc lang="en">The host presents the latest updates on various issues affecting the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15203482_b_h8_ae.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106080000 +0000" stop="20261106083000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Breaking Ground</title>
+    <desc lang="en">The host presents the latest updates on various issues affecting the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15203482_b_h8_ae.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106083000 +0000" stop="20261106090000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Southern View</title>
+    <desc lang="en">The host presents the latest news and updates from Goa and four states of southern India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697190_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106090000 +0000" stop="20261106093000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106093000 +0000" stop="20261106100000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106100000 +0000" stop="20261106103000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106103000 +0000" stop="20261106110000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">NDTV Newsroom</title>
+    <desc lang="en">The host shares the latest developments from the automobile and technology industries.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p32109875_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106110000 +0000" stop="20261106113000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">NDTV Newsroom</title>
+    <desc lang="en">The host shares the latest developments from the automobile and technology industries.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p32109875_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106113000 +0000" stop="20261106120000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">PRIME 5</title>
+    <desc lang="en">The host covers daily social, economic, political issues and gives current updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30568366_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106120000 +0000" stop="20261106123000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">PRIME 5</title>
+    <desc lang="en">The host covers daily social, economic, political issues and gives current updates.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30568366_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106123000 +0000" stop="20261106130000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Nationwide@6</title>
+    <desc lang="en">The host presents news pertaining to political, social, economic and sports affairs.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30175407_b_h10_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Nationwide@6</title>
+    <desc lang="en">The host presents news pertaining to political, social, economic and sports affairs.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30175407_b_h10_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Southern View</title>
+    <desc lang="en">The host presents the latest news and updates from Goa and four states of southern India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697190_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Southern View</title>
+    <desc lang="en">The host presents the latest news and updates from Goa and four states of southern India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697190_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106143000 +0000" stop="20261106150000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1190.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1190.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">India Matters</title>
+    <desc lang="en">The host discusses various issues faced by the citizens of India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30043454_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">India Matters</title>
+    <desc lang="en">The host discusses various issues faced by the citizens of India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30043454_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106163000 +0000" stop="20261106170000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">Left, Right &amp; Centre</title>
+    <desc lang="en">The host invites experts to share their perspectives on various key political issues.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p773618_b_h10_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106170000 +0000" stop="20261106173000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">NDTV Focus</title>
+    <desc lang="en">The host presents key topics with expert views to clarify complex matters.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30749955_b_h8_ac.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106173000 +0000" stop="20261106180000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261106180000 +0000" stop="20261106183000 +0000" channel="NDTV24x7.in@SD">
+    <title lang="en">News</title>
+    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261106183000 +0000" stop="20261106190000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">India Matters</title>
