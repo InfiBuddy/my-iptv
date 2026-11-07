@@ -1842,35 +1842,25 @@
     <desc lang="en">The host delves into the core of a particular news story for the day and discusses it.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p26671246_b_h10_af.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261107183000 +0000" stop="20261107190000 +0000" channel="CNNNews18.in@SD">
+  <programme start="20261107183000 +0000" stop="20261107200000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">CNN Cut Live</title>
+    <desc lang="en">The host provides the latest news on a wide range of topics of public interest, live.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30743719_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261107200000 +0000" stop="20261107203000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">Homework</title>
+    <desc lang="en">The host shares an analysis of the updates in the political scenario of the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31950344_b_h10_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261107203000 +0000" stop="20261107210000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Super Saturday Debate</title>
     <desc lang="en">Personalities discuss and debate their views on important issues and current events.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538829_b_h8_af.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261107190000 +0000" stop="20261107193000 +0000" channel="CNNNews18.in@SD">
+  <programme start="20261107210000 +0000" stop="20261107213000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Now Showing</title>
     <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107193000 +0000" stop="20261107200000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">The Right Perspective</title>
-    <desc lang="en">The host provides an unbiased and non-partisan perspective on various issues in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19628856_b_h8_ae.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107200000 +0000" stop="20261107203000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Entertainment T20</title>
-    <desc lang="en">The host interacts with celebrities from the Indian film and television industry.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538801_b_h10_af.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107203000 +0000" stop="20261107210000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Sensational South</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories from South India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538818_b_h8_ae.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107210000 +0000" stop="20261107213000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">World 360</title>
-    <desc lang="en">Anchors and journalists present and discuss the latest news stories, updates and reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19750335_b_h8_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107213000 +0000" stop="20261107220000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Super Saturday Debate</title>
@@ -1878,9 +1868,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538829_b_h8_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107220000 +0000" stop="20261107223000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Now Showing</title>
-    <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Take Three</title>
+    <desc lang="en">Three news editors deliberate on significant topics of the week.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28052088_b_h10_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107223000 +0000" stop="20261107230000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">The Right Perspective</title>
@@ -1888,19 +1878,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p19628856_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107230000 +0000" stop="20261107233000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Entertainment T20</title>
-    <desc lang="en">The host interacts with celebrities from the Indian film and television industry.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538801_b_h10_af.jpg?lock=1280x720" />
+    <title lang="en">Now Showing - Special Edition</title>
+    <desc lang="en">The host presents the latest news stories and developments pertaining to the Hindi film industry.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/7FA35D1FD1C7D2D396A17F795C88004C9D68A02FM.jpg" />
   </programme>
   <programme start="20261107233000 +0000" stop="20261108000000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">World 360</title>
-    <desc lang="en">Anchors and journalists present and discuss the latest news stories, updates and reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19750335_b_h8_af.jpg?lock=1280x720" />
+    <title lang="en">Super Saturday Debate</title>
+    <desc lang="en">Personalities discuss and debate their views on important issues and current events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22538829_b_h8_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108000000 +0000" stop="20261108003000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Sensational South</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories from South India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538818_b_h8_ae.jpg?lock=1280x720" />
+    <title lang="en">Crux of the Matter</title>
+    <desc lang="en">The host delves into the core of a particular news story for the day and discusses it.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p26671246_b_h10_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108003000 +0000" stop="20261108010000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Super Saturday Debate</title>
@@ -1918,9 +1908,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p8424301_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108020000 +0000" stop="20261108023000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">The Morning News</title>
-    <desc lang="en">The host presents some of the key developing stories of the day and newsworthy events.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p8424301_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">Now Showing - Special Edition</title>
+    <desc lang="en">The host presents the latest news stories and developments pertaining to the Hindi film industry.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/7FA35D1FD1C7D2D396A17F795C88004C9D68A02FM.jpg" />
   </programme>
   <programme start="20261108023000 +0000" stop="20261108030000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">The Morning News</title>
@@ -1928,9 +1918,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p8424301_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108030000 +0000" stop="20261108033000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Reporters Project</title>
-    <desc lang="en">Reporters travel and converse with people about their views on issues that affect society.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12833478_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Diwali Special</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31482338_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108033000 +0000" stop="20261108040000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">The Morning News</title>
@@ -1938,14 +1928,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p8424301_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">World 360</title>
-    <desc lang="en">Anchors and journalists present and discuss the latest news stories, updates and reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19750335_b_h8_af.jpg?lock=1280x720" />
+    <title lang="en">Homework</title>
+    <desc lang="en">The host shares an analysis of the updates in the political scenario of the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31950344_b_h10_ab.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261108043000 +0000" stop="20261108053000 +0000" channel="CNNNews18.in@SD">
+  <programme start="20261108043000 +0000" stop="20261108050000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
     <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">Now Showing</title>
+    <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -1953,14 +1948,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108060000 +0000" stop="20261108063000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Now Showing</title>
-    <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Health Matters</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18823529_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108063000 +0000" stop="20261108070000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Crux of the Matter</title>
-    <desc lang="en">The host delves into the core of a particular news story for the day and discusses it.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26671246_b_h10_af.jpg?lock=1280x720" />
+    <title lang="en">Breaking On News18</title>
+    <desc lang="en">The host provides the latest updates and stories from around the world and country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108070000 +0000" stop="20261108073000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Crux of the Matter</title>
@@ -1973,9 +1968,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Reporters Project</title>
-    <desc lang="en">Reporters travel and converse with people about their views on issues that affect society.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12833478_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Take Three</title>
+    <desc lang="en">Three news editors deliberate on significant topics of the week.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28052088_b_h10_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -1983,9 +1978,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Entertainment T20</title>
-    <desc lang="en">The host interacts with celebrities from the Indian film and television industry.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538801_b_h10_af.jpg?lock=1280x720" />
+    <title lang="en">IOTY 2026 Preview</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34449825_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108093000 +0000" stop="20261108100000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -1993,9 +1988,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108100000 +0000" stop="20261108103000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Now Showing</title>
-    <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">HDFC Highlights</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108103000 +0000" stop="20261108110000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -2003,9 +1998,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">The Right Perspective</title>
-    <desc lang="en">The host provides an unbiased and non-partisan perspective on various issues in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19628856_b_h8_ae.jpg?lock=1280x720" />
+    <title lang="en">Inside The Bomb School Hoax</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -2013,9 +2008,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Sensational South</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories from South India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538818_b_h8_ae.jpg?lock=1280x720" />
+    <title lang="en">RB Highlights</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -2023,9 +2018,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538797_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">World 360</title>
-    <desc lang="en">Anchors and journalists present and discuss the latest news stories, updates and reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19750335_b_h8_af.jpg?lock=1280x720" />
+    <title lang="en">Health Matters</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18823529_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Breaking On News18</title>
@@ -2038,14 +2033,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p19628856_b_h8_ae.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Reporters Project</title>
-    <desc lang="en">Reporters travel and converse with people about their views on issues that affect society.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12833478_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Bengaluru Aerocity</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34508965_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Now Showing</title>
-    <desc lang="en">The host reviews Bollywood and Hollywood films and interviews cinematic personalities.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p10915242_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Homework</title>
+    <desc lang="en">The host shares an analysis of the updates in the political scenario of the country.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31950344_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108153000 +0000" stop="20261108160000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Explosive Weekend Debate</title>
@@ -2053,19 +2048,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538805_b_h8_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108160000 +0000" stop="20261108163000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">World 360</title>
-    <desc lang="en">Anchors and journalists present and discuss the latest news stories, updates and reports.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19750335_b_h8_af.jpg?lock=1280x720" />
+    <title lang="en">Take Three</title>
+    <desc lang="en">Three news editors deliberate on significant topics of the week.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28052088_b_h10_ae.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Sensational South</title>
-    <desc lang="en">The host provides detailed insights into the latest news stories from South India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538818_b_h8_ae.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">Entertainment T20</title>
-    <desc lang="en">The host interacts with celebrities from the Indian film and television industry.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p22538801_b_h10_af.jpg?lock=1280x720" />
+  <programme start="20261108163000 +0000" stop="20261108173000 +0000" channel="CNNNews18.in@SD">
+    <title lang="en">Fareed Zakaria GPS</title>
+    <desc lang="en">Host Fareed Zakaria analyses international issues and foreign affairs.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p234245_b_h8_aq.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="CNNNews18.in@SD">
     <title lang="en">Explosive Weekend Debate</title>
@@ -2073,9 +2063,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p22538805_b_h8_af.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108180000 +0000" stop="20261108183000 +0000" channel="CNNNews18.in@SD">
-    <title lang="en">The Right Perspective</title>
-    <desc lang="en">The host provides an unbiased and non-partisan perspective on various issues in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p19628856_b_h8_ae.jpg?lock=1280x720" />
+    <title lang="en">Now Showing - Special Edition</title>
+    <desc lang="en">The host presents the latest news stories and developments pertaining to the Hindi film industry.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/7FA35D1FD1C7D2D396A17F795C88004C9D68A02FM.jpg" />
   </programme>
   <programme start="20261106183000 +0000" stop="20261106193000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
@@ -2263,34 +2253,34 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107183000 +0000" stop="20261107193000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107193000 +0000" stop="20261107203000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night</title>
-    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Samachar</title>
+    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107203000 +0000" stop="20261107213000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107213000 +0000" stop="20261107223000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night</title>
-    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261107223000 +0000" stop="20261107233000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
     <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261107233000 +0000" stop="20261108003000 +0000" channel="DDNews.in@SD">
+  <programme start="20261107223000 +0000" stop="20261107233000 +0000" channel="DDNews.in@SD">
     <title lang="en">News Night</title>
     <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261107233000 +0000" stop="20261108003000 +0000" channel="DDNews.in@SD">
+    <title lang="en">Samachar</title>
+    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108003000 +0000" stop="20261108010000 +0000" channel="DDNews.in@SD">
     <title lang="en">Live Aarti From Ram Mandir Ayodhya Ji</title>
@@ -4919,9 +4909,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107040000 +0000" stop="20261107043000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1190.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107043000 +0000" stop="20261107050000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -4929,9 +4919,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107050000 +0000" stop="20261107053000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Fault Lines</title>
+    <desc lang="en">The host converses with experts about current events as they share opinions on the matter.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29777104_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107053000 +0000" stop="20261107060000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -4979,9 +4969,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107100000 +0000" stop="20261107103000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">AutoMate CXo Conversation-Battery smart</title>
+    <title lang="en">Health, Actually With Sneha Mordani</title>
     <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/F1C72B9733A19A8551C706E8BE454CAC385791FC0.jpg" />
   </programme>
   <programme start="20261107103000 +0000" stop="20261107110000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -4994,14 +4984,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28581860_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Chai Stop</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p32856372_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Chai Stop</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p32856372_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5009,9 +4999,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Tech 360</title>
+    <desc lang="en">The host sheds light on the significance of how AI and electric vehicles in daily life.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31140492_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5024,14 +5014,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p30749955_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1191.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1191.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5039,9 +5029,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107160000 +0000" stop="20261107163000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1191.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5159,9 +5149,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">India Matters</title>
+    <desc lang="en">The host discusses various issues faced by the citizens of India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30043454_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108043000 +0000" stop="20261108050000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5169,9 +5159,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">India Ascends</title>
+    <desc lang="en">The host presents a detailed report of various news and developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27584873_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5179,9 +5169,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108060000 +0000" stop="20261108063000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Tech 360</title>
+    <desc lang="en">The host sheds light on the significance of how AI and electric vehicles in daily life.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31140492_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108063000 +0000" stop="20261108070000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5194,14 +5184,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28581860_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108073000 +0000" stop="20261108080000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Best Of Jai Jawan</title>
+    <desc lang="en">A compilation of memorable moments as celebrities join soldiers in army tasks.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29294010_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Best Of Jai Jawan</title>
+    <desc lang="en">A compilation of memorable moments as celebrities join soldiers in army tasks.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29294010_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5229,9 +5219,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">NDTV World Summit 2026</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34444579_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5239,9 +5229,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">India Matters</title>
+    <desc lang="en">The host discusses various issues faced by the citizens of India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30043454_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5264,34 +5254,34 @@
     <icon src="https://ttpl.tmsimg.com/assets/p32123276_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Chai Stop</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p32856372_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Chai Stop</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p32856372_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108153000 +0000" stop="20261108160000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1192.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108160000 +0000" stop="20261108163000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">The Buck Stops Here</title>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1192.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">News</title>
-    <desc lang="en">The host presents the latest updates pertaining to politics, economic and social news.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Best Of Jai Jawan</title>
+    <desc lang="en">A compilation of memorable moments as celebrities join soldiers in army tasks.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29294010_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">Fault Lines</title>
-    <desc lang="en">The host converses with experts about current events as they share opinions on the matter.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29777104_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Best Of Jai Jawan</title>
+    <desc lang="en">A compilation of memorable moments as celebrities join soldiers in army tasks.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29294010_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -5419,9 +5409,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28706579_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107060000 +0000" stop="20261107063000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Super Shatak</title>
-    <desc lang="en">The host delivers 100 crisp headlines with speed and focus on key updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087371_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">NDTV World Summit 2026</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34444579_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107063000 +0000" stop="20261107070000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Dopeher Damdar</title>
@@ -5429,19 +5419,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31087435_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107070000 +0000" stop="20261107073000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Dopeher Damdar</title>
-    <desc lang="en">The host presents critical midday stories offering timely key updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087435_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">NDTV World Summit 2026</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34444579_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107073000 +0000" stop="20261107080000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">India Report</title>
-    <desc lang="en">The host delivers a wide-ranging account of pressing national updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31085683_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Election Expressway</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33476987_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107080000 +0000" stop="20261107083000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">India Report</title>
-    <desc lang="en">The host delivers a wide-ranging account of pressing national updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31085683_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Election Expressway</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p33476987_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Dopeher Khabar</title>
@@ -5449,19 +5439,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31087365_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Dhuandhar 100</title>
-    <desc lang="en">The host brings an energetic bulletin of 100 headlines with key updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087362_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Best Of BSI Season 13 Launch</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Teen Ka Tarkash</title>
-    <desc lang="en">The host provides coverage of pressing issues, offering expert opinions and insights.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28528271_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Dharmpath: Yogi vs Akhilesh</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261107100000 +0000" stop="20261107103000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Teen Ka Tarkash</title>
-    <desc lang="en">The host provides coverage of pressing issues, offering expert opinions and insights.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28528271_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Dharmpath: Yogi vs Akhilesh</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261107103000 +0000" stop="20261107110000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">4 Ka Alarm</title>
@@ -5484,14 +5474,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31087328_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Sawaal India Ka</title>
-    <desc lang="en">The host offers discussions on the most pressing issues facing the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p21539081_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Rajyog, Diwali UP Wali!</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Sawaal India Ka</title>
-    <desc lang="en">The host offers discussions on the most pressing issues facing the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p21539081_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Rajyog, Diwali UP Wali!</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">News Headquarter</title>
@@ -5504,14 +5494,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28963864_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">News NDTV India</title>
-    <desc lang="en">Reporters visit the locations of breaking news and give real-time updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Diwali, Kaun 'Bahubali'?</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">News NDTV India</title>
-    <desc lang="en">Reporters visit the locations of breaking news and give real-time updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Diwali, Kaun 'Bahubali'?</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Bharat Ki Baat Batata Hoon</title>
@@ -5524,14 +5514,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31063999_b_h8_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">News NDTV India</title>
-    <desc lang="en">Reporters visit the locations of breaking news and give real-time updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Dhamaka '26' Khadi Mein Baroodi 'Diwali'!</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261107170000 +0000" stop="20261107173000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">News NDTV India</title>
-    <desc lang="en">Reporters visit the locations of breaking news and give real-time updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Dhamaka '26' Khadi Mein Baroodi 'Diwali'!</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261107173000 +0000" stop="20261107180000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Bharat Ki Baat Batata Hoon</title>
@@ -5644,14 +5634,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31924239_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108043000 +0000" stop="20261108050000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Agenda India Ka</title>
-    <desc lang="en">The host presents detailed coverage of India's top stories, analysing trends.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31653611_b_h10_aj.jpg?lock=1280x720" />
+    <title lang="en">Best Of Jai Jawan</title>
+    <desc lang="en">A compilation of memorable moments as celebrities join soldiers in army tasks.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29294010_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">1 Minute Report</title>
-    <desc lang="en">The host delivers a sharp one-minute roundup of key national stories.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31085663_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Best Of Jai Jawan</title>
+    <desc lang="en">A compilation of memorable moments as celebrities join soldiers in army tasks.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29294010_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">11 Ki Baat</title>
@@ -5659,29 +5649,29 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28706579_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108060000 +0000" stop="20261108063000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Super Shatak</title>
-    <desc lang="en">The host delivers 100 crisp headlines with speed and focus on key updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087371_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">NDTV World Summit 2026</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34444579_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108063000 +0000" stop="20261108070000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Dopeher Damdar</title>
-    <desc lang="en">The host presents critical midday stories offering timely key updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087435_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Diwali, Kaun 'Bahubali'?</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108070000 +0000" stop="20261108073000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Dopeher Damdar</title>
-    <desc lang="en">The host presents critical midday stories offering timely key updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087435_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Diwali, Kaun 'Bahubali'?</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108073000 +0000" stop="20261108080000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">India Report</title>
-    <desc lang="en">The host delivers a wide-ranging account of pressing national updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31085683_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Shubh Mangal Diwali</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">India Report</title>
-    <desc lang="en">The host delivers a wide-ranging account of pressing national updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31085683_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Shubh Mangal Diwali</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Dopeher Khabar</title>
@@ -5689,19 +5679,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31087365_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Dhuandhar 100</title>
-    <desc lang="en">The host brings an energetic bulletin of 100 headlines with key updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087362_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">NDTV World Summit 2026</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p34444579_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108093000 +0000" stop="20261108100000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Teen Ka Tarkash</title>
-    <desc lang="en">The host provides coverage of pressing issues, offering expert opinions and insights.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28528271_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Rajyog, Diwali UP Wali!</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108100000 +0000" stop="20261108103000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Teen Ka Tarkash</title>
-    <desc lang="en">The host provides coverage of pressing issues, offering expert opinions and insights.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28528271_b_h10_ab.jpg?lock=1280x720" />
+    <title lang="en">Rajyog, Diwali UP Wali!</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108103000 +0000" stop="20261108110000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">4 Ka Alarm</title>
@@ -5714,24 +5704,24 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31016030_b_h10_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Dekh Raha Hai India</title>
-    <desc lang="en">The host provides an in-depth news round-up with balanced coverage.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087328_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Shubh Mangal Diwali</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Dekh Raha Hai India</title>
-    <desc lang="en">The host provides an in-depth news round-up with balanced coverage.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31087328_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Shubh Mangal Diwali</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Sawaal India Ka</title>
-    <desc lang="en">The host offers discussions on the most pressing issues facing the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p21539081_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Diwali, Kaun 'Bahubali'?</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">Sawaal India Ka</title>
-    <desc lang="en">The host offers discussions on the most pressing issues facing the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p21539081_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Diwali, Kaun 'Bahubali'?</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">News Headquarter</title>
@@ -5744,14 +5734,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28963864_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">News NDTV India</title>
-    <desc lang="en">Reporters visit the locations of breaking news and give real-time updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Bharat Ki Diwali, Pak Ka Khajana Khali!</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">News NDTV India</title>
-    <desc lang="en">Reporters visit the locations of breaking news and give real-time updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Bharat Ki Diwali, Pak Ka Khajana Khali!</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261108153000 +0000" stop="20261108160000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Bharat Ki Baat Batata Hoon</title>
@@ -5764,14 +5754,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p31063999_b_h8_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">News NDTV India</title>
-    <desc lang="en">Reporters visit the locations of breaking news and give real-time updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Best Of Jai Jawan</title>
+    <desc lang="en">A compilation of memorable moments as celebrities join soldiers in army tasks.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29294010_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="NDTVIndia.in@SD">
-    <title lang="en">News NDTV India</title>
-    <desc lang="en">Reporters visit the locations of breaking news and give real-time updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p12883176_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">Best Of Jai Jawan</title>
+    <desc lang="en">A compilation of memorable moments as celebrities join soldiers in army tasks.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p29294010_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="NDTVIndia.in@SD">
     <title lang="en">Bharat Ki Baat Batata Hoon</title>
@@ -9376,24 +9366,24 @@
   </programme>
   <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Hanuman Ansh Team(rss Summit)</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <desc lang="en">This is Sport - Talk Show Category</desc>
     <date>20000101</date>
-    <category lang="en">TV Show</category>
-    <category lang="hi">टीवी कार्यक्रम</category>
-    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
-    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
-    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <category lang="en">Sport</category>
+    <category lang="hi">खेल</category>
+    <category lang="ta">விளையாட்டு</category>
+    <category lang="te">క్రీడ‌</category>
+    <category lang="mr">क्रीडा</category>
     <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   <programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="RepublicBharat.in@SD">
     <title lang="en">Hanuman Ansh Team(rss Summit)</title>
-    <desc lang="en">This is TV Show - Entertainment Category</desc>
+    <desc lang="en">This is Sport - Talk Show Category</desc>
     <date>20000101</date>
-    <category lang="en">TV Show</category>
-    <category lang="hi">टीवी कार्यक्रम</category>
-    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
-    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
-    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <category lang="en">Sport</category>
+    <category lang="hi">खेल</category>
+    <category lang="ta">விளையாட்டு</category>
+    <category lang="te">క్రీడ‌</category>
+    <category lang="mr">क्रीडा</category>
     <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png" />
   </programme>
   <programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="RepublicBharat.in@SD">
@@ -9619,7 +9609,7 @@
     <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
     <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
-  <programme start="20261107000000 +0000" stop="20261107013000 +0000" channel="RepublicTV.in@SD">
+  <programme start="20261107000000 +0000" stop="20261107003000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">R News</title>
     <title lang="hi">आर न्यूज</title>
     <title lang="ta">ஆர் நியூஸ்</title>
@@ -9636,25 +9626,115 @@
     <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
     <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
-  <programme start="20261107013000 +0000" stop="20261107020000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">World Of Brands</title>
-    <title lang="hi">वर्ल्ड ऑफ ब्रांड्स</title>
-    <title lang="ta">வர்ல்ட் ஆஃப் ப்ராண்ட்ஸ்</title>
-    <title lang="te">వరల్డ్ ఆఫ్ బ్రాండ్స్</title>
-    <title lang="mr">वर्ल्ड ऑफ ब्रॅन्ड्स</title>
-    <desc lang="en">The host engages in a conversation with eminent businesspersons, who shed light on their company and its commercial success.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता प्रख्यात व्यवसायियों के साथ बातचीत करते हैं, जो अपनी कंपनी और उसकी व्यावसायिक सफलता के बारे में बताते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రముఖ వ్యాపారవేత్తతో సంభాషణలో పాల్గొంటారు, వారు తమ కంపెనీ, దాని వాణిజ్య విజయాల గురించి తెలియజేస్తారు.</desc>
+  <programme start="20261107003000 +0000" stop="20261107010000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <title lang="hi">लाइव दिस मॉर्निंग</title>
+    <title lang="ta">லைவ் திஸ் மார்னிங்</title>
+    <title lang="te">లైవ్ దిస్ మార్నింగ్</title>
+    <title lang="mr">लाईव्ह दिस मॉर्निंग</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों पर नवीनतम अपडेट और सुर्खियाँ प्रस्तुत कर, समसामयिक मामलों की जानकारी लाइव साझा करते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు సామాజిక-సాంస్కృతిక,రాజకీయ,ఆర్థిక సమస్యలు వాటి పురోగతి, ప్రభావాలపై సంబంధిత వివరాలను అందిస్తారు.</desc>
     <date>20000101</date>
     <category lang="en">News</category>
     <category lang="hi">समाचार</category>
     <category lang="ta">செய்திகள்</category>
     <category lang="te">వార్తలు</category>
     <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p29799285_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p29799285_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107010000 +0000" stop="20261107013000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <title lang="hi">लाइव दिस मॉर्निंग</title>
+    <title lang="ta">லைவ் திஸ் மார்னிங்</title>
+    <title lang="te">లైవ్ దిస్ మార్నింగ్</title>
+    <title lang="mr">लाईव्ह दिस मॉर्निंग</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों पर नवीनतम अपडेट और सुर्खियाँ प्रस्तुत कर, समसामयिक मामलों की जानकारी लाइव साझा करते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు సామాజిక-సాంస్కృతిక,రాజకీయ,ఆర్థిక సమస్యలు వాటి పురోగతి, ప్రభావాలపై సంబంధిత వివరాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107013000 +0000" stop="20261107020000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <title lang="hi">लाइव दिस मॉर्निंग</title>
+    <title lang="ta">லைவ் திஸ் மார்னிங்</title>
+    <title lang="te">లైవ్ దిస్ మార్నింగ్</title>
+    <title lang="mr">लाईव्ह दिस मॉर्निंग</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों पर नवीनतम अपडेट और सुर्खियाँ प्रस्तुत कर, समसामयिक मामलों की जानकारी लाइव साझा करते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు సామాజిక-సాంస్కృతిక,రాజకీయ,ఆర్థిక సమస్యలు వాటి పురోగతి, ప్రభావాలపై సంబంధిత వివరాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261107020000 +0000" stop="20261107023000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <title lang="hi">लाइव दिस मॉर्निंग</title>
+    <title lang="ta">லைவ் திஸ் மார்னிங்</title>
+    <title lang="te">లైవ్ దిస్ మార్నింగ్</title>
+    <title lang="mr">लाईव्ह दिस मॉर्निंग</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों पर नवीनतम अपडेट और सुर्खियाँ प्रस्तुत कर, समसामयिक मामलों की जानकारी लाइव साझा करते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు సామాజిక-సాంస్కృతిక,రాజకీయ,ఆర్థిక సమస్యలు వాటి పురోగతి, ప్రభావాలపై సంబంధిత వివరాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107023000 +0000" stop="20261107030000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <title lang="hi">लाइव दिस मॉर्निंग</title>
+    <title lang="ta">லைவ் திஸ் மார்னிங்</title>
+    <title lang="te">లైవ్ దిస్ మార్నింగ్</title>
+    <title lang="mr">लाईव्ह दिस मॉर्निंग</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों पर नवीनतम अपडेट और सुर्खियाँ प्रस्तुत कर, समसामयिक मामलों की जानकारी लाइव साझा करते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు సామాజిక-సాంస్కృతిక,రాజకీయ,ఆర్థిక సమస్యలు వాటి పురోగతి, ప్రభావాలపై సంబంధిత వివరాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live This Morning</title>
+    <title lang="hi">लाइव दिस मॉर्निंग</title>
+    <title lang="ta">லைவ் திஸ் மார்னிங்</title>
+    <title lang="te">లైవ్ దిస్ మార్నింగ్</title>
+    <title lang="mr">लाईव्ह दिस मॉर्निंग</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
+    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों पर नवीनतम अपडेट और सुर्खियाँ प्रस्तुत कर, समसामयिक मामलों की जानकारी लाइव साझा करते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు సామాజిక-సాంస్కృతిక,రాజకీయ,ఆర్థిక సమస్యలు వాటి పురోగతి, ప్రభావాలపై సంబంధిత వివరాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live And Breaking</title>
     <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
     <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
@@ -9672,99 +9752,61 @@
     <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
     <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
-  <programme start="20261107023000 +0000" stop="20261107030000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Adani 2050: Mahakumbh</title>
-    <title lang="hi">अडानी 2050: महाकुंभ</title>
-    <title lang="ta">அதானி 2050: மஹாகும்ப்</title>
-    <title lang="te">అదానీ 2050: మహాకుంభ్</title>
-    <title lang="mr">अडाणी 2050: महाकुंभ</title>
-    <desc lang="en">The host presents and examines the involvement of the renowned businessman Gautam Adani within the Mahakumbh festival while offering brilliant insights.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता महाकुंभ मेले में मशहूर बिज़नेसमैन गौतम अडानी की भागीदारी को पेश करते हैं और उसका विश्लेषण करते हैं, साथ ही जानकारियां भी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత మహాకుంభ ఉత్సవంలో అద్భుతమైన అంతర్దృష్టులను అందిస్తూ,ప్రఖ్యాత వ్యాపారవేత్త గౌతమ్అదానీ ప్రమేయాన్ని ప్రదర్శించారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p29799301_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p29799301_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">6 Stories At 6</title>
-    <title lang="hi">6 स्टोरीज एट 6</title>
-    <title lang="ta">6 ஸ்டோரீஸ் அட் 6</title>
-    <title lang="te">6 స్టోరీస్ ఎట్ 6</title>
-    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता आर्थिक, राजनीतिक और सामाजिक मुद्दों से संबंधित कुछ नवीनतम अपडेट, समसामयिक मामले और घटनाक्रम प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఆర్ధిక, రాజకీయ, సామాజిక అంశాలకు సంబంధించిన తాజా విశేషాలు, ప్రస్తుత వ్యవహారాలు, పరిణామాల గురించి తెలుపుతారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p29799279_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p29799279_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Get Me Right</title>
-    <title lang="hi">गेट मी राइट</title>
-    <title lang="ta">கெட் மீ ரைட்</title>
-    <title lang="te">గెట్ మీ రైట్</title>
-    <title lang="mr">गेट मी राईट</title>
-    <desc lang="en">The host presents an in-depth report and analyses the latest social, political and economic issues from around the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता विश्वभर के नवीनतम सामाजिक, राजनीतिक और आर्थिक मुद्दों पर गहन रिपोर्ट और विश्लेषण प्रस्तुत करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు తాజా సామాజిక, రాజకీయ, ఆర్థిక సమస్యలను విశ్లేషిస్తూ, ఒక లోతైన నివేదికను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p27923479_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p27923479_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
   <programme start="20261107040000 +0000" stop="20261107043000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">This Is Exclusive</title>
-    <title lang="hi">दिस इज़ एक्सक्लूसिव</title>
-    <title lang="ta">திஸ் இஸ் எக்ஸ்க்ளூஸிவ்</title>
-    <title lang="te">దిస్ ఈజ్ ఎక్స్‌క్లూజివ్</title>
-    <title lang="mr">दिस इज एक्सक्लुझिव्ह</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और हालिया घटनाक्रमों पर प्रकाश डालते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత సామాజిక, ఆర్ధిక, రాజకీయ సమస్యలకు సంబంధించిన సమాచారాన్ని అందిస్తూ, ప్రస్తుత విశేషాలను అందిస్తారు.</desc>
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
     <date>20000101</date>
     <category lang="en">News</category>
     <category lang="hi">समाचार</category>
     <category lang="ta">செய்திகள்</category>
     <category lang="te">వార్తలు</category>
     <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p22150944_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p22150944_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261107043000 +0000" stop="20261107050000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Trending</title>
-    <title lang="hi">ट्रेंडिंग</title>
-    <title lang="ta">ட்ரெண்டிங்</title>
-    <title lang="te">ట్రెండింగ్</title>
-    <title lang="mr">ट्रेंडिंग</title>
-    <desc lang="en">The host presents some of the most important and trending news stories, updates and developments from different parts of the world.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता दुनिया के अलग-अलग हिस्सों से कुछ सबसे अहम और ट्रेंडिंग समाचार, जानकारी और घटनाक्रम पेश करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచంలోని వివిధ ప్రాంతాల నుండి అత్యంత ముఖ్యమైన, ట్రెండింగ్ వార్తా కథనాలు, విశేషాలు, పరిణామాలను అందిస్తారు.</desc>
-    <credits>
-      <actor>Rania Al Attar</actor>
-    </credits>
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
     <date>20000101</date>
     <category lang="en">News</category>
     <category lang="hi">समाचार</category>
     <category lang="ta">செய்திகள்</category>
     <category lang="te">వార్తలు</category>
     <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p29799255_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p29799255_b_h8_ab.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
-  <programme start="20261107050000 +0000" stop="20261107060000 +0000" channel="RepublicTV.in@SD">
+  <programme start="20261107050000 +0000" stop="20261107053000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107053000 +0000" stop="20261107060000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live And Breaking</title>
     <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
     <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
@@ -9783,42 +9825,57 @@
     <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261107060000 +0000" stop="20261107063000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Burning Question</title>
-    <title lang="hi">बर्निंग क्वेश्चन</title>
-    <title lang="ta">பர்னிங்க் க்வேஷ்ஷன்</title>
-    <title lang="te">బర్నింగ్ క్వశ్చన్</title>
-    <title lang="mr">बर्निंग क्वेश्चन</title>
-    <desc lang="en">The host discusses with experts from various fields, who provide a comprehensive insight into various matters of national importance.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता विभिन्न क्षेत्रों के विशेषज्ञों से चर्चा करते हैं, जो राष्ट्रीय महत्व के विभिन्न मामलों पर व्यापक जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత జాతీయ ప్రాముఖ్యత కలిగిన వివిధ విషయాలపై సమగ్ర అంతర్దృష్టిని అందించే వివిధ రంగాలకు చెందిన నిపుణులతో చర్చిస్తారు.</desc>
+    <title lang="en">Acko Drive</title>
+    <title lang="hi">एको ड्राइव्ह</title>
+    <desc lang="en">Siddharth Vinayak Patankar offers comprehensive insights into the world of motor vehicles while delivering information on safety, performance and cutting-edge automotive technology.</desc>
     <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p29799293_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p29799293_b_h8_aa.jpg?lock=1280x720</image>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://dtil.tmsimg.com/assets/p33419212_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <image>https://dtil.tmsimg.com/assets/p33419212_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261107063000 +0000" stop="20261107070000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Burning Question</title>
-    <title lang="hi">बर्निंग क्वेश्चन</title>
-    <title lang="ta">பர்னிங்க் க்வேஷ்ஷன்</title>
-    <title lang="te">బర్నింగ్ క్వశ్చన్</title>
-    <title lang="mr">बर्निंग क्वेश्चन</title>
-    <desc lang="en">The host discusses with experts from various fields, who provide a comprehensive insight into various matters of national importance.</desc>
-    <desc lang="hi">प्रस्तुतकर्ता विभिन्न क्षेत्रों के विशेषज्ञों से चर्चा करते हैं, जो राष्ट्रीय महत्व के विभिन्न मामलों पर व्यापक जानकारी प्रदान करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత జాతీయ ప్రాముఖ్యత కలిగిన వివిధ విషయాలపై సమగ్ర అంతర్దృష్టిని అందించే వివిధ రంగాలకు చెందిన నిపుణులతో చర్చిస్తారు.</desc>
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
     <date>20000101</date>
     <category lang="en">News</category>
     <category lang="hi">समाचार</category>
     <category lang="ta">செய்திகள்</category>
     <category lang="te">వార్తలు</category>
     <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p29799293_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p29799293_b_h8_aa.jpg?lock=1280x720</image>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="RepublicTV.in@SD">
+  <programme start="20261107070000 +0000" stop="20261107073000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107073000 +0000" stop="20261107080000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live And Breaking</title>
     <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
     <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
@@ -9837,298 +9894,6 @@
     <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261107080000 +0000" stop="20261107083000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107103000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107103000 +0000" stop="20261107110000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107113000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107143000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">R News</title>
-    <title lang="hi">आर न्यूज</title>
-    <title lang="ta">ஆர் நியூஸ்</title>
-    <title lang="te">ఆర్ న్యూస్</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Quick Morning</title>
-    <title lang="hi">क्विक मॉर्निंग</title>
-    <title lang="ta">க்விக் மார்னிங்</title>
-    <title lang="te">క్విక్ మార్నింగ్</title>
-    <title lang="mr">क्विक मॉर्निंग</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి విశేషాలు, ముఖ్యాంశాలను అందించి, ప్రస్తుత సంఘటనలపై సమాచారం పంచుకుంటారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p27341876_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p27341876_b_h10_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Quick Morning</title>
-    <title lang="hi">क्विक मॉर्निंग</title>
-    <title lang="ta">க்விக் மார்னிங்</title>
-    <title lang="te">క్విక్ మార్నింగ్</title>
-    <title lang="mr">क्विक मॉर्निंग</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
-    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి విశేషాలు, ముఖ్యాంశాలను అందించి, ప్రస్తుత సంఘటనలపై సమాచారం పంచుకుంటారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p27341876_b_h9_aa.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p27341876_b_h10_aa.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107160000 +0000" stop="20261107180000 +0000" channel="RepublicTV.in@SD">
-    <title lang="en">Live This Morning</title>
-    <title lang="hi">लाइव दिस मॉर्निंग</title>
-    <title lang="ta">லைவ் திஸ் மார்னிங்</title>
-    <title lang="te">లైవ్ దిస్ మార్నింగ్</title>
-    <title lang="mr">लाईव्ह दिस मॉर्निंग</title>
-    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current affairs, live.</desc>
-    <desc lang="hi">कार्यक्रम के प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों पर नवीनतम अपडेट और सुर्खियाँ प्रस्तुत कर, समसामयिक मामलों की जानकारी लाइव साझा करते हैं।</desc>
-    <desc lang="te">వ్యాఖ్యాత ప్రపంచవ్యాప్తపు సామాజిక-సాంస్కృతిక,రాజకీయ,ఆర్థిక సమస్యలు వాటి పురోగతి, ప్రభావాలపై సంబంధిత వివరాలను అందిస్తారు.</desc>
-    <date>20000101</date>
-    <category lang="en">News</category>
-    <category lang="hi">समाचार</category>
-    <category lang="ta">செய்திகள்</category>
-    <category lang="te">వార్తలు</category>
-    <category lang="mr">बातम्या</category>
-    <icon src="https://dtil.tmsimg.com/assets/p27427554_b_h9_ab.jpg?lock=880x660" />
-    <image>https://dtil.tmsimg.com/assets/p27427554_b_h10_ab.jpg?lock=1280x720</image>
-  </programme>
-  <programme start="20261107180000 +0000" stop="20261107183000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">Live And Breaking</title>
     <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
     <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
@@ -10145,6 +9910,363 @@
     <category lang="mr">बातम्या</category>
     <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
     <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R Defence</title>
+    <title lang="hi">आर डिफेंस</title>
+    <title lang="ta">ஆர் டெஃபென்ஸ்</title>
+    <title lang="te">ఆర్ డిఫెన్స్</title>
+    <title lang="mr">आर डिफेन्स</title>
+    <desc lang="en">The host presents a compilation of important updates and developments pertaining to India's defence and international affairs.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता भारत की रक्षा और अंतरराष्ट्रीय मामलों से संबंधित महत्वपूर्ण अपडेट और घटनाक्रमों का संकलन प्रस्तुत करते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత, భారతదేశ రక్షణ, అంతర్జాతీయ వ్యవహారాలకు సంబంధించిన ముఖ్యమైన విశేషాలు, పరిణామాల సంకలనాన్ని అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31660566_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="xmltv_ns">0.33.0/1</episode-num>
+    <episode-num system="onscreen">S01E34</episode-num>
+    <image>https://dtil.tmsimg.com/assets/p31660566_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107100000 +0000" stop="20261107103000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107103000 +0000" stop="20261107110000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107110000 +0000" stop="20261107113000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Viksit Bharat @2047</title>
+    <title lang="hi">विकसित भारत @2047</title>
+    <title lang="ta">விக்சித் பாரத் அட்2047</title>
+    <title lang="te">వికసిత్ భారత్ ఎట్2047</title>
+    <desc lang="en">The host presents an extensive and comprehensive report on the various developmental and economic plans that are expected to take place by the year 2047.</desc>
+    <desc lang="hi">प्रस्तुतकर्ता साल 2047 तक होने वाले अलग-अलग डेवलपमेंटल और इकोनॉमिक प्लान्स पर एक बड़ी और कॉम्प्रिहेंसिव रिपोर्ट पेश करते हैं।</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30904158_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <image>https://dtil.tmsimg.com/assets/p30904158_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107123000 +0000" stop="20261107130000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107130000 +0000" stop="20261107133000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107140000 +0000" stop="20261107143000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R Tech</title>
+    <title lang="hi">आर टेक</title>
+    <desc lang="en">Rajiv Makhni, the tech journalist, introduces innovative AI tools and futuristic gadgets and explains their features in a detailed manner. Furthermore, he presents demonstrations of the devices.</desc>
+    <credits>
+      <actor>Rajiv Makhni</actor>
+    </credits>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://dtil.tmsimg.com/assets/p33808010_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <image>https://dtil.tmsimg.com/assets/p33808010_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107153000 +0000" stop="20261107160000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107160000 +0000" stop="20261107163000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Live And Breaking</title>
+    <title lang="hi">लाइव एण्ड ब्रेकिंग</title>
+    <title lang="ta">லைவ் அண்ட் பிரேகிங்க்</title>
+    <title lang="te">లైవ్ అండ్ బ్రేకింగ్</title>
+    <title lang="mr">लाईव्ह अँड ब्रेकिंग</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events, live.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता दिन के सामाजिक, आर्थिक और राजनीतिक मुद्दों के बारे में जानकारी देते हैं और मौजूदा घटनाओं पर प्रकाश डालते हैं, सीधा प्रसारण।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p22150906_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p22150906_b_h10_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107170000 +0000" stop="20261107173000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">Acko Drive</title>
+    <title lang="hi">एको ड्राइव्ह</title>
+    <desc lang="en">Siddharth Vinayak Patankar offers comprehensive insights into the world of motor vehicles while delivering information on safety, performance and cutting-edge automotive technology.</desc>
+    <date>20000101</date>
+    <category lang="en">TV Show</category>
+    <category lang="hi">टीवी कार्यक्रम</category>
+    <category lang="ta">தொலைக்காட்சி நிகழ்ச்சி</category>
+    <category lang="te">టీవీ కార్య‌క్ర‌మం</category>
+    <category lang="mr">टीव्ही कार्यक्रम</category>
+    <icon src="https://dtil.tmsimg.com/assets/p33419212_b_h9_aa.jpg?lock=880x660" />
+    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <image>https://dtil.tmsimg.com/assets/p33419212_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107173000 +0000" stop="20261107180000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <title lang="hi">आर न्यूज</title>
+    <title lang="ta">ஆர் நியூஸ்</title>
+    <title lang="te">ఆర్ న్యూస్</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
+  </programme>
+  <programme start="20261107180000 +0000" stop="20261107183000 +0000" channel="RepublicTV.in@SD">
+    <title lang="en">R News</title>
+    <title lang="hi">आर न्यूज</title>
+    <title lang="ta">ஆர் நியூஸ்</title>
+    <title lang="te">ఆర్ న్యూస్</title>
+    <desc lang="en">The host presents the latest updates and headlines on the social, economic and political issues and shares information on current events.</desc>
+    <desc lang="hi">समाचार प्रस्तुतकर्ता सामाजिक, आर्थिक और राजनीतिक मुद्दों से जुड़ी समाचार सुर्खियां, ताज़ा जानकारी और हालिया घटनाओं के बारे में जानकारी देते हैं।</desc>
+    <desc lang="te">వ్యాఖ్యాత ఈనాటి సామాజిక, ఆర్థిక, రాజకీయ సమస్యల గురించి సమాచారాన్ని అందిస్తారు, ప్రస్తుత సంఘటనలపై విశేషాలను అందిస్తారు.</desc>
+    <date>20000101</date>
+    <category lang="en">News</category>
+    <category lang="hi">समाचार</category>
+    <category lang="ta">செய்திகள்</category>
+    <category lang="te">వార్తలు</category>
+    <category lang="mr">बातम्या</category>
+    <icon src="https://dtil.tmsimg.com/assets/p26809216_b_h9_aa.jpg?lock=880x660" />
+    <image>https://dtil.tmsimg.com/assets/p26809216_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261107183000 +0000" stop="20261107190000 +0000" channel="RepublicTV.in@SD">
     <title lang="en">R News</title>
@@ -10640,8 +10762,6 @@
     <category lang="te">వార్తలు</category>
     <category lang="mr">बातम्या</category>
     <icon src="https://dtil.tmsimg.com/assets/p30414706_b_h9_aa.jpg?lock=880x660" />
-    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
-    <episode-num system="onscreen">S01E13</episode-num>
     <image>https://dtil.tmsimg.com/assets/p30414706_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="RepublicTV.in@SD">
@@ -10660,8 +10780,6 @@
     <category lang="te">వార్తలు</category>
     <category lang="mr">बातम्या</category>
     <icon src="https://dtil.tmsimg.com/assets/p30414706_b_h9_aa.jpg?lock=880x660" />
-    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
-    <episode-num system="onscreen">S01E13</episode-num>
     <image>https://dtil.tmsimg.com/assets/p30414706_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="RepublicTV.in@SD">
@@ -10680,8 +10798,6 @@
     <category lang="te">వార్తలు</category>
     <category lang="mr">बातम्या</category>
     <icon src="https://dtil.tmsimg.com/assets/p30414706_b_h9_aa.jpg?lock=880x660" />
-    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
-    <episode-num system="onscreen">S01E13</episode-num>
     <image>https://dtil.tmsimg.com/assets/p30414706_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261108093000 +0000" stop="20261108100000 +0000" channel="RepublicTV.in@SD">
@@ -10700,8 +10816,6 @@
     <category lang="te">వార్తలు</category>
     <category lang="mr">बातम्या</category>
     <icon src="https://dtil.tmsimg.com/assets/p30414706_b_h9_aa.jpg?lock=880x660" />
-    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
-    <episode-num system="onscreen">S01E13</episode-num>
     <image>https://dtil.tmsimg.com/assets/p30414706_b_h8_aa.jpg?lock=1280x720</image>
   </programme>
   <programme start="20261108100000 +0000" stop="20261108103000 +0000" channel="RepublicTV.in@SD">
