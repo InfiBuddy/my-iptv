@@ -1,11 +1,12 @@
 {
-  "updated": "2026-11-08T01:30:12+00:00",
+  "updated": "2026-11-08T07:27:07+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
   ],
   "unreachable_from_github": [
     "AajTak.in@SD",
+    "CNNNews18.in@SD",
     "News24.in@SD",
     "NewsX.in@SD",
     "SandeshNews.in@SD",
@@ -34,7 +35,7 @@
       "key": "CNNNews18.in@SD",
       "name": "CNN News 18",
       "streams_available": 1,
-      "best_stream_ok": true
+      "best_stream_ok": false
     },
     {
       "key": "DDNews.in@SD",

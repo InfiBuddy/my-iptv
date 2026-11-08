@@ -2243,44 +2243,44 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108183000 +0000" stop="20261108193000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108193000 +0000" stop="20261108203000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night</title>
-    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Samachar</title>
+    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108203000 +0000" stop="20261108213000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261108213000 +0000" stop="20261108223000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night</title>
-    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261108223000 +0000" stop="20261108233000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
     <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261108233000 +0000" stop="20261109003000 +0000" channel="DDNews.in@SD">
+  <programme start="20261108223000 +0000" stop="20261108233000 +0000" channel="DDNews.in@SD">
     <title lang="en">News Night</title>
     <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
+  <programme start="20261108233000 +0000" stop="20261109003000 +0000" channel="DDNews.in@SD">
+    <title lang="en">Samachar</title>
+    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
   <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Live Aarti From Ram Mandir Ayodhya Ji</title>
-    <desc lang="en">Priests and devotees chant sacred verses and perform rituals to seek the blessings of Balak Ram.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30314321_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Good News Jabza India Ka</title>
+    <desc lang="en">Features information on the latest news stories and developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31549918_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109010000 +0000" stop="20261109011500 +0000" channel="DDNews.in@SD">
-    <title lang="en">Sanskrit Vaarta</title>
-    <desc lang="en">Presents the latest news updates on politics and the economy in Sanskrit.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26195697_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Sanskrit Vaarta Samachar</title>
+    <desc lang="en">Bridges the ancient language and modern reportage to deliver current events in Sanskrit.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31252032_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109011500 +0000" stop="20261109013000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar With HI</title>
@@ -2323,9 +2323,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p12682248_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109053000 +0000" stop="20261109063000 +0000" channel="DDNews.in@SD">
-    <title lang="en">11 Baje Ka Live</title>
+    <title lang="en">11 Baje</title>
     <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261109063000 +0000" stop="20261109070000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
@@ -2393,9 +2393,9 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261109143000 +0000" stop="20261109153000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night in Hindi</title>
-    <desc lang="en">Delivers current affairs about commerce, athletics, governance and social matters globally.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p11804979_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109153000 +0000" stop="20261109163000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
@@ -6033,19 +6033,19 @@
     <icon src="https://ttpl.tmsimg.com/assets/p17605197_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109013000 +0000" stop="20261109020000 +0000" channel="News18Gujarati.in@SD">
+    <title lang="en">Jay Shree Krishna</title>
+    <desc lang="en">The host sheds light on the celebrations of Janmashtami all over India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28145624_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261109020000 +0000" stop="20261109023000 +0000" channel="News18Gujarati.in@SD">
+    <title lang="en">Jay Shree Krishna</title>
+    <desc lang="en">The host sheds light on the celebrations of Janmashtami all over India.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28145624_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
+  <programme start="20261109023000 +0000" stop="20261109030000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">Sangeet Safar</title>
     <desc lang="en">A comprehensive collection of Gujarati songs by various artists is played back-to-back.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p18762700_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109023000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Sur Yatra</title>
-    <desc lang="en">A comprehensive compilation of devotional songs is played back-to-back.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p17605197_b_h8_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261109023000 +0000" stop="20261109030000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Morning 100</title>
-    <desc lang="en">The host presents a round-up of the latest news from across the state.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18507728_b_h10_ad.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109030000 +0000" stop="20261109033000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">Sangeet Safar</title>
@@ -6053,14 +6053,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p18762700_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109033000 +0000" stop="20261109040000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">News @ 9</title>
-    <desc lang="en">The host presents the latest news updates and developments from a range of spheres.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p17107058_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Samachar Superfast</title>
+    <desc lang="en">The host presents the most recent news updates from around the world in quick succession.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p27638476_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109040000 +0000" stop="20261109043000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Ground Report</title>
-    <desc lang="en">A journalist provides on-the-ground coverage of newsworthy events in India.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p15082227_b_h10_ae.jpg?lock=1280x720" />
+    <title lang="en">Astrology Show</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261109043000 +0000" stop="20261109050000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">News @ 10</title>
@@ -6068,9 +6068,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p23333632_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109050000 +0000" stop="20261109053000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Viral No Vayro</title>
-    <desc lang="en">The host discusses the latest videos that have gone viral on social media networks.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p15471703_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News 18 Special</title>
+    <desc lang="en">The host presents a detailed analysis of some of the major stories of the day.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p13816405_b_h8_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">11 Vagya Ni 11 Khabar</title>
@@ -6098,9 +6098,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p20517437_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109080000 +0000" stop="20261109083000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Viral No Vayro</title>
-    <desc lang="en">The host discusses the latest videos that have gone viral on social media networks.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p15471703_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Aparadh</title>
+    <desc lang="en">The host presents the latest news and headlines on issues related to crime.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30750307_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">Afternoon Prime Time</title>
@@ -6108,14 +6108,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p20517437_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109090000 +0000" stop="20261109093000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Crime Report</title>
-    <desc lang="en">The host presents various stories of crimes committed across the country.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p13535504_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Astrology Show</title>
+    <desc lang="en">.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
   </programme>
   <programme start="20261109093000 +0000" stop="20261109100000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">News @ 3</title>
-    <desc lang="en">The host presents the latest news updates and developments of the day.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p20517459_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">3 Vagye Tanatan Samchar</title>
+    <desc lang="en">The host covers social, economic and political issues and updates on current events.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30361072_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109100000 +0000" stop="20261109103000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">Muddo Viral Che</title>
@@ -6128,14 +6128,14 @@
     <icon src="https://ttpl.tmsimg.com/assets/p18762700_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109110000 +0000" stop="20261109113000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Sur Yatra</title>
-    <desc lang="en">A comprehensive compilation of devotional songs is played back-to-back.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p17605197_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Sangeet Safar</title>
+    <desc lang="en">A comprehensive collection of Gujarati songs by various artists is played back-to-back.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p18762700_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109113000 +0000" stop="20261109120000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">News @ 5</title>
-    <desc lang="en">The host presents information about the social, economic and political issues of the day.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p17107056_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">5 Vagye Pakki Khabar</title>
+    <desc lang="en">The host presents a detailed report about the latest news stories.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30361073_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109120000 +0000" stop="20261109123000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">Samachar Superfast</title>
@@ -6158,9 +6158,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p27638550_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109140000 +0000" stop="20261109143000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Muddo Viral Che</title>
-    <desc lang="en">The host sheds light on the news updates regarding trending topics.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p23493619_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Gujarat Superfast</title>
+    <desc lang="en">.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p15585883_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">Ground Report</title>
@@ -6183,21 +6183,16 @@
     <icon src="https://ttpl.tmsimg.com/assets/p19471710_b_h8_al.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Divas Ni Top 100</title>
-    <desc lang="en">The host provides an overview of current events and important news updates.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p24552746_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Aparadh</title>
+    <desc lang="en">The host presents the latest news and headlines on issues related to crime.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p30750307_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">Viral No Vayro</title>
     <desc lang="en">The host discusses the latest videos that have gone viral on social media networks.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p15471703_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261109173000 +0000" stop="20261109180000 +0000" channel="News18Gujarati.in@SD">
-    <title lang="en">Kasumbal Dayro</title>
-    <desc lang="en">The host sheds light on an event wherein professional musicians perform spiritual songs.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p18120023_b_h10_aa.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109183000 +0000" channel="News18Gujarati.in@SD">
+  <programme start="20261109173000 +0000" stop="20261109183000 +0000" channel="News18Gujarati.in@SD">
     <title lang="en">Kasumbal Dayro</title>
     <desc lang="en">The host sheds light on an event wherein professional musicians perform spiritual songs.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p18120023_b_h10_aa.jpg?lock=1280x720" />
