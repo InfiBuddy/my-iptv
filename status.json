@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T07:36:08+00:00",
+  "updated": "2026-11-10T13:28:08+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
@@ -8,7 +8,6 @@
     "AajTak.in@SD",
     "News24.in@SD",
     "NewsX.in@SD",
-    "SandeshNews.in@SD",
     "TimesNow.in@SD"
   ],
   "detail": [
@@ -136,7 +135,7 @@
       "key": "SandeshNews.in@SD",
       "name": "Sandesh News",
       "streams_available": 1,
-      "best_stream_ok": false
+      "best_stream_ok": true
     },
     {
       "key": "TimesNow.in@SD",
