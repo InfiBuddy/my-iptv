@@ -1,11 +1,12 @@
 {
-  "updated": "2026-11-13T07:40:53+00:00",
+  "updated": "2026-11-13T13:32:33+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
   ],
   "unreachable_from_github": [
     "AajTak.in@SD",
+    "News18India.in@SD",
     "News24.in@SD",
     "NewsX.in@SD",
     "TimesNow.in@SD"
@@ -93,7 +94,7 @@
       "key": "News18India.in@SD",
       "name": "News18 India",
       "streams_available": 1,
-      "best_stream_ok": true
+      "best_stream_ok": false
     },
     {
       "key": "News24.in@SD",
