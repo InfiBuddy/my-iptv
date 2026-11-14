@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-14T01:27:42+00:00",
+  "updated": "2026-11-14T07:27:49+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
   ],
   "unreachable_from_github": [
     "AajTak.in@SD",
-    "GSTV.in@SD",
     "News24.in@SD",
     "NewsX.in@SD",
     "TimesNow.in@SD"
@@ -46,7 +45,7 @@
       "key": "GSTV.in@SD",
       "name": "GS TV",
       "streams_available": 1,
-      "best_stream_ok": false
+      "best_stream_ok": true
     },
     {
       "key": "GujaratFirst.in@SD",
