@@ -2228,44 +2228,44 @@
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115183000 +0000" stop="20261115193000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115193000 +0000" stop="20261115203000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night</title>
-    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Samachar</title>
+    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115203000 +0000" stop="20261115213000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Samachar</title>
-    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115213000 +0000" stop="20261115223000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night</title>
-    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
-  </programme>
-  <programme start="20261115223000 +0000" stop="20261115233000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
     <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
   </programme>
-  <programme start="20261115233000 +0000" stop="20261116003000 +0000" channel="DDNews.in@SD">
+  <programme start="20261115223000 +0000" stop="20261115233000 +0000" channel="DDNews.in@SD">
     <title lang="en">News Night</title>
     <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
+  <programme start="20261115233000 +0000" stop="20261116003000 +0000" channel="DDNews.in@SD">
+    <title lang="en">Samachar</title>
+    <desc lang="en">Presents the latest economic, social and political news from India and the world.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28985590_b_h8_aa.jpg?lock=1280x720" />
+  </programme>
   <programme start="20261116003000 +0000" stop="20261116010000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Live Aarti From Ram Mandir Ayodhya Ji</title>
-    <desc lang="en">Priests and devotees chant sacred verses and perform rituals to seek the blessings of Balak Ram.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30314321_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Good News Jabza India Ka</title>
+    <desc lang="en">Features information on the latest news stories and developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31549918_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261116010000 +0000" stop="20261116011500 +0000" channel="DDNews.in@SD">
-    <title lang="en">Sanskrit Vaarta</title>
-    <desc lang="en">Presents the latest news updates on politics and the economy in Sanskrit.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p26195697_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">Sanskrit Vaarta Samachar</title>
+    <desc lang="en">Bridges the ancient language and modern reportage to deliver current events in Sanskrit.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31252032_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261116011500 +0000" stop="20261116013000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar With HI</title>
@@ -2293,9 +2293,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p26195734_b_h10_ac.jpg?lock=1280x720" />
   </programme>
   <programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="DDNews.in@SD">
-    <title lang="en">Infinite India@dd News</title>
-    <desc lang="en">.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p33048351_b_h8_ab.jpg?lock=1280x720" />
+    <title lang="en">Total Health Podcast</title>
+    <desc lang="en">Explores diverse medical topics and treatments with a healthcare expert.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31262223_b_h10_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="DDNews.in@SD">
     <title lang="en">News@10</title>
@@ -2308,9 +2308,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p12682248_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261116053000 +0000" stop="20261116063000 +0000" channel="DDNews.in@SD">
-    <title lang="en">11 Baje Ka Live</title>
+    <title lang="en">11 Baje</title>
     <desc lang="en">.</desc>
-    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/9CE98AA579D90C681DE573A1779AA5A724B1834C1.jpg" />
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261116063000 +0000" stop="20261116070000 +0000" channel="DDNews.in@SD">
     <title lang="en">Samachar</title>
@@ -2378,9 +2378,9 @@
     <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/BF876F2EE0D41EE20F2F9D397D938190CCA6A6CE8.jpg" />
   </programme>
   <programme start="20261116143000 +0000" stop="20261116153000 +0000" channel="DDNews.in@SD">
-    <title lang="en">News Night in Hindi</title>
-    <desc lang="en">Delivers current affairs about commerce, athletics, governance and social matters globally.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p11804979_b_h8_aa.jpg?lock=1280x720" />
+    <title lang="en">News Night</title>
+    <desc lang="en">Offers detailed insights into major global and domestic developments.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p31251890_b_h8_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261116153000 +0000" stop="20261116163000 +0000" channel="DDNews.in@SD">
     <title lang="en">Decode</title>
@@ -4908,9 +4908,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115090000 +0000" stop="20261115093000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">NDTV Focus</title>
-    <desc lang="en">The host presents key topics with expert views to clarify complex matters.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p30749955_b_h8_ac.jpg?lock=1280x720" />
+    <title lang="en">Closing Arguments</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="http://imagestataplay.whatsonindia.com/dasimages/genreimage/landscape/1280x720/7FA35D1FD1C7D2D396A17F795C88004C9D68A02FM.jpg" />
   </programme>
   <programme start="20261115093000 +0000" stop="20261115100000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -4918,9 +4918,9 @@
     <icon src="https://ttpl.tmsimg.com/assets/p29697111_b_h10_ab.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="NDTV24x7.in@SD">
-    <title lang="en">Fault Lines</title>
-    <desc lang="en">The host converses with experts about current events as they share opinions on the matter.</desc>
-    <icon src="https://ttpl.tmsimg.com/assets/p29777104_b_h10_aa.jpg?lock=1280x720" />
+    <title lang="en">NDTV WORLD SUMMIT</title>
+    <desc lang="en">Global leaders and experts discuss India's role in shaping the future.</desc>
+    <icon src="https://ttpl.tmsimg.com/assets/p28581860_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115103000 +0000" stop="20261115110000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">News</title>
@@ -4934,12 +4934,12 @@
   </programme>
   <programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">Walk The Talk With Rahul Kanwal</title>
-    <desc lang="en">.</desc>
+    <desc lang="en">Rahul Kanwal engages in a conversation with Rajan Anandan and discusses several topics.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p32904800_b_h11_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115120000 +0000" stop="20261115123000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">Walk The Talk With Rahul Kanwal</title>
-    <desc lang="en">.</desc>
+    <desc lang="en">Rahul Kanwal engages in a conversation with Rajan Anandan and discusses several topics.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p32904800_b_h11_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="NDTV24x7.in@SD">
@@ -4964,22 +4964,22 @@
   </programme>
   <programme start="20261115143000 +0000" stop="20261115150000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">Walk The Talk With Rahul Kanwal</title>
-    <desc lang="en">.</desc>
+    <desc lang="en">Rahul Kanwal engages in an insightful conversation with Sunil Bharti Mittal.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p32904800_b_h11_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115150000 +0000" stop="20261115153000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">Walk The Talk With Rahul Kanwal</title>
-    <desc lang="en">.</desc>
+    <desc lang="en">Rahul Kanwal engages in an insightful conversation with Sunil Bharti Mittal.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p32904800_b_h11_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115153000 +0000" stop="20261115160000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">The Buck Stops Here</title>
-    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1199.</desc>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1198.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115160000 +0000" stop="20261115163000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">The Buck Stops Here</title>
-    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1199.</desc>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1198.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261115163000 +0000" stop="20261115170000 +0000" channel="NDTV24x7.in@SD">
@@ -5204,12 +5204,12 @@
   </programme>
   <programme start="20261116143000 +0000" stop="20261116150000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">The Buck Stops Here</title>
-    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1200.</desc>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1199.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261116150000 +0000" stop="20261116153000 +0000" channel="NDTV24x7.in@SD">
     <title lang="en">The Buck Stops Here</title>
-    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1200.</desc>
+    <desc lang="en">The host talks to prominent personalities about topical issues. S01 E1199.</desc>
     <icon src="https://ttpl.tmsimg.com/assets/p31089070_b_h8_aa.jpg?lock=1280x720" />
   </programme>
   <programme start="20261116153000 +0000" stop="20261116160000 +0000" channel="NDTV24x7.in@SD">
