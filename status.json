@@ -1,11 +1,10 @@
 {
-  "updated": "2026-11-16T19:21:30+00:00",
+  "updated": "2026-11-17T01:37:40+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
   ],
   "unreachable_from_github": [
-    "AajTak.in@SD",
     "News24.in@SD",
     "NewsX.in@SD",
     "TimesNow.in@SD"
@@ -15,7 +14,7 @@
       "key": "AajTak.in@SD",
       "name": "Aaj Tak",
       "streams_available": 1,
-      "best_stream_ok": false
+      "best_stream_ok": true
     },
     {
       "key": "ABPNews.in@SD",
