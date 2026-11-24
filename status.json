@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-24T10:05:25+00:00",
+  "updated": "2026-11-24T22:36:00+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
   ],
   "unreachable_from_github": [
-    "News18Gujarati.in@SD",
+    "GSTV.in@SD",
     "TimesNow.in@SD"
   ],
   "detail": [
@@ -43,7 +43,7 @@
       "key": "GSTV.in@SD",
       "name": "GS TV",
       "streams_available": 1,
-      "best_stream_ok": true
+      "best_stream_ok": false
     },
     {
       "key": "GujaratFirst.in@SD",
@@ -85,7 +85,7 @@
       "key": "News18Gujarati.in@SD",
       "name": "News18 Gujarati",
       "streams_available": 1,
-      "best_stream_ok": false
+      "best_stream_ok": true
     },
     {
       "key": "News18India.in@SD",
