@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-24T00:03:48+00:00",
+  "updated": "2026-11-24T10:05:25+00:00",
   "channels": 28,
   "missing_upstream": [
     "WION.in@SD"
   ],
   "unreachable_from_github": [
-    "NewsX.in@SD",
+    "News18Gujarati.in@SD",
     "TimesNow.in@SD"
   ],
   "detail": [
@@ -85,7 +85,7 @@
       "key": "News18Gujarati.in@SD",
       "name": "News18 Gujarati",
       "streams_available": 1,
-      "best_stream_ok": true
+      "best_stream_ok": false
     },
     {
       "key": "News18India.in@SD",
@@ -115,7 +115,7 @@
       "key": "NewsX.in@SD",
       "name": "NewsX",
       "streams_available": 1,
-      "best_stream_ok": false
+      "best_stream_ok": true
     },
     {
       "key": "RepublicBharat.in@SD",
